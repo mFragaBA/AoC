@@ -1,8 +1,6 @@
 import re
 
-FOUND = 1
 rules = {}
-count = 0
 
 def make_rule(ruleStr):
     pattern = r'(.*)\sbags\scontain\s(.*)'
@@ -50,6 +48,7 @@ with open('d7_input.txt', 'r') as infile:
         rule = make_rule(line.rstrip('.'))
         rules[rule[0]] = rule[1]
         
+    count = 0
     for item in rules:
         if item == 'shiny_gold':
             continue
