@@ -1,0 +1,4611 @@
+========
+striped_white_bags
+{}
+drab_silver
+{'striped_white_bags': 0}
+========
+drab_silver_bags
+{}
+========
+pale_plum_bags
+{}
+dark_black
+{'pale_plum_bags': 0}
+========
+muted_gold_bags
+{}
+wavy_red
+{'muted_gold_bags': 0}
+mirrored_violet
+{'muted_gold_bags': 0, 'wavy_red': 0}
+bright_gold
+{'muted_gold_bags': 0, 'wavy_red': 0, 'mirrored_violet': 0}
+plaid_white
+{'muted_gold_bags': 0, 'wavy_red': 0, 'mirrored_violet': 0, 'bright_gold': 0}
+========
+muted_teal_bags
+{}
+pale_beige
+{'muted_teal_bags': 0}
+clear_beige
+{'muted_teal_bags': 0, 'pale_beige': 0}
+dotted_gold
+{'muted_teal_bags': 0, 'pale_beige': 0, 'clear_beige': 0}
+posh_cyan
+{'muted_teal_bags': 0, 'pale_beige': 0, 'clear_beige': 0, 'dotted_gold': 0}
+========
+posh_coral_bags
+{}
+light_silver
+{'posh_coral_bags': 0}
+dull_blue
+{'posh_coral_bags': 0, 'light_silver': 0}
+dim_fuchsia
+{'posh_coral_bags': 0, 'light_silver': 0, 'dull_blue': 0}
+dotted_magenta
+{'posh_coral_bags': 0, 'light_silver': 0, 'dull_blue': 0, 'dim_fuchsia': 0}
+========
+faded_black_bags
+{}
+light_silver
+{'faded_black_bags': 0}
+========
+muted_lavender_bags
+{}
+pale_gold
+{'muted_lavender_bags': 0}
+========
+clear_fuchsia_bags
+{}
+dull_gray
+{'clear_fuchsia_bags': 0}
+shiny_indigo
+{'clear_fuchsia_bags': 0, 'dull_gray': 0}
+posh_olive
+{'clear_fuchsia_bags': 0, 'dull_gray': 0, 'shiny_indigo': 0}
+vibrant_plum
+{'clear_fuchsia_bags': 0, 'dull_gray': 0, 'shiny_indigo': 0, 'posh_olive': 0}
+========
+shiny_olive_bags
+{}
+dotted_gold
+{'shiny_olive_bags': 0}
+bright_violet
+{'shiny_olive_bags': 0, 'dotted_gold': 0}
+========
+vibrant_lavender_bags
+{}
+dotted_aqua
+{'vibrant_lavender_bags': 0}
+pale_chartreuse
+{'vibrant_lavender_bags': 0, 'dotted_aqua': 0}
+mirrored_blue
+{'vibrant_lavender_bags': 0, 'dotted_aqua': 0, 'pale_chartreuse': 0}
+========
+pale_fuchsia_bags
+{}
+pale_crimson
+{'pale_fuchsia_bags': 0}
+dull_teal
+{'pale_fuchsia_bags': 0, 'pale_crimson': 0}
+========
+clear_lavender_bags
+{}
+shiny_fuchsia
+{'clear_lavender_bags': 0}
+wavy_teal
+{'clear_lavender_bags': 0, 'shiny_fuchsia': 0}
+========
+light_chartreuse_bags
+{}
+mirrored_yellow
+{'light_chartreuse_bags': 0}
+bright_maroon
+{'light_chartreuse_bags': 0, 'mirrored_yellow': 0}
+========
+mirrored_white_bags
+{}
+bright_gray
+{'mirrored_white_bags': 0}
+plaid_blue
+{'mirrored_white_bags': 0, 'bright_gray': 0}
+========
+dark_teal_bags
+{}
+bright_maroon
+{'dark_teal_bags': 0}
+plaid_bronze
+{'dark_teal_bags': 0, 'bright_maroon': 0}
+dark_brown
+{'dark_teal_bags': 0, 'bright_maroon': 0, 'plaid_bronze': 0}
+========
+wavy_yellow_bags
+{}
+dim_silver
+{'wavy_yellow_bags': 0}
+striped_tomato
+{'wavy_yellow_bags': 0, 'dim_silver': 0}
+clear_chartreuse
+{'wavy_yellow_bags': 0, 'dim_silver': 0, 'striped_tomato': 0}
+========
+dark_turquoise_bags
+{}
+clear_plum
+{'dark_turquoise_bags': 0}
+========
+posh_gray_bags
+{}
+faded_purple
+{'posh_gray_bags': 0}
+faded_orange
+{'posh_gray_bags': 0, 'faded_purple': 0}
+========
+wavy_tomato_bags
+{}
+dark_purple
+{'wavy_tomato_bags': 0}
+========
+vibrant_gray_bags
+{}
+muted_gray
+{'vibrant_gray_bags': 0}
+dark_fuchsia
+{'vibrant_gray_bags': 0, 'muted_gray': 0}
+posh_white
+{'vibrant_gray_bags': 0, 'muted_gray': 0, 'dark_fuchsia': 0}
+posh_tomato
+{'vibrant_gray_bags': 0, 'muted_gray': 0, 'dark_fuchsia': 0, 'posh_white': 0}
+========
+light_crimson_bags
+{}
+dotted_chartreuse
+{'light_crimson_bags': 0}
+========
+dull_gray_bags
+{}
+muted_brown
+{'dull_gray_bags': 0}
+shiny_blue
+{'dull_gray_bags': 0, 'muted_brown': 0}
+dim_crimson
+{'dull_gray_bags': 0, 'muted_brown': 0, 'shiny_blue': 0}
+========
+drab_red_bags
+{}
+bright_cyan
+{'drab_red_bags': 0}
+pale_brown
+{'drab_red_bags': 0, 'bright_cyan': 0}
+========
+dotted_salmon_bags
+{}
+mirrored_indigo
+{'dotted_salmon_bags': 0}
+========
+vibrant_green_bags
+{}
+dark_coral
+{'vibrant_green_bags': 0}
+========
+light_magenta_bags
+{}
+clear_bronze
+{'light_magenta_bags': 0}
+dull_teal
+{'light_magenta_bags': 0, 'clear_bronze': 0}
+posh_salmon
+{'light_magenta_bags': 0, 'clear_bronze': 0, 'dull_teal': 0}
+========
+vibrant_purple_bags
+{}
+posh_plum
+{'vibrant_purple_bags': 0}
+bright_gray
+{'vibrant_purple_bags': 0, 'posh_plum': 0}
+========
+posh_lime_bags
+{}
+plaid_yellow
+{'posh_lime_bags': 0}
+posh_salmon
+{'posh_lime_bags': 0, 'plaid_yellow': 0}
+========
+bright_white_bags
+{}
+dull_aqua
+{'bright_white_bags': 0}
+shiny_silver
+{'bright_white_bags': 0, 'dull_aqua': 0}
+========
+faded_blue_bags
+{}
+muted_cyan
+{'faded_blue_bags': 0}
+mirrored_coral
+{'faded_blue_bags': 0, 'muted_cyan': 0}
+========
+dim_green_bags
+{}
+posh_lavender
+{'dim_green_bags': 0}
+========
+faded_gray_bags
+{}
+dark_gold
+{'faded_gray_bags': 0}
+drab_turquoise
+{'faded_gray_bags': 0, 'dark_gold': 0}
+========
+wavy_black_bags
+{}
+dim_fuchsia
+{'wavy_black_bags': 0}
+muted_orange
+{'wavy_black_bags': 0, 'dim_fuchsia': 0}
+drab_salmon
+{'wavy_black_bags': 0, 'dim_fuchsia': 0, 'muted_orange': 0}
+========
+plaid_plum_bags
+{}
+dotted_tomato
+{'plaid_plum_bags': 0}
+shiny_beige
+{'plaid_plum_bags': 0, 'dotted_tomato': 0}
+========
+bright_tan_bags
+{}
+posh_salmon
+{'bright_tan_bags': 0}
+========
+wavy_gold_bags
+{}
+faded_olive
+{'wavy_gold_bags': 0}
+vibrant_black
+{'wavy_gold_bags': 0, 'faded_olive': 0}
+dull_orange
+{'wavy_gold_bags': 0, 'faded_olive': 0, 'vibrant_black': 0}
+========
+dull_fuchsia_bags
+{}
+faded_crimson
+{'dull_fuchsia_bags': 0}
+vibrant_white
+{'dull_fuchsia_bags': 0, 'faded_crimson': 0}
+========
+shiny_maroon_bags
+{}
+dull_lavender
+{'shiny_maroon_bags': 0}
+dim_white
+{'shiny_maroon_bags': 0, 'dull_lavender': 0}
+========
+wavy_white_bags
+{}
+light_teal
+{'wavy_white_bags': 0}
+dim_salmon
+{'wavy_white_bags': 0, 'light_teal': 0}
+dotted_red
+{'wavy_white_bags': 0, 'light_teal': 0, 'dim_salmon': 0}
+dark_red
+{'wavy_white_bags': 0, 'light_teal': 0, 'dim_salmon': 0, 'dotted_red': 0}
+========
+dim_cyan_bags
+{}
+muted_orange
+{'dim_cyan_bags': 0}
+========
+muted_cyan_bags
+{}
+dull_turquoise
+{'muted_cyan_bags': 0}
+posh_gray
+{'muted_cyan_bags': 0, 'dull_turquoise': 0}
+clear_turquoise
+{'muted_cyan_bags': 0, 'dull_turquoise': 0, 'posh_gray': 0}
+shiny_plum
+{'muted_cyan_bags': 0, 'dull_turquoise': 0, 'posh_gray': 0, 'clear_turquoise': 0}
+========
+posh_violet_bags
+{}
+plaid_crimson
+{'posh_violet_bags': 0}
+muted_purple
+{'posh_violet_bags': 0, 'plaid_crimson': 0}
+wavy_beige
+{'posh_violet_bags': 0, 'plaid_crimson': 0, 'muted_purple': 0}
+mirrored_orange
+{'posh_violet_bags': 0, 'plaid_crimson': 0, 'muted_purple': 0, 'wavy_beige': 0}
+========
+faded_purple_bags
+{}
+plaid_blue
+{'faded_purple_bags': 0}
+dull_lavender
+{'faded_purple_bags': 0, 'plaid_blue': 0}
+muted_orange
+{'faded_purple_bags': 0, 'plaid_blue': 0, 'dull_lavender': 0}
+dotted_tomato
+{'faded_purple_bags': 0, 'plaid_blue': 0, 'dull_lavender': 0, 'muted_orange': 0}
+========
+wavy_beige_bags
+{}
+dotted_beige
+{'wavy_beige_bags': 0}
+========
+dim_black_bags
+{}
+wavy_blue
+{'dim_black_bags': 0}
+plaid_black
+{'dim_black_bags': 0, 'wavy_blue': 0}
+pale_lavender
+{'dim_black_bags': 0, 'wavy_blue': 0, 'plaid_black': 0}
+light_violet
+{'dim_black_bags': 0, 'wavy_blue': 0, 'plaid_black': 0, 'pale_lavender': 0}
+========
+dotted_lavender_bags
+{}
+plaid_blue
+{'dotted_lavender_bags': 0}
+dim_crimson
+{'dotted_lavender_bags': 0, 'plaid_blue': 0}
+========
+dark_yellow_bags
+{}
+posh_green
+{'dark_yellow_bags': 0}
+========
+wavy_salmon_bags
+{}
+clear_aqua
+{'wavy_salmon_bags': 0}
+mirrored_crimson
+{'wavy_salmon_bags': 0, 'clear_aqua': 0}
+pale_magenta
+{'wavy_salmon_bags': 0, 'clear_aqua': 0, 'mirrored_crimson': 0}
+dull_teal
+{'wavy_salmon_bags': 0, 'clear_aqua': 0, 'mirrored_crimson': 0, 'pale_magenta': 0}
+========
+clear_silver_bags
+{}
+faded_tan
+{'clear_silver_bags': 0}
+faded_aqua
+{'clear_silver_bags': 0, 'faded_tan': 0}
+clear_tomato
+{'clear_silver_bags': 0, 'faded_tan': 0, 'faded_aqua': 0}
+========
+vibrant_bronze_bags
+{}
+faded_maroon
+{'vibrant_bronze_bags': 0}
+plaid_indigo
+{'vibrant_bronze_bags': 0, 'faded_maroon': 0}
+bright_purple
+{'vibrant_bronze_bags': 0, 'faded_maroon': 0, 'plaid_indigo': 0}
+dim_violet
+{'vibrant_bronze_bags': 0, 'faded_maroon': 0, 'plaid_indigo': 0, 'bright_purple': 0}
+========
+pale_brown_bags
+{}
+dull_lavender
+{'pale_brown_bags': 0}
+clear_turquoise
+{'pale_brown_bags': 0, 'dull_lavender': 0}
+========
+faded_salmon_bags
+{}
+pale_silver
+{'faded_salmon_bags': 0}
+========
+dark_gray_bags
+{}
+pale_teal
+{'dark_gray_bags': 0}
+========
+posh_red_bags
+{}
+faded_black
+{'posh_red_bags': 0}
+dull_red
+{'posh_red_bags': 0, 'faded_black': 0}
+========
+dim_indigo_bags
+{}
+bright_green
+{'dim_indigo_bags': 0}
+dotted_tomato
+{'dim_indigo_bags': 0, 'bright_green': 0}
+bright_magenta
+{'dim_indigo_bags': 0, 'bright_green': 0, 'dotted_tomato': 0}
+========
+dull_maroon_bags
+{}
+light_green
+{'dull_maroon_bags': 0}
+========
+wavy_teal_bags
+{}
+faded_tan
+{'wavy_teal_bags': 0}
+clear_orange
+{'wavy_teal_bags': 0, 'faded_tan': 0}
+========
+pale_chartreuse_bags
+{}
+bright_blue
+{'pale_chartreuse_bags': 0}
+light_indigo
+{'pale_chartreuse_bags': 0, 'bright_blue': 0}
+shiny_white
+{'pale_chartreuse_bags': 0, 'bright_blue': 0, 'light_indigo': 0}
+wavy_bronze
+{'pale_chartreuse_bags': 0, 'bright_blue': 0, 'light_indigo': 0, 'shiny_white': 0}
+========
+mirrored_gray_bags
+{}
+vibrant_tomato
+{'mirrored_gray_bags': 0}
+dark_red
+{'mirrored_gray_bags': 0, 'vibrant_tomato': 0}
+drab_silver
+{'mirrored_gray_bags': 0, 'vibrant_tomato': 0, 'dark_red': 0}
+posh_magenta
+{'mirrored_gray_bags': 0, 'vibrant_tomato': 0, 'dark_red': 0, 'drab_silver': 0}
+========
+dark_lavender_bags
+{}
+dotted_white
+{'dark_lavender_bags': 0}
+vibrant_chartreuse
+{'dark_lavender_bags': 0, 'dotted_white': 0}
+dim_teal
+{'dark_lavender_bags': 0, 'dotted_white': 0, 'vibrant_chartreuse': 0}
+========
+shiny_turquoise_bags
+{}
+dim_lime
+{'shiny_turquoise_bags': 0}
+bright_cyan
+{'shiny_turquoise_bags': 0, 'dim_lime': 0}
+pale_green
+{'shiny_turquoise_bags': 0, 'dim_lime': 0, 'bright_cyan': 0}
+========
+shiny_indigo_bags
+{}
+dark_fuchsia
+{'shiny_indigo_bags': 0}
+posh_chartreuse
+{'shiny_indigo_bags': 0, 'dark_fuchsia': 0}
+========
+pale_crimson_bags
+{}
+mirrored_silver
+{'pale_crimson_bags': 0}
+posh_black
+{'pale_crimson_bags': 0, 'mirrored_silver': 0}
+========
+light_salmon_bags
+{}
+vibrant_orange
+{'light_salmon_bags': 0}
+dotted_red
+{'light_salmon_bags': 0, 'vibrant_orange': 0}
+========
+plaid_orange_bags
+{}
+dotted_turquoise
+{'plaid_orange_bags': 0}
+vibrant_brown
+{'plaid_orange_bags': 0, 'dotted_turquoise': 0}
+========
+dim_maroon_bags
+{}
+shiny_gold
+{'dim_maroon_bags': 0}
+========
+muted_green_bags
+{}
+plaid_plum
+{'muted_green_bags': 0}
+========
+faded_indigo_bags
+{}
+faded_purple
+{'faded_indigo_bags': 0}
+vibrant_indigo
+{'faded_indigo_bags': 0, 'faded_purple': 0}
+light_coral
+{'faded_indigo_bags': 0, 'faded_purple': 0, 'vibrant_indigo': 0}
+========
+dull_blue_bags
+{}
+dull_salmon
+{'dull_blue_bags': 0}
+wavy_magenta
+{'dull_blue_bags': 0, 'dull_salmon': 0}
+========
+vibrant_black_bags
+{}
+light_coral
+{'vibrant_black_bags': 0}
+vibrant_cyan
+{'vibrant_black_bags': 0, 'light_coral': 0}
+dim_magenta
+{'vibrant_black_bags': 0, 'light_coral': 0, 'vibrant_cyan': 0}
+========
+striped_lime_bags
+{}
+striped_maroon
+{'striped_lime_bags': 0}
+vibrant_brown
+{'striped_lime_bags': 0, 'striped_maroon': 0}
+========
+drab_brown_bags
+{}
+faded_olive
+{'drab_brown_bags': 0}
+dotted_beige
+{'drab_brown_bags': 0, 'faded_olive': 0}
+========
+dark_plum_bags
+{}
+faded_brown
+{'dark_plum_bags': 0}
+========
+clear_olive_bags
+{}
+dull_aqua
+{'clear_olive_bags': 0}
+drab_yellow
+{'clear_olive_bags': 0, 'dull_aqua': 0}
+========
+wavy_crimson_bags
+{}
+posh_plum
+{'wavy_crimson_bags': 0}
+dull_aqua
+{'wavy_crimson_bags': 0, 'posh_plum': 0}
+shiny_teal
+{'wavy_crimson_bags': 0, 'posh_plum': 0, 'dull_aqua': 0}
+vibrant_purple
+{'wavy_crimson_bags': 0, 'posh_plum': 0, 'dull_aqua': 0, 'shiny_teal': 0}
+========
+mirrored_olive_bags
+{}
+wavy_gold
+{'mirrored_olive_bags': 0}
+========
+dim_crimson_bags
+{}
+========
+faded_plum_bags
+{}
+plaid_indigo
+{'faded_plum_bags': 0}
+========
+light_maroon_bags
+{}
+vibrant_orange
+{'light_maroon_bags': 0}
+clear_olive
+{'light_maroon_bags': 0, 'vibrant_orange': 0}
+clear_brown
+{'light_maroon_bags': 0, 'vibrant_orange': 0, 'clear_olive': 0}
+pale_black
+{'light_maroon_bags': 0, 'vibrant_orange': 0, 'clear_olive': 0, 'clear_brown': 0}
+========
+posh_white_bags
+{}
+dull_green
+{'posh_white_bags': 0}
+clear_brown
+{'posh_white_bags': 0, 'dull_green': 0}
+========
+drab_black_bags
+{}
+shiny_turquoise
+{'drab_black_bags': 0}
+========
+light_purple_bags
+{}
+pale_black
+{'light_purple_bags': 0}
+light_silver
+{'light_purple_bags': 0, 'pale_black': 0}
+drab_coral
+{'light_purple_bags': 0, 'pale_black': 0, 'light_silver': 0}
+========
+pale_yellow_bags
+{}
+vibrant_orange
+{'pale_yellow_bags': 0}
+posh_black
+{'pale_yellow_bags': 0, 'vibrant_orange': 0}
+vibrant_tomato
+{'pale_yellow_bags': 0, 'vibrant_orange': 0, 'posh_black': 0}
+dotted_lavender
+{'pale_yellow_bags': 0, 'vibrant_orange': 0, 'posh_black': 0, 'vibrant_tomato': 0}
+========
+dull_cyan_bags
+{}
+wavy_beige
+{'dull_cyan_bags': 0}
+dull_yellow
+{'dull_cyan_bags': 0, 'wavy_beige': 0}
+drab_lime
+{'dull_cyan_bags': 0, 'wavy_beige': 0, 'dull_yellow': 0}
+drab_chartreuse
+{'dull_cyan_bags': 0, 'wavy_beige': 0, 'dull_yellow': 0, 'drab_lime': 0}
+========
+drab_lavender_bags
+{}
+plaid_black
+{'drab_lavender_bags': 0}
+dotted_gray
+{'drab_lavender_bags': 0, 'plaid_black': 0}
+dim_silver
+{'drab_lavender_bags': 0, 'plaid_black': 0, 'dotted_gray': 0}
+shiny_gold
+{'drab_lavender_bags': 0, 'plaid_black': 0, 'dotted_gray': 0, 'dim_silver': 0}
+========
+striped_brown_bags
+{}
+light_maroon
+{'striped_brown_bags': 0}
+light_red
+{'striped_brown_bags': 0, 'light_maroon': 0}
+clear_indigo
+{'striped_brown_bags': 0, 'light_maroon': 0, 'light_red': 0}
+========
+drab_tomato_bags
+{}
+light_black
+{'drab_tomato_bags': 0}
+clear_salmon
+{'drab_tomato_bags': 0, 'light_black': 0}
+========
+dotted_red_bags
+{}
+dim_salmon
+{'dotted_red_bags': 0}
+striped_indigo
+{'dotted_red_bags': 0, 'dim_salmon': 0}
+========
+vibrant_teal_bags
+{}
+bright_black
+{'vibrant_teal_bags': 0}
+dark_purple
+{'vibrant_teal_bags': 0, 'bright_black': 0}
+bright_turquoise
+{'vibrant_teal_bags': 0, 'bright_black': 0, 'dark_purple': 0}
+========
+striped_teal_bags
+{}
+mirrored_silver
+{'striped_teal_bags': 0}
+========
+dull_beige_bags
+{}
+clear_olive
+{'dull_beige_bags': 0}
+light_teal
+{'dull_beige_bags': 0, 'clear_olive': 0}
+bright_plum
+{'dull_beige_bags': 0, 'clear_olive': 0, 'light_teal': 0}
+dotted_lavender
+{'dull_beige_bags': 0, 'clear_olive': 0, 'light_teal': 0, 'bright_plum': 0}
+========
+light_violet_bags
+{}
+dull_lavender
+{'light_violet_bags': 0}
+bright_gray
+{'light_violet_bags': 0, 'dull_lavender': 0}
+vibrant_orange
+{'light_violet_bags': 0, 'dull_lavender': 0, 'bright_gray': 0}
+wavy_magenta
+{'light_violet_bags': 0, 'dull_lavender': 0, 'bright_gray': 0, 'vibrant_orange': 0}
+========
+dim_brown_bags
+{}
+clear_plum
+{'dim_brown_bags': 0}
+shiny_teal
+{'dim_brown_bags': 0, 'clear_plum': 0}
+posh_salmon
+{'dim_brown_bags': 0, 'clear_plum': 0, 'shiny_teal': 0}
+========
+striped_magenta_bags
+{}
+posh_turquoise
+{'striped_magenta_bags': 0}
+pale_cyan
+{'striped_magenta_bags': 0, 'posh_turquoise': 0}
+faded_indigo
+{'striped_magenta_bags': 0, 'posh_turquoise': 0, 'pale_cyan': 0}
+========
+bright_orange_bags
+{}
+plaid_gray
+{'bright_orange_bags': 0}
+dark_black
+{'bright_orange_bags': 0, 'plaid_gray': 0}
+faded_red
+{'bright_orange_bags': 0, 'plaid_gray': 0, 'dark_black': 0}
+bright_black
+{'bright_orange_bags': 0, 'plaid_gray': 0, 'dark_black': 0, 'faded_red': 0}
+========
+muted_olive_bags
+{}
+dotted_crimson
+{'muted_olive_bags': 0}
+faded_lavender
+{'muted_olive_bags': 0, 'dotted_crimson': 0}
+vibrant_gray
+{'muted_olive_bags': 0, 'dotted_crimson': 0, 'faded_lavender': 0}
+========
+plaid_teal_bags
+{}
+light_yellow
+{'plaid_teal_bags': 0}
+drab_cyan
+{'plaid_teal_bags': 0, 'light_yellow': 0}
+light_green
+{'plaid_teal_bags': 0, 'light_yellow': 0, 'drab_cyan': 0}
+========
+faded_fuchsia_bags
+{}
+posh_silver
+{'faded_fuchsia_bags': 0}
+drab_chartreuse
+{'faded_fuchsia_bags': 0, 'posh_silver': 0}
+drab_teal
+{'faded_fuchsia_bags': 0, 'posh_silver': 0, 'drab_chartreuse': 0}
+========
+dim_silver_bags
+{}
+pale_turquoise
+{'dim_silver_bags': 0}
+========
+bright_lime_bags
+{}
+striped_silver
+{'bright_lime_bags': 0}
+muted_teal
+{'bright_lime_bags': 0, 'striped_silver': 0}
+shiny_tan
+{'bright_lime_bags': 0, 'striped_silver': 0, 'muted_teal': 0}
+dark_silver
+{'bright_lime_bags': 0, 'striped_silver': 0, 'muted_teal': 0, 'shiny_tan': 0}
+========
+dotted_green_bags
+{}
+posh_green
+{'dotted_green_bags': 0}
+drab_yellow
+{'dotted_green_bags': 0, 'posh_green': 0}
+========
+drab_purple_bags
+{}
+bright_violet
+{'drab_purple_bags': 0}
+posh_tomato
+{'drab_purple_bags': 0, 'bright_violet': 0}
+========
+dull_bronze_bags
+{}
+mirrored_black
+{'dull_bronze_bags': 0}
+========
+striped_tomato_bags
+{}
+posh_gray
+{'striped_tomato_bags': 0}
+posh_magenta
+{'striped_tomato_bags': 0, 'posh_gray': 0}
+========
+bright_crimson_bags
+{}
+light_olive
+{'bright_crimson_bags': 0}
+clear_tan
+{'bright_crimson_bags': 0, 'light_olive': 0}
+drab_fuchsia
+{'bright_crimson_bags': 0, 'light_olive': 0, 'clear_tan': 0}
+========
+bright_turquoise_bags
+{}
+pale_teal
+{'bright_turquoise_bags': 0}
+drab_silver
+{'bright_turquoise_bags': 0, 'pale_teal': 0}
+========
+shiny_lavender_bags
+{}
+striped_lime
+{'shiny_lavender_bags': 0}
+plaid_tomato
+{'shiny_lavender_bags': 0, 'striped_lime': 0}
+faded_orange
+{'shiny_lavender_bags': 0, 'striped_lime': 0, 'plaid_tomato': 0}
+wavy_magenta
+{'shiny_lavender_bags': 0, 'striped_lime': 0, 'plaid_tomato': 0, 'faded_orange': 0}
+========
+light_tomato_bags
+{}
+dotted_olive
+{'light_tomato_bags': 0}
+========
+wavy_magenta_bags
+{}
+========
+vibrant_fuchsia_bags
+{}
+posh_brown
+{'vibrant_fuchsia_bags': 0}
+plaid_indigo
+{'vibrant_fuchsia_bags': 0, 'posh_brown': 0}
+========
+dark_tomato_bags
+{}
+shiny_plum
+{'dark_tomato_bags': 0}
+========
+pale_bronze_bags
+{}
+plaid_black
+{'pale_bronze_bags': 0}
+vibrant_brown
+{'pale_bronze_bags': 0, 'plaid_black': 0}
+dim_lime
+{'pale_bronze_bags': 0, 'plaid_black': 0, 'vibrant_brown': 0}
+muted_bronze
+{'pale_bronze_bags': 0, 'plaid_black': 0, 'vibrant_brown': 0, 'dim_lime': 0}
+========
+striped_fuchsia_bags
+{}
+muted_brown
+{'striped_fuchsia_bags': 0}
+pale_chartreuse
+{'striped_fuchsia_bags': 0, 'muted_brown': 0}
+dim_magenta
+{'striped_fuchsia_bags': 0, 'muted_brown': 0, 'pale_chartreuse': 0}
+========
+dark_brown_bags
+{}
+clear_bronze
+{'dark_brown_bags': 0}
+========
+posh_teal_bags
+{}
+dotted_plum
+{'posh_teal_bags': 0}
+drab_gray
+{'posh_teal_bags': 0, 'dotted_plum': 0}
+dull_fuchsia
+{'posh_teal_bags': 0, 'dotted_plum': 0, 'drab_gray': 0}
+========
+wavy_turquoise_bags
+{}
+dull_lavender
+{'wavy_turquoise_bags': 0}
+========
+striped_maroon_bags
+{}
+muted_yellow
+{'striped_maroon_bags': 0}
+clear_orange
+{'striped_maroon_bags': 0, 'muted_yellow': 0}
+vibrant_orange
+{'striped_maroon_bags': 0, 'muted_yellow': 0, 'clear_orange': 0}
+========
+shiny_green_bags
+{}
+muted_brown
+{'shiny_green_bags': 0}
+vibrant_black
+{'shiny_green_bags': 0, 'muted_brown': 0}
+wavy_cyan
+{'shiny_green_bags': 0, 'muted_brown': 0, 'vibrant_black': 0}
+posh_brown
+{'shiny_green_bags': 0, 'muted_brown': 0, 'vibrant_black': 0, 'wavy_cyan': 0}
+========
+plaid_salmon_bags
+{}
+mirrored_indigo
+{'plaid_salmon_bags': 0}
+wavy_white
+{'plaid_salmon_bags': 0, 'mirrored_indigo': 0}
+mirrored_bronze
+{'plaid_salmon_bags': 0, 'mirrored_indigo': 0, 'wavy_white': 0}
+light_coral
+{'plaid_salmon_bags': 0, 'mirrored_indigo': 0, 'wavy_white': 0, 'mirrored_bronze': 0}
+========
+dotted_magenta_bags
+{}
+light_olive
+{'dotted_magenta_bags': 0}
+dark_red
+{'dotted_magenta_bags': 0, 'light_olive': 0}
+clear_green
+{'dotted_magenta_bags': 0, 'light_olive': 0, 'dark_red': 0}
+dim_plum
+{'dotted_magenta_bags': 0, 'light_olive': 0, 'dark_red': 0, 'clear_green': 0}
+========
+light_orange_bags
+{}
+dark_plum
+{'light_orange_bags': 0}
+bright_maroon
+{'light_orange_bags': 0, 'dark_plum': 0}
+dotted_lime
+{'light_orange_bags': 0, 'dark_plum': 0, 'bright_maroon': 0}
+========
+clear_brown_bags
+{}
+dim_white
+{'clear_brown_bags': 0}
+posh_magenta
+{'clear_brown_bags': 0, 'dim_white': 0}
+========
+vibrant_turquoise_bags
+{}
+striped_yellow
+{'vibrant_turquoise_bags': 0}
+mirrored_crimson
+{'vibrant_turquoise_bags': 0, 'striped_yellow': 0}
+========
+muted_coral_bags
+{}
+wavy_gold
+{'muted_coral_bags': 0}
+dim_tan
+{'muted_coral_bags': 0, 'wavy_gold': 0}
+shiny_green
+{'muted_coral_bags': 0, 'wavy_gold': 0, 'dim_tan': 0}
+========
+plaid_crimson_bags
+{}
+dull_aqua
+{'plaid_crimson_bags': 0}
+========
+vibrant_plum_bags
+{}
+striped_tomato
+{'vibrant_plum_bags': 0}
+striped_turquoise
+{'vibrant_plum_bags': 0, 'striped_tomato': 0}
+========
+dark_coral_bags
+{}
+posh_black
+{'dark_coral_bags': 0}
+shiny_beige
+{'dark_coral_bags': 0, 'posh_black': 0}
+pale_brown
+{'dark_coral_bags': 0, 'posh_black': 0, 'shiny_beige': 0}
+========
+mirrored_brown_bags
+{}
+clear_blue
+{'mirrored_brown_bags': 0}
+dull_indigo
+{'mirrored_brown_bags': 0, 'clear_blue': 0}
+========
+bright_blue_bags
+{}
+light_violet
+{'bright_blue_bags': 0}
+dotted_tomato
+{'bright_blue_bags': 0, 'light_violet': 0}
+========
+drab_cyan_bags
+{}
+dim_turquoise
+{'drab_cyan_bags': 0}
+clear_violet
+{'drab_cyan_bags': 0, 'dim_turquoise': 0}
+========
+dotted_coral_bags
+{}
+dotted_aqua
+{'dotted_coral_bags': 0}
+========
+shiny_yellow_bags
+{}
+wavy_cyan
+{'shiny_yellow_bags': 0}
+========
+shiny_red_bags
+{}
+shiny_beige
+{'shiny_red_bags': 0}
+dotted_lime
+{'shiny_red_bags': 0, 'shiny_beige': 0}
+dotted_plum
+{'shiny_red_bags': 0, 'shiny_beige': 0, 'dotted_lime': 0}
+========
+muted_lime_bags
+{}
+dark_turquoise
+{'muted_lime_bags': 0}
+bright_chartreuse
+{'muted_lime_bags': 0, 'dark_turquoise': 0}
+========
+pale_gray_bags
+{}
+dotted_coral
+{'pale_gray_bags': 0}
+wavy_teal
+{'pale_gray_bags': 0, 'dotted_coral': 0}
+clear_aqua
+{'pale_gray_bags': 0, 'dotted_coral': 0, 'wavy_teal': 0}
+========
+pale_blue_bags
+{}
+dull_salmon
+{'pale_blue_bags': 0}
+posh_bronze
+{'pale_blue_bags': 0, 'dull_salmon': 0}
+vibrant_tomato
+{'pale_blue_bags': 0, 'dull_salmon': 0, 'posh_bronze': 0}
+========
+dim_turquoise_bags
+{}
+posh_aqua
+{'dim_turquoise_bags': 0}
+dark_turquoise
+{'dim_turquoise_bags': 0, 'posh_aqua': 0}
+========
+pale_turquoise_bags
+{}
+vibrant_brown
+{'pale_turquoise_bags': 0}
+shiny_maroon
+{'pale_turquoise_bags': 0, 'vibrant_brown': 0}
+========
+dim_gray_bags
+{}
+faded_tomato
+{'dim_gray_bags': 0}
+faded_indigo
+{'dim_gray_bags': 0, 'faded_tomato': 0}
+========
+clear_aqua_bags
+{}
+light_turquoise
+{'clear_aqua_bags': 0}
+dotted_turquoise
+{'clear_aqua_bags': 0, 'light_turquoise': 0}
+========
+faded_turquoise_bags
+{}
+muted_lime
+{'faded_turquoise_bags': 0}
+========
+clear_plum_bags
+{}
+plaid_indigo
+{'clear_plum_bags': 0}
+drab_yellow
+{'clear_plum_bags': 0, 'plaid_indigo': 0}
+========
+vibrant_white_bags
+{}
+bright_violet
+{'vibrant_white_bags': 0}
+dark_plum
+{'vibrant_white_bags': 0, 'bright_violet': 0}
+dim_plum
+{'vibrant_white_bags': 0, 'bright_violet': 0, 'dark_plum': 0}
+plaid_indigo
+{'vibrant_white_bags': 0, 'bright_violet': 0, 'dark_plum': 0, 'dim_plum': 0}
+========
+dark_orange_bags
+{}
+posh_purple
+{'dark_orange_bags': 0}
+clear_orange
+{'dark_orange_bags': 0, 'posh_purple': 0}
+dim_white
+{'dark_orange_bags': 0, 'posh_purple': 0, 'clear_orange': 0}
+========
+light_olive_bags
+{}
+drab_green
+{'light_olive_bags': 0}
+========
+muted_salmon_bags
+{}
+muted_cyan
+{'muted_salmon_bags': 0}
+========
+clear_maroon_bags
+{}
+muted_yellow
+{'clear_maroon_bags': 0}
+plaid_crimson
+{'clear_maroon_bags': 0, 'muted_yellow': 0}
+clear_turquoise
+{'clear_maroon_bags': 0, 'muted_yellow': 0, 'plaid_crimson': 0}
+========
+wavy_orange_bags
+{}
+vibrant_blue
+{'wavy_orange_bags': 0}
+posh_brown
+{'wavy_orange_bags': 0, 'vibrant_blue': 0}
+pale_turquoise
+{'wavy_orange_bags': 0, 'vibrant_blue': 0, 'posh_brown': 0}
+shiny_orange
+{'wavy_orange_bags': 0, 'vibrant_blue': 0, 'posh_brown': 0, 'pale_turquoise': 0}
+========
+dotted_gold_bags
+{}
+posh_magenta
+{'dotted_gold_bags': 0}
+faded_crimson
+{'dotted_gold_bags': 0, 'posh_magenta': 0}
+dotted_olive
+{'dotted_gold_bags': 0, 'posh_magenta': 0, 'faded_crimson': 0}
+plaid_olive
+{'dotted_gold_bags': 0, 'posh_magenta': 0, 'faded_crimson': 0, 'dotted_olive': 0}
+========
+dull_purple_bags
+{}
+drab_salmon
+{'dull_purple_bags': 0}
+dim_lavender
+{'dull_purple_bags': 0, 'drab_salmon': 0}
+========
+light_bronze_bags
+{}
+wavy_indigo
+{'light_bronze_bags': 0}
+========
+muted_turquoise_bags
+{}
+clear_turquoise
+{'muted_turquoise_bags': 0}
+plaid_violet
+{'muted_turquoise_bags': 0, 'clear_turquoise': 0}
+clear_orange
+{'muted_turquoise_bags': 0, 'clear_turquoise': 0, 'plaid_violet': 0}
+posh_maroon
+{'muted_turquoise_bags': 0, 'clear_turquoise': 0, 'plaid_violet': 0, 'clear_orange': 0}
+========
+mirrored_blue_bags
+{}
+clear_chartreuse
+{'mirrored_blue_bags': 0}
+========
+drab_tan_bags
+{}
+striped_violet
+{'drab_tan_bags': 0}
+bright_silver
+{'drab_tan_bags': 0, 'striped_violet': 0}
+dark_bronze
+{'drab_tan_bags': 0, 'striped_violet': 0, 'bright_silver': 0}
+mirrored_black
+{'drab_tan_bags': 0, 'striped_violet': 0, 'bright_silver': 0, 'dark_bronze': 0}
+========
+dark_maroon_bags
+{}
+vibrant_orange
+{'dark_maroon_bags': 0}
+========
+drab_yellow_bags
+{}
+vibrant_blue
+{'drab_yellow_bags': 0}
+dim_violet
+{'drab_yellow_bags': 0, 'vibrant_blue': 0}
+========
+light_cyan_bags
+{}
+posh_beige
+{'light_cyan_bags': 0}
+========
+vibrant_salmon_bags
+{}
+wavy_gold
+{'vibrant_salmon_bags': 0}
+========
+muted_orange_bags
+{}
+dotted_tomato
+{'muted_orange_bags': 0}
+vibrant_tomato
+{'muted_orange_bags': 0, 'dotted_tomato': 0}
+dull_lavender
+{'muted_orange_bags': 0, 'dotted_tomato': 0, 'vibrant_tomato': 0}
+========
+dull_turquoise_bags
+{}
+wavy_white
+{'dull_turquoise_bags': 0}
+========
+dotted_indigo_bags
+{}
+wavy_bronze
+{'dotted_indigo_bags': 0}
+========
+dark_red_bags
+{}
+wavy_bronze
+{'dark_red_bags': 0}
+wavy_turquoise
+{'dark_red_bags': 0, 'wavy_bronze': 0}
+========
+light_coral_bags
+{}
+clear_tan
+{'light_coral_bags': 0}
+vibrant_beige
+{'light_coral_bags': 0, 'clear_tan': 0}
+dull_lavender
+{'light_coral_bags': 0, 'clear_tan': 0, 'vibrant_beige': 0}
+shiny_white
+{'light_coral_bags': 0, 'clear_tan': 0, 'vibrant_beige': 0, 'dull_lavender': 0}
+========
+mirrored_turquoise_bags
+{}
+clear_fuchsia
+{'mirrored_turquoise_bags': 0}
+mirrored_black
+{'mirrored_turquoise_bags': 0, 'clear_fuchsia': 0}
+plaid_tan
+{'mirrored_turquoise_bags': 0, 'clear_fuchsia': 0, 'mirrored_black': 0}
+========
+mirrored_yellow_bags
+{}
+pale_turquoise
+{'mirrored_yellow_bags': 0}
+wavy_orange
+{'mirrored_yellow_bags': 0, 'pale_turquoise': 0}
+drab_coral
+{'mirrored_yellow_bags': 0, 'pale_turquoise': 0, 'wavy_orange': 0}
+dim_chartreuse
+{'mirrored_yellow_bags': 0, 'pale_turquoise': 0, 'wavy_orange': 0, 'drab_coral': 0}
+========
+dotted_fuchsia_bags
+{}
+dim_bronze
+{'dotted_fuchsia_bags': 0}
+striped_indigo
+{'dotted_fuchsia_bags': 0, 'dim_bronze': 0}
+========
+dotted_purple_bags
+{}
+posh_maroon
+{'dotted_purple_bags': 0}
+dim_yellow
+{'dotted_purple_bags': 0, 'posh_maroon': 0}
+========
+clear_coral_bags
+{}
+dark_olive
+{'clear_coral_bags': 0}
+wavy_bronze
+{'clear_coral_bags': 0, 'dark_olive': 0}
+light_red
+{'clear_coral_bags': 0, 'dark_olive': 0, 'wavy_bronze': 0}
+========
+mirrored_teal_bags
+{}
+drab_yellow
+{'mirrored_teal_bags': 0}
+========
+faded_green_bags
+{}
+dark_purple
+{'faded_green_bags': 0}
+========
+light_lime_bags
+{}
+bright_chartreuse
+{'light_lime_bags': 0}
+clear_tomato
+{'light_lime_bags': 0, 'bright_chartreuse': 0}
+bright_green
+{'light_lime_bags': 0, 'bright_chartreuse': 0, 'clear_tomato': 0}
+faded_teal
+{'light_lime_bags': 0, 'bright_chartreuse': 0, 'clear_tomato': 0, 'bright_green': 0}
+========
+bright_yellow_bags
+{}
+dull_purple
+{'bright_yellow_bags': 0}
+faded_beige
+{'bright_yellow_bags': 0, 'dull_purple': 0}
+========
+bright_maroon_bags
+{}
+vibrant_blue
+{'bright_maroon_bags': 0}
+bright_violet
+{'bright_maroon_bags': 0, 'vibrant_blue': 0}
+plaid_indigo
+{'bright_maroon_bags': 0, 'vibrant_blue': 0, 'bright_violet': 0}
+vibrant_orange
+{'bright_maroon_bags': 0, 'vibrant_blue': 0, 'bright_violet': 0, 'plaid_indigo': 0}
+========
+faded_red_bags
+{}
+pale_brown
+{'faded_red_bags': 0}
+striped_tomato
+{'faded_red_bags': 0, 'pale_brown': 0}
+bright_green
+{'faded_red_bags': 0, 'pale_brown': 0, 'striped_tomato': 0}
+========
+muted_maroon_bags
+{}
+dark_tan
+{'muted_maroon_bags': 0}
+drab_teal
+{'muted_maroon_bags': 0, 'dark_tan': 0}
+dull_maroon
+{'muted_maroon_bags': 0, 'dark_tan': 0, 'drab_teal': 0}
+========
+plaid_coral_bags
+{}
+bright_blue
+{'plaid_coral_bags': 0}
+dotted_indigo
+{'plaid_coral_bags': 0, 'bright_blue': 0}
+========
+dotted_brown_bags
+{}
+dull_beige
+{'dotted_brown_bags': 0}
+bright_indigo
+{'dotted_brown_bags': 0, 'dull_beige': 0}
+striped_chartreuse
+{'dotted_brown_bags': 0, 'dull_beige': 0, 'bright_indigo': 0}
+muted_silver
+{'dotted_brown_bags': 0, 'dull_beige': 0, 'bright_indigo': 0, 'striped_chartreuse': 0}
+========
+wavy_coral_bags
+{}
+clear_cyan
+{'wavy_coral_bags': 0}
+muted_teal
+{'wavy_coral_bags': 0, 'clear_cyan': 0}
+faded_red
+{'wavy_coral_bags': 0, 'clear_cyan': 0, 'muted_teal': 0}
+mirrored_silver
+{'wavy_coral_bags': 0, 'clear_cyan': 0, 'muted_teal': 0, 'faded_red': 0}
+========
+faded_coral_bags
+{}
+bright_green
+{'faded_coral_bags': 0}
+bright_cyan
+{'faded_coral_bags': 0, 'bright_green': 0}
+plaid_blue
+{'faded_coral_bags': 0, 'bright_green': 0, 'bright_cyan': 0}
+wavy_lavender
+{'faded_coral_bags': 0, 'bright_green': 0, 'bright_cyan': 0, 'plaid_blue': 0}
+========
+dim_gold_bags
+{}
+dim_teal
+{'dim_gold_bags': 0}
+vibrant_tomato
+{'dim_gold_bags': 0, 'dim_teal': 0}
+pale_chartreuse
+{'dim_gold_bags': 0, 'dim_teal': 0, 'vibrant_tomato': 0}
+bright_indigo
+{'dim_gold_bags': 0, 'dim_teal': 0, 'vibrant_tomato': 0, 'pale_chartreuse': 0}
+========
+bright_salmon_bags
+{}
+plaid_chartreuse
+{'bright_salmon_bags': 0}
+light_tan
+{'bright_salmon_bags': 0, 'plaid_chartreuse': 0}
+vibrant_maroon
+{'bright_salmon_bags': 0, 'plaid_chartreuse': 0, 'light_tan': 0}
+========
+wavy_violet_bags
+{}
+bright_green
+{'wavy_violet_bags': 0}
+========
+mirrored_lavender_bags
+{}
+drab_plum
+{'mirrored_lavender_bags': 0}
+drab_turquoise
+{'mirrored_lavender_bags': 0, 'drab_plum': 0}
+dark_magenta
+{'mirrored_lavender_bags': 0, 'drab_plum': 0, 'drab_turquoise': 0}
+========
+faded_aqua_bags
+{}
+faded_teal
+{'faded_aqua_bags': 0}
+dark_red
+{'faded_aqua_bags': 0, 'faded_teal': 0}
+========
+muted_yellow_bags
+{}
+mirrored_silver
+{'muted_yellow_bags': 0}
+striped_white
+{'muted_yellow_bags': 0, 'mirrored_silver': 0}
+mirrored_gold
+{'muted_yellow_bags': 0, 'mirrored_silver': 0, 'striped_white': 0}
+muted_gray
+{'muted_yellow_bags': 0, 'mirrored_silver': 0, 'striped_white': 0, 'mirrored_gold': 0}
+========
+pale_coral_bags
+{}
+striped_gray
+{'pale_coral_bags': 0}
+clear_beige
+{'pale_coral_bags': 0, 'striped_gray': 0}
+========
+mirrored_cyan_bags
+{}
+pale_beige
+{'mirrored_cyan_bags': 0}
+dim_crimson
+{'mirrored_cyan_bags': 0, 'pale_beige': 0}
+========
+dotted_aqua_bags
+{}
+dim_crimson
+{'dotted_aqua_bags': 0}
+vibrant_beige
+{'dotted_aqua_bags': 0, 'dim_crimson': 0}
+========
+dark_white_bags
+{}
+dim_maroon
+{'dark_white_bags': 0}
+light_olive
+{'dark_white_bags': 0, 'dim_maroon': 0}
+dull_fuchsia
+{'dark_white_bags': 0, 'dim_maroon': 0, 'light_olive': 0}
+mirrored_maroon
+{'dark_white_bags': 0, 'dim_maroon': 0, 'light_olive': 0, 'dull_fuchsia': 0}
+========
+dotted_chartreuse_bags
+{}
+clear_tan
+{'dotted_chartreuse_bags': 0}
+clear_white
+{'dotted_chartreuse_bags': 0, 'clear_tan': 0}
+dark_coral
+{'dotted_chartreuse_bags': 0, 'clear_tan': 0, 'clear_white': 0}
+faded_brown
+{'dotted_chartreuse_bags': 0, 'clear_tan': 0, 'clear_white': 0, 'dark_coral': 0}
+========
+mirrored_red_bags
+{}
+faded_violet
+{'mirrored_red_bags': 0}
+dark_chartreuse
+{'mirrored_red_bags': 0, 'faded_violet': 0}
+========
+drab_maroon_bags
+{}
+bright_violet
+{'drab_maroon_bags': 0}
+========
+dark_violet_bags
+{}
+dark_turquoise
+{'dark_violet_bags': 0}
+muted_blue
+{'dark_violet_bags': 0, 'dark_turquoise': 0}
+plaid_bronze
+{'dark_violet_bags': 0, 'dark_turquoise': 0, 'muted_blue': 0}
+========
+dull_silver_bags
+{}
+dotted_lime
+{'dull_silver_bags': 0}
+dotted_silver
+{'dull_silver_bags': 0, 'dotted_lime': 0}
+dull_red
+{'dull_silver_bags': 0, 'dotted_lime': 0, 'dotted_silver': 0}
+pale_white
+{'dull_silver_bags': 0, 'dotted_lime': 0, 'dotted_silver': 0, 'dull_red': 0}
+========
+striped_lavender_bags
+{}
+drab_silver
+{'striped_lavender_bags': 0}
+========
+light_yellow_bags
+{}
+posh_plum
+{'light_yellow_bags': 0}
+bright_olive
+{'light_yellow_bags': 0, 'posh_plum': 0}
+wavy_crimson
+{'light_yellow_bags': 0, 'posh_plum': 0, 'bright_olive': 0}
+========
+posh_chartreuse_bags
+{}
+bright_violet
+{'posh_chartreuse_bags': 0}
+========
+pale_green_bags
+{}
+shiny_lime
+{'pale_green_bags': 0}
+faded_teal
+{'pale_green_bags': 0, 'shiny_lime': 0}
+posh_gray
+{'pale_green_bags': 0, 'shiny_lime': 0, 'faded_teal': 0}
+posh_chartreuse
+{'pale_green_bags': 0, 'shiny_lime': 0, 'faded_teal': 0, 'posh_gray': 0}
+========
+shiny_lime_bags
+{}
+dull_beige
+{'shiny_lime_bags': 0}
+light_aqua
+{'shiny_lime_bags': 0, 'dull_beige': 0}
+dotted_tomato
+{'shiny_lime_bags': 0, 'dull_beige': 0, 'light_aqua': 0}
+========
+plaid_tan_bags
+{}
+mirrored_chartreuse
+{'plaid_tan_bags': 0}
+========
+drab_coral_bags
+{}
+posh_gray
+{'drab_coral_bags': 0}
+dull_black
+{'drab_coral_bags': 0, 'posh_gray': 0}
+========
+drab_salmon_bags
+{}
+drab_yellow
+{'drab_salmon_bags': 0}
+mirrored_green
+{'drab_salmon_bags': 0, 'drab_yellow': 0}
+========
+faded_yellow_bags
+{}
+mirrored_beige
+{'faded_yellow_bags': 0}
+bright_turquoise
+{'faded_yellow_bags': 0, 'mirrored_beige': 0}
+vibrant_black
+{'faded_yellow_bags': 0, 'mirrored_beige': 0, 'bright_turquoise': 0}
+========
+bright_tomato_bags
+{}
+clear_brown
+{'bright_tomato_bags': 0}
+========
+muted_beige_bags
+{}
+clear_turquoise
+{'muted_beige_bags': 0}
+========
+striped_black_bags
+{}
+plaid_chartreuse
+{'striped_black_bags': 0}
+========
+bright_cyan_bags
+{}
+clear_tomato
+{'bright_cyan_bags': 0}
+========
+striped_coral_bags
+{}
+muted_red
+{'striped_coral_bags': 0}
+========
+posh_bronze_bags
+{}
+striped_yellow
+{'posh_bronze_bags': 0}
+========
+mirrored_maroon_bags
+{}
+vibrant_tomato
+{'mirrored_maroon_bags': 0}
+bright_green
+{'mirrored_maroon_bags': 0, 'vibrant_tomato': 0}
+vibrant_maroon
+{'mirrored_maroon_bags': 0, 'vibrant_tomato': 0, 'bright_green': 0}
+striped_violet
+{'mirrored_maroon_bags': 0, 'vibrant_tomato': 0, 'bright_green': 0, 'vibrant_maroon': 0}
+========
+dotted_turquoise_bags
+{}
+posh_beige
+{'dotted_turquoise_bags': 0}
+muted_silver
+{'dotted_turquoise_bags': 0, 'posh_beige': 0}
+========
+bright_purple_bags
+{}
+drab_silver
+{'bright_purple_bags': 0}
+shiny_blue
+{'bright_purple_bags': 0, 'drab_silver': 0}
+plaid_bronze
+{'bright_purple_bags': 0, 'drab_silver': 0, 'shiny_blue': 0}
+faded_magenta
+{'bright_purple_bags': 0, 'drab_silver': 0, 'shiny_blue': 0, 'plaid_bronze': 0}
+========
+posh_plum_bags
+{}
+striped_white
+{'posh_plum_bags': 0}
+pale_brown
+{'posh_plum_bags': 0, 'striped_white': 0}
+wavy_turquoise
+{'posh_plum_bags': 0, 'striped_white': 0, 'pale_brown': 0}
+========
+dark_crimson_bags
+{}
+dull_black
+{'dark_crimson_bags': 0}
+dull_yellow
+{'dark_crimson_bags': 0, 'dull_black': 0}
+posh_white
+{'dark_crimson_bags': 0, 'dull_black': 0, 'dull_yellow': 0}
+dotted_lime
+{'dark_crimson_bags': 0, 'dull_black': 0, 'dull_yellow': 0, 'posh_white': 0}
+========
+plaid_bronze_bags
+{}
+striped_indigo
+{'plaid_bronze_bags': 0}
+light_indigo
+{'plaid_bronze_bags': 0, 'striped_indigo': 0}
+wavy_magenta
+{'plaid_bronze_bags': 0, 'striped_indigo': 0, 'light_indigo': 0}
+vibrant_blue
+{'plaid_bronze_bags': 0, 'striped_indigo': 0, 'light_indigo': 0, 'wavy_magenta': 0}
+========
+clear_red_bags
+{}
+posh_silver
+{'clear_red_bags': 0}
+dim_aqua
+{'clear_red_bags': 0, 'posh_silver': 0}
+========
+striped_salmon_bags
+{}
+bright_violet
+{'striped_salmon_bags': 0}
+faded_olive
+{'striped_salmon_bags': 0, 'bright_violet': 0}
+dim_turquoise
+{'striped_salmon_bags': 0, 'bright_violet': 0, 'faded_olive': 0}
+========
+dim_bronze_bags
+{}
+========
+wavy_brown_bags
+{}
+vibrant_turquoise
+{'wavy_brown_bags': 0}
+========
+wavy_maroon_bags
+{}
+mirrored_bronze
+{'wavy_maroon_bags': 0}
+posh_fuchsia
+{'wavy_maroon_bags': 0, 'mirrored_bronze': 0}
+mirrored_indigo
+{'wavy_maroon_bags': 0, 'mirrored_bronze': 0, 'posh_fuchsia': 0}
+========
+mirrored_salmon_bags
+{}
+faded_lavender
+{'mirrored_salmon_bags': 0}
+========
+dark_aqua_bags
+{}
+faded_teal
+{'dark_aqua_bags': 0}
+dim_tomato
+{'dark_aqua_bags': 0, 'faded_teal': 0}
+========
+pale_violet_bags
+{}
+clear_blue
+{'pale_violet_bags': 0}
+plaid_blue
+{'pale_violet_bags': 0, 'clear_blue': 0}
+dim_teal
+{'pale_violet_bags': 0, 'clear_blue': 0, 'plaid_blue': 0}
+pale_black
+{'pale_violet_bags': 0, 'clear_blue': 0, 'plaid_blue': 0, 'dim_teal': 0}
+========
+mirrored_crimson_bags
+{}
+posh_magenta
+{'mirrored_crimson_bags': 0}
+dotted_aqua
+{'mirrored_crimson_bags': 0, 'posh_magenta': 0}
+dim_bronze
+{'mirrored_crimson_bags': 0, 'posh_magenta': 0, 'dotted_aqua': 0}
+========
+bright_indigo_bags
+{}
+bright_violet
+{'bright_indigo_bags': 0}
+========
+muted_violet_bags
+{}
+mirrored_maroon
+{'muted_violet_bags': 0}
+dull_red
+{'muted_violet_bags': 0, 'mirrored_maroon': 0}
+plaid_tomato
+{'muted_violet_bags': 0, 'mirrored_maroon': 0, 'dull_red': 0}
+pale_yellow
+{'muted_violet_bags': 0, 'mirrored_maroon': 0, 'dull_red': 0, 'plaid_tomato': 0}
+========
+shiny_gold_bags
+{}
+vibrant_blue
+{'shiny_gold_bags': 0}
+plaid_blue
+{'shiny_gold_bags': 0, 'vibrant_blue': 0}
+dark_red
+{'shiny_gold_bags': 0, 'vibrant_blue': 0, 'plaid_blue': 0}
+dull_green
+{'shiny_gold_bags': 0, 'vibrant_blue': 0, 'plaid_blue': 0, 'dark_red': 0}
+========
+clear_green_bags
+{}
+dotted_lavender
+{'clear_green_bags': 0}
+========
+dark_indigo_bags
+{}
+light_lime
+{'dark_indigo_bags': 0}
+wavy_brown
+{'dark_indigo_bags': 0, 'light_lime': 0}
+========
+muted_fuchsia_bags
+{}
+plaid_green
+{'muted_fuchsia_bags': 0}
+========
+bright_silver_bags
+{}
+dim_tomato
+{'bright_silver_bags': 0}
+clear_olive
+{'bright_silver_bags': 0, 'dim_tomato': 0}
+dull_teal
+{'bright_silver_bags': 0, 'dim_tomato': 0, 'clear_olive': 0}
+========
+plaid_purple_bags
+{}
+dark_silver
+{'plaid_purple_bags': 0}
+vibrant_crimson
+{'plaid_purple_bags': 0, 'dark_silver': 0}
+dark_black
+{'plaid_purple_bags': 0, 'dark_silver': 0, 'vibrant_crimson': 0}
+faded_magenta
+{'plaid_purple_bags': 0, 'dark_silver': 0, 'vibrant_crimson': 0, 'dark_black': 0}
+========
+clear_chartreuse_bags
+{}
+posh_plum
+{'clear_chartreuse_bags': 0}
+========
+plaid_tomato_bags
+{}
+wavy_aqua
+{'plaid_tomato_bags': 0}
+striped_indigo
+{'plaid_tomato_bags': 0, 'wavy_aqua': 0}
+wavy_magenta
+{'plaid_tomato_bags': 0, 'wavy_aqua': 0, 'striped_indigo': 0}
+========
+posh_cyan_bags
+{}
+drab_green
+{'posh_cyan_bags': 0}
+bright_chartreuse
+{'posh_cyan_bags': 0, 'drab_green': 0}
+muted_gray
+{'posh_cyan_bags': 0, 'drab_green': 0, 'bright_chartreuse': 0}
+light_black
+{'posh_cyan_bags': 0, 'drab_green': 0, 'bright_chartreuse': 0, 'muted_gray': 0}
+========
+posh_turquoise_bags
+{}
+wavy_teal
+{'posh_turquoise_bags': 0}
+light_tan
+{'posh_turquoise_bags': 0, 'wavy_teal': 0}
+dull_gold
+{'posh_turquoise_bags': 0, 'wavy_teal': 0, 'light_tan': 0}
+========
+plaid_olive_bags
+{}
+dim_chartreuse
+{'plaid_olive_bags': 0}
+========
+shiny_orange_bags
+{}
+pale_brown
+{'shiny_orange_bags': 0}
+dim_salmon
+{'shiny_orange_bags': 0, 'pale_brown': 0}
+========
+clear_gray_bags
+{}
+bright_salmon
+{'clear_gray_bags': 0}
+vibrant_crimson
+{'clear_gray_bags': 0, 'bright_salmon': 0}
+========
+shiny_brown_bags
+{}
+bright_gold
+{'shiny_brown_bags': 0}
+clear_tomato
+{'shiny_brown_bags': 0, 'bright_gold': 0}
+========
+muted_aqua_bags
+{}
+mirrored_indigo
+{'muted_aqua_bags': 0}
+dim_tan
+{'muted_aqua_bags': 0, 'mirrored_indigo': 0}
+========
+plaid_red_bags
+{}
+clear_plum
+{'plaid_red_bags': 0}
+========
+muted_bronze_bags
+{}
+clear_white
+{'muted_bronze_bags': 0}
+dotted_plum
+{'muted_bronze_bags': 0, 'clear_white': 0}
+========
+plaid_blue_bags
+{}
+dull_lavender
+{'plaid_blue_bags': 0}
+wavy_magenta
+{'plaid_blue_bags': 0, 'dull_lavender': 0}
+light_indigo
+{'plaid_blue_bags': 0, 'dull_lavender': 0, 'wavy_magenta': 0}
+========
+shiny_salmon_bags
+{}
+dotted_black
+{'shiny_salmon_bags': 0}
+light_magenta
+{'shiny_salmon_bags': 0, 'dotted_black': 0}
+========
+shiny_cyan_bags
+{}
+faded_violet
+{'shiny_cyan_bags': 0}
+mirrored_bronze
+{'shiny_cyan_bags': 0, 'faded_violet': 0}
+dark_maroon
+{'shiny_cyan_bags': 0, 'faded_violet': 0, 'mirrored_bronze': 0}
+wavy_lavender
+{'shiny_cyan_bags': 0, 'faded_violet': 0, 'mirrored_bronze': 0, 'dark_maroon': 0}
+========
+drab_magenta_bags
+{}
+light_blue
+{'drab_magenta_bags': 0}
+wavy_orange
+{'drab_magenta_bags': 0, 'light_blue': 0}
+posh_chartreuse
+{'drab_magenta_bags': 0, 'light_blue': 0, 'wavy_orange': 0}
+========
+dim_violet_bags
+{}
+dark_red
+{'dim_violet_bags': 0}
+light_violet
+{'dim_violet_bags': 0, 'dark_red': 0}
+dotted_fuchsia
+{'dim_violet_bags': 0, 'dark_red': 0, 'light_violet': 0}
+plaid_tomato
+{'dim_violet_bags': 0, 'dark_red': 0, 'light_violet': 0, 'dotted_fuchsia': 0}
+========
+faded_crimson_bags
+{}
+clear_silver
+{'faded_crimson_bags': 0}
+vibrant_beige
+{'faded_crimson_bags': 0, 'clear_silver': 0}
+========
+plaid_fuchsia_bags
+{}
+plaid_red
+{'plaid_fuchsia_bags': 0}
+drab_purple
+{'plaid_fuchsia_bags': 0, 'plaid_red': 0}
+clear_lime
+{'plaid_fuchsia_bags': 0, 'plaid_red': 0, 'drab_purple': 0}
+dim_turquoise
+{'plaid_fuchsia_bags': 0, 'plaid_red': 0, 'drab_purple': 0, 'clear_lime': 0}
+========
+dull_green_bags
+{}
+dotted_beige
+{'dull_green_bags': 0}
+drab_silver
+{'dull_green_bags': 0, 'dotted_beige': 0}
+posh_magenta
+{'dull_green_bags': 0, 'dotted_beige': 0, 'drab_silver': 0}
+muted_orange
+{'dull_green_bags': 0, 'dotted_beige': 0, 'drab_silver': 0, 'posh_magenta': 0}
+========
+wavy_indigo_bags
+{}
+pale_tan
+{'wavy_indigo_bags': 0}
+========
+plaid_lavender_bags
+{}
+dark_black
+{'plaid_lavender_bags': 0}
+========
+clear_bronze_bags
+{}
+pale_teal
+{'clear_bronze_bags': 0}
+========
+clear_blue_bags
+{}
+light_teal
+{'clear_blue_bags': 0}
+dotted_olive
+{'clear_blue_bags': 0, 'light_teal': 0}
+bright_indigo
+{'clear_blue_bags': 0, 'light_teal': 0, 'dotted_olive': 0}
+========
+posh_aqua_bags
+{}
+light_violet
+{'posh_aqua_bags': 0}
+dull_salmon
+{'posh_aqua_bags': 0, 'light_violet': 0}
+vibrant_violet
+{'posh_aqua_bags': 0, 'light_violet': 0, 'dull_salmon': 0}
+========
+dark_gold_bags
+{}
+striped_maroon
+{'dark_gold_bags': 0}
+========
+vibrant_chartreuse_bags
+{}
+wavy_silver
+{'vibrant_chartreuse_bags': 0}
+========
+dark_magenta_bags
+{}
+clear_silver
+{'dark_magenta_bags': 0}
+========
+dim_red_bags
+{}
+wavy_indigo
+{'dim_red_bags': 0}
+muted_teal
+{'dim_red_bags': 0, 'wavy_indigo': 0}
+========
+muted_silver_bags
+{}
+pale_crimson
+{'muted_silver_bags': 0}
+dotted_tomato
+{'muted_silver_bags': 0, 'pale_crimson': 0}
+========
+mirrored_tan_bags
+{}
+pale_salmon
+{'mirrored_tan_bags': 0}
+========
+dull_violet_bags
+{}
+dull_black
+{'dull_violet_bags': 0}
+========
+striped_beige_bags
+{}
+dark_maroon
+{'striped_beige_bags': 0}
+wavy_orange
+{'striped_beige_bags': 0, 'dark_maroon': 0}
+========
+striped_turquoise_bags
+{}
+light_indigo
+{'striped_turquoise_bags': 0}
+bright_maroon
+{'striped_turquoise_bags': 0, 'light_indigo': 0}
+light_teal
+{'striped_turquoise_bags': 0, 'light_indigo': 0, 'bright_maroon': 0}
+========
+pale_gold_bags
+{}
+dotted_teal
+{'pale_gold_bags': 0}
+========
+wavy_olive_bags
+{}
+dotted_fuchsia
+{'wavy_olive_bags': 0}
+========
+clear_violet_bags
+{}
+dotted_lavender
+{'clear_violet_bags': 0}
+bright_tan
+{'clear_violet_bags': 0, 'dotted_lavender': 0}
+dim_violet
+{'clear_violet_bags': 0, 'dotted_lavender': 0, 'bright_tan': 0}
+drab_salmon
+{'clear_violet_bags': 0, 'dotted_lavender': 0, 'bright_tan': 0, 'dim_violet': 0}
+========
+pale_maroon_bags
+{}
+drab_red
+{'pale_maroon_bags': 0}
+wavy_yellow
+{'pale_maroon_bags': 0, 'drab_red': 0}
+muted_green
+{'pale_maroon_bags': 0, 'drab_red': 0, 'wavy_yellow': 0}
+striped_fuchsia
+{'pale_maroon_bags': 0, 'drab_red': 0, 'wavy_yellow': 0, 'muted_green': 0}
+========
+drab_bronze_bags
+{}
+light_gray
+{'drab_bronze_bags': 0}
+posh_magenta
+{'drab_bronze_bags': 0, 'light_gray': 0}
+dull_yellow
+{'drab_bronze_bags': 0, 'light_gray': 0, 'posh_magenta': 0}
+========
+vibrant_gold_bags
+{}
+dull_violet
+{'vibrant_gold_bags': 0}
+clear_white
+{'vibrant_gold_bags': 0, 'dull_violet': 0}
+wavy_chartreuse
+{'vibrant_gold_bags': 0, 'dull_violet': 0, 'clear_white': 0}
+pale_turquoise
+{'vibrant_gold_bags': 0, 'dull_violet': 0, 'clear_white': 0, 'wavy_chartreuse': 0}
+========
+clear_beige_bags
+{}
+plaid_blue
+{'clear_beige_bags': 0}
+shiny_plum
+{'clear_beige_bags': 0, 'plaid_blue': 0}
+light_silver
+{'clear_beige_bags': 0, 'plaid_blue': 0, 'shiny_plum': 0}
+========
+faded_silver_bags
+{}
+drab_turquoise
+{'faded_silver_bags': 0}
+plaid_green
+{'faded_silver_bags': 0, 'drab_turquoise': 0}
+posh_yellow
+{'faded_silver_bags': 0, 'drab_turquoise': 0, 'plaid_green': 0}
+plaid_blue
+{'faded_silver_bags': 0, 'drab_turquoise': 0, 'plaid_green': 0, 'posh_yellow': 0}
+========
+light_brown_bags
+{}
+dark_red
+{'light_brown_bags': 0}
+dotted_gray
+{'light_brown_bags': 0, 'dark_red': 0}
+========
+shiny_violet_bags
+{}
+posh_cyan
+{'shiny_violet_bags': 0}
+vibrant_plum
+{'shiny_violet_bags': 0, 'posh_cyan': 0}
+mirrored_chartreuse
+{'shiny_violet_bags': 0, 'posh_cyan': 0, 'vibrant_plum': 0}
+plaid_green
+{'shiny_violet_bags': 0, 'posh_cyan': 0, 'vibrant_plum': 0, 'mirrored_chartreuse': 0}
+========
+dark_bronze_bags
+{}
+bright_gold
+{'dark_bronze_bags': 0}
+striped_maroon
+{'dark_bronze_bags': 0, 'bright_gold': 0}
+dark_aqua
+{'dark_bronze_bags': 0, 'bright_gold': 0, 'striped_maroon': 0}
+pale_chartreuse
+{'dark_bronze_bags': 0, 'bright_gold': 0, 'striped_maroon': 0, 'dark_aqua': 0}
+========
+dull_black_bags
+{}
+vibrant_tomato
+{'dull_black_bags': 0}
+vibrant_blue
+{'dull_black_bags': 0, 'vibrant_tomato': 0}
+pale_yellow
+{'dull_black_bags': 0, 'vibrant_tomato': 0, 'vibrant_blue': 0}
+========
+dotted_beige_bags
+{}
+dotted_tomato
+{'dotted_beige_bags': 0}
+striped_indigo
+{'dotted_beige_bags': 0, 'dotted_tomato': 0}
+========
+clear_indigo_bags
+{}
+dark_violet
+{'clear_indigo_bags': 0}
+========
+bright_coral_bags
+{}
+dark_indigo
+{'bright_coral_bags': 0}
+========
+drab_turquoise_bags
+{}
+drab_plum
+{'drab_turquoise_bags': 0}
+pale_magenta
+{'drab_turquoise_bags': 0, 'drab_plum': 0}
+drab_red
+{'drab_turquoise_bags': 0, 'drab_plum': 0, 'pale_magenta': 0}
+dull_olive
+{'drab_turquoise_bags': 0, 'drab_plum': 0, 'pale_magenta': 0, 'drab_red': 0}
+========
+shiny_fuchsia_bags
+{}
+dull_lavender
+{'shiny_fuchsia_bags': 0}
+striped_tomato
+{'shiny_fuchsia_bags': 0, 'dull_lavender': 0}
+========
+dull_indigo_bags
+{}
+pale_turquoise
+{'dull_indigo_bags': 0}
+faded_tomato
+{'dull_indigo_bags': 0, 'pale_turquoise': 0}
+dim_magenta
+{'dull_indigo_bags': 0, 'pale_turquoise': 0, 'faded_tomato': 0}
+drab_indigo
+{'dull_indigo_bags': 0, 'pale_turquoise': 0, 'faded_tomato': 0, 'dim_magenta': 0}
+========
+dim_aqua_bags
+{}
+faded_brown
+{'dim_aqua_bags': 0}
+mirrored_lime
+{'dim_aqua_bags': 0, 'faded_brown': 0}
+========
+muted_purple_bags
+{}
+dim_salmon
+{'muted_purple_bags': 0}
+light_violet
+{'muted_purple_bags': 0, 'dim_salmon': 0}
+striped_turquoise
+{'muted_purple_bags': 0, 'dim_salmon': 0, 'light_violet': 0}
+shiny_teal
+{'muted_purple_bags': 0, 'dim_salmon': 0, 'light_violet': 0, 'striped_turquoise': 0}
+========
+dotted_black_bags
+{}
+dotted_cyan
+{'dotted_black_bags': 0}
+wavy_magenta
+{'dotted_black_bags': 0, 'dotted_cyan': 0}
+posh_chartreuse
+{'dotted_black_bags': 0, 'dotted_cyan': 0, 'wavy_magenta': 0}
+========
+drab_violet_bags
+{}
+dark_gray
+{'drab_violet_bags': 0}
+dull_chartreuse
+{'drab_violet_bags': 0, 'dark_gray': 0}
+plaid_gray
+{'drab_violet_bags': 0, 'dark_gray': 0, 'dull_chartreuse': 0}
+========
+plaid_green_bags
+{}
+dark_red
+{'plaid_green_bags': 0}
+wavy_crimson
+{'plaid_green_bags': 0, 'dark_red': 0}
+light_coral
+{'plaid_green_bags': 0, 'dark_red': 0, 'wavy_crimson': 0}
+striped_indigo
+{'plaid_green_bags': 0, 'dark_red': 0, 'wavy_crimson': 0, 'light_coral': 0}
+========
+faded_brown_bags
+{}
+dark_orange
+{'faded_brown_bags': 0}
+========
+light_teal_bags
+{}
+striped_indigo
+{'light_teal_bags': 0}
+dim_bronze
+{'light_teal_bags': 0, 'striped_indigo': 0}
+========
+plaid_black_bags
+{}
+mirrored_crimson
+{'plaid_black_bags': 0}
+dim_silver
+{'plaid_black_bags': 0, 'mirrored_crimson': 0}
+posh_purple
+{'plaid_black_bags': 0, 'mirrored_crimson': 0, 'dim_silver': 0}
+========
+shiny_blue_bags
+{}
+plaid_green
+{'shiny_blue_bags': 0}
+plaid_crimson
+{'shiny_blue_bags': 0, 'plaid_green': 0}
+faded_plum
+{'shiny_blue_bags': 0, 'plaid_green': 0, 'plaid_crimson': 0}
+========
+plaid_lime_bags
+{}
+striped_maroon
+{'plaid_lime_bags': 0}
+========
+pale_lavender_bags
+{}
+mirrored_indigo
+{'pale_lavender_bags': 0}
+pale_green
+{'pale_lavender_bags': 0, 'mirrored_indigo': 0}
+dim_chartreuse
+{'pale_lavender_bags': 0, 'mirrored_indigo': 0, 'pale_green': 0}
+pale_white
+{'pale_lavender_bags': 0, 'mirrored_indigo': 0, 'pale_green': 0, 'dim_chartreuse': 0}
+========
+drab_chartreuse_bags
+{}
+bright_salmon
+{'drab_chartreuse_bags': 0}
+vibrant_brown
+{'drab_chartreuse_bags': 0, 'bright_salmon': 0}
+muted_violet
+{'drab_chartreuse_bags': 0, 'bright_salmon': 0, 'vibrant_brown': 0}
+========
+light_indigo_bags
+{}
+========
+plaid_violet_bags
+{}
+dim_white
+{'plaid_violet_bags': 0}
+faded_lavender
+{'plaid_violet_bags': 0, 'dim_white': 0}
+========
+drab_gold_bags
+{}
+dotted_aqua
+{'drab_gold_bags': 0}
+muted_beige
+{'drab_gold_bags': 0, 'dotted_aqua': 0}
+faded_black
+{'drab_gold_bags': 0, 'dotted_aqua': 0, 'muted_beige': 0}
+dark_red
+{'drab_gold_bags': 0, 'dotted_aqua': 0, 'muted_beige': 0, 'faded_black': 0}
+========
+mirrored_bronze_bags
+{}
+plaid_blue
+{'mirrored_bronze_bags': 0}
+light_orange
+{'mirrored_bronze_bags': 0, 'plaid_blue': 0}
+========
+dim_olive_bags
+{}
+striped_silver
+{'dim_olive_bags': 0}
+========
+plaid_white_bags
+{}
+pale_turquoise
+{'plaid_white_bags': 0}
+mirrored_orange
+{'plaid_white_bags': 0, 'pale_turquoise': 0}
+vibrant_aqua
+{'plaid_white_bags': 0, 'pale_turquoise': 0, 'mirrored_orange': 0}
+========
+wavy_purple_bags
+{}
+dark_silver
+{'wavy_purple_bags': 0}
+dull_white
+{'wavy_purple_bags': 0, 'dark_silver': 0}
+dotted_magenta
+{'wavy_purple_bags': 0, 'dark_silver': 0, 'dull_white': 0}
+dim_salmon
+{'wavy_purple_bags': 0, 'dark_silver': 0, 'dull_white': 0, 'dotted_magenta': 0}
+========
+clear_orange_bags
+{}
+striped_indigo
+{'clear_orange_bags': 0}
+wavy_bronze
+{'clear_orange_bags': 0, 'striped_indigo': 0}
+vibrant_blue
+{'clear_orange_bags': 0, 'striped_indigo': 0, 'wavy_bronze': 0}
+========
+plaid_gray_bags
+{}
+dull_aqua
+{'plaid_gray_bags': 0}
+dull_olive
+{'plaid_gray_bags': 0, 'dull_aqua': 0}
+posh_black
+{'plaid_gray_bags': 0, 'dull_aqua': 0, 'dull_olive': 0}
+========
+vibrant_violet_bags
+{}
+vibrant_maroon
+{'vibrant_violet_bags': 0}
+========
+pale_olive_bags
+{}
+vibrant_fuchsia
+{'pale_olive_bags': 0}
+========
+muted_brown_bags
+{}
+pale_teal
+{'muted_brown_bags': 0}
+light_brown
+{'muted_brown_bags': 0, 'pale_teal': 0}
+light_tomato
+{'muted_brown_bags': 0, 'pale_teal': 0, 'light_brown': 0}
+========
+posh_lavender_bags
+{}
+bright_indigo
+{'posh_lavender_bags': 0}
+striped_indigo
+{'posh_lavender_bags': 0, 'bright_indigo': 0}
+dark_purple
+{'posh_lavender_bags': 0, 'bright_indigo': 0, 'striped_indigo': 0}
+========
+dotted_blue_bags
+{}
+muted_salmon
+{'dotted_blue_bags': 0}
+mirrored_red
+{'dotted_blue_bags': 0, 'muted_salmon': 0}
+pale_white
+{'dotted_blue_bags': 0, 'muted_salmon': 0, 'mirrored_red': 0}
+clear_red
+{'dotted_blue_bags': 0, 'muted_salmon': 0, 'mirrored_red': 0, 'pale_white': 0}
+========
+dim_purple_bags
+{}
+muted_cyan
+{'dim_purple_bags': 0}
+========
+bright_fuchsia_bags
+{}
+muted_black
+{'bright_fuchsia_bags': 0}
+========
+vibrant_lime_bags
+{}
+posh_purple
+{'vibrant_lime_bags': 0}
+drab_aqua
+{'vibrant_lime_bags': 0, 'posh_purple': 0}
+========
+wavy_green_bags
+{}
+drab_red
+{'wavy_green_bags': 0}
+faded_brown
+{'wavy_green_bags': 0, 'drab_red': 0}
+wavy_cyan
+{'wavy_green_bags': 0, 'drab_red': 0, 'faded_brown': 0}
+========
+dull_lime_bags
+{}
+bright_salmon
+{'dull_lime_bags': 0}
+posh_crimson
+{'dull_lime_bags': 0, 'bright_salmon': 0}
+drab_salmon
+{'dull_lime_bags': 0, 'bright_salmon': 0, 'posh_crimson': 0}
+pale_yellow
+{'dull_lime_bags': 0, 'bright_salmon': 0, 'posh_crimson': 0, 'drab_salmon': 0}
+========
+mirrored_aqua_bags
+{}
+striped_violet
+{'mirrored_aqua_bags': 0}
+striped_indigo
+{'mirrored_aqua_bags': 0, 'striped_violet': 0}
+striped_tomato
+{'mirrored_aqua_bags': 0, 'striped_violet': 0, 'striped_indigo': 0}
+========
+striped_tan_bags
+{}
+light_blue
+{'striped_tan_bags': 0}
+dull_beige
+{'striped_tan_bags': 0, 'light_blue': 0}
+========
+drab_green_bags
+{}
+muted_silver
+{'drab_green_bags': 0}
+vibrant_orange
+{'drab_green_bags': 0, 'muted_silver': 0}
+striped_indigo
+{'drab_green_bags': 0, 'muted_silver': 0, 'vibrant_orange': 0}
+striped_tomato
+{'drab_green_bags': 0, 'muted_silver': 0, 'vibrant_orange': 0, 'striped_indigo': 0}
+========
+dotted_orange_bags
+{}
+mirrored_white
+{'dotted_orange_bags': 0}
+muted_orange
+{'dotted_orange_bags': 0, 'mirrored_white': 0}
+drab_tomato
+{'dotted_orange_bags': 0, 'mirrored_white': 0, 'muted_orange': 0}
+dull_white
+{'dotted_orange_bags': 0, 'mirrored_white': 0, 'muted_orange': 0, 'drab_tomato': 0}
+========
+dim_tomato_bags
+{}
+dull_lavender
+{'dim_tomato_bags': 0}
+========
+dull_magenta_bags
+{}
+faded_brown
+{'dull_magenta_bags': 0}
+faded_teal
+{'dull_magenta_bags': 0, 'faded_brown': 0}
+========
+faded_maroon_bags
+{}
+posh_brown
+{'faded_maroon_bags': 0}
+dotted_aqua
+{'faded_maroon_bags': 0, 'posh_brown': 0}
+========
+plaid_cyan_bags
+{}
+faded_crimson
+{'plaid_cyan_bags': 0}
+light_chartreuse
+{'plaid_cyan_bags': 0, 'faded_crimson': 0}
+light_crimson
+{'plaid_cyan_bags': 0, 'faded_crimson': 0, 'light_chartreuse': 0}
+posh_fuchsia
+{'plaid_cyan_bags': 0, 'faded_crimson': 0, 'light_chartreuse': 0, 'light_crimson': 0}
+========
+dim_salmon_bags
+{}
+dotted_olive
+{'dim_salmon_bags': 0}
+light_indigo
+{'dim_salmon_bags': 0, 'dotted_olive': 0}
+========
+faded_chartreuse_bags
+{}
+bright_gold
+{'faded_chartreuse_bags': 0}
+clear_silver
+{'faded_chartreuse_bags': 0, 'bright_gold': 0}
+========
+light_plum_bags
+{}
+dotted_chartreuse
+{'light_plum_bags': 0}
+drab_white
+{'light_plum_bags': 0, 'dotted_chartreuse': 0}
+========
+posh_silver_bags
+{}
+mirrored_black
+{'posh_silver_bags': 0}
+dull_blue
+{'posh_silver_bags': 0, 'mirrored_black': 0}
+========
+dull_salmon_bags
+{}
+dim_white
+{'dull_salmon_bags': 0}
+clear_tomato
+{'dull_salmon_bags': 0, 'dim_white': 0}
+mirrored_maroon
+{'dull_salmon_bags': 0, 'dim_white': 0, 'clear_tomato': 0}
+========
+light_green_bags
+{}
+plaid_chartreuse
+{'light_green_bags': 0}
+vibrant_aqua
+{'light_green_bags': 0, 'plaid_chartreuse': 0}
+========
+posh_indigo_bags
+{}
+dull_olive
+{'posh_indigo_bags': 0}
+dotted_lime
+{'posh_indigo_bags': 0, 'dull_olive': 0}
+drab_red
+{'posh_indigo_bags': 0, 'dull_olive': 0, 'dotted_lime': 0}
+========
+dark_blue_bags
+{}
+dotted_green
+{'dark_blue_bags': 0}
+wavy_crimson
+{'dark_blue_bags': 0, 'dotted_green': 0}
+clear_silver
+{'dark_blue_bags': 0, 'dotted_green': 0, 'wavy_crimson': 0}
+========
+bright_black_bags
+{}
+posh_bronze
+{'bright_black_bags': 0}
+bright_cyan
+{'bright_black_bags': 0, 'posh_bronze': 0}
+muted_black
+{'bright_black_bags': 0, 'posh_bronze': 0, 'bright_cyan': 0}
+========
+bright_lavender_bags
+{}
+shiny_indigo
+{'bright_lavender_bags': 0}
+dim_yellow
+{'bright_lavender_bags': 0, 'shiny_indigo': 0}
+wavy_yellow
+{'bright_lavender_bags': 0, 'shiny_indigo': 0, 'dim_yellow': 0}
+========
+faded_white_bags
+{}
+dotted_black
+{'faded_white_bags': 0}
+wavy_red
+{'faded_white_bags': 0, 'dotted_black': 0}
+========
+muted_black_bags
+{}
+mirrored_aqua
+{'muted_black_bags': 0}
+dark_red
+{'muted_black_bags': 0, 'mirrored_aqua': 0}
+dull_yellow
+{'muted_black_bags': 0, 'mirrored_aqua': 0, 'dark_red': 0}
+========
+light_turquoise_bags
+{}
+shiny_plum
+{'light_turquoise_bags': 0}
+========
+vibrant_coral_bags
+{}
+shiny_orange
+{'vibrant_coral_bags': 0}
+bright_olive
+{'vibrant_coral_bags': 0, 'shiny_orange': 0}
+========
+vibrant_aqua_bags
+{}
+wavy_crimson
+{'vibrant_aqua_bags': 0}
+muted_orange
+{'vibrant_aqua_bags': 0, 'wavy_crimson': 0}
+========
+dotted_tan_bags
+{}
+light_indigo
+{'dotted_tan_bags': 0}
+dim_magenta
+{'dotted_tan_bags': 0, 'light_indigo': 0}
+========
+posh_yellow_bags
+{}
+faded_lavender
+{'posh_yellow_bags': 0}
+========
+pale_lime_bags
+{}
+mirrored_orange
+{'pale_lime_bags': 0}
+dull_gray
+{'pale_lime_bags': 0, 'mirrored_orange': 0}
+muted_magenta
+{'pale_lime_bags': 0, 'mirrored_orange': 0, 'dull_gray': 0}
+========
+drab_white_bags
+{}
+faded_tan
+{'drab_white_bags': 0}
+wavy_aqua
+{'drab_white_bags': 0, 'faded_tan': 0}
+========
+shiny_tomato_bags
+{}
+dim_coral
+{'shiny_tomato_bags': 0}
+dotted_lime
+{'shiny_tomato_bags': 0, 'dim_coral': 0}
+========
+wavy_plum_bags
+{}
+bright_orange
+{'wavy_plum_bags': 0}
+========
+dull_crimson_bags
+{}
+pale_silver
+{'dull_crimson_bags': 0}
+light_beige
+{'dull_crimson_bags': 0, 'pale_silver': 0}
+wavy_violet
+{'dull_crimson_bags': 0, 'pale_silver': 0, 'light_beige': 0}
+========
+dotted_violet_bags
+{}
+light_indigo
+{'dotted_violet_bags': 0}
+dark_black
+{'dotted_violet_bags': 0, 'light_indigo': 0}
+pale_green
+{'dotted_violet_bags': 0, 'light_indigo': 0, 'dark_black': 0}
+========
+dark_salmon_bags
+{}
+light_tan
+{'dark_salmon_bags': 0}
+dim_chartreuse
+{'dark_salmon_bags': 0, 'light_tan': 0}
+faded_green
+{'dark_salmon_bags': 0, 'light_tan': 0, 'dim_chartreuse': 0}
+light_brown
+{'dark_salmon_bags': 0, 'light_tan': 0, 'dim_chartreuse': 0, 'faded_green': 0}
+========
+dull_brown_bags
+{}
+mirrored_aqua
+{'dull_brown_bags': 0}
+dim_magenta
+{'dull_brown_bags': 0, 'mirrored_aqua': 0}
+light_brown
+{'dull_brown_bags': 0, 'mirrored_aqua': 0, 'dim_magenta': 0}
+plaid_black
+{'dull_brown_bags': 0, 'mirrored_aqua': 0, 'dim_magenta': 0, 'light_brown': 0}
+========
+shiny_chartreuse_bags
+{}
+wavy_yellow
+{'shiny_chartreuse_bags': 0}
+faded_aqua
+{'shiny_chartreuse_bags': 0, 'wavy_yellow': 0}
+bright_fuchsia
+{'shiny_chartreuse_bags': 0, 'wavy_yellow': 0, 'faded_aqua': 0}
+drab_plum
+{'shiny_chartreuse_bags': 0, 'wavy_yellow': 0, 'faded_aqua': 0, 'bright_fuchsia': 0}
+========
+muted_red_bags
+{}
+drab_white
+{'muted_red_bags': 0}
+dim_beige
+{'muted_red_bags': 0, 'drab_white': 0}
+bright_olive
+{'muted_red_bags': 0, 'drab_white': 0, 'dim_beige': 0}
+========
+posh_blue_bags
+{}
+dotted_beige
+{'posh_blue_bags': 0}
+vibrant_cyan
+{'posh_blue_bags': 0, 'dotted_beige': 0}
+vibrant_brown
+{'posh_blue_bags': 0, 'dotted_beige': 0, 'vibrant_cyan': 0}
+clear_turquoise
+{'posh_blue_bags': 0, 'dotted_beige': 0, 'vibrant_cyan': 0, 'vibrant_brown': 0}
+========
+wavy_bronze_bags
+{}
+wavy_turquoise
+{'wavy_bronze_bags': 0}
+dim_bronze
+{'wavy_bronze_bags': 0, 'wavy_turquoise': 0}
+shiny_beige
+{'wavy_bronze_bags': 0, 'wavy_turquoise': 0, 'dim_bronze': 0}
+dull_lavender
+{'wavy_bronze_bags': 0, 'wavy_turquoise': 0, 'dim_bronze': 0, 'shiny_beige': 0}
+========
+posh_beige_bags
+{}
+muted_gray
+{'posh_beige_bags': 0}
+light_salmon
+{'posh_beige_bags': 0, 'muted_gray': 0}
+striped_turquoise
+{'posh_beige_bags': 0, 'muted_gray': 0, 'light_salmon': 0}
+========
+vibrant_red_bags
+{}
+muted_blue
+{'vibrant_red_bags': 0}
+========
+dark_olive_bags
+{}
+dark_maroon
+{'dark_olive_bags': 0}
+========
+dotted_gray_bags
+{}
+wavy_magenta
+{'dotted_gray_bags': 0}
+========
+vibrant_cyan_bags
+{}
+dotted_lavender
+{'vibrant_cyan_bags': 0}
+vibrant_orange
+{'vibrant_cyan_bags': 0, 'dotted_lavender': 0}
+========
+dark_chartreuse_bags
+{}
+pale_white
+{'dark_chartreuse_bags': 0}
+dull_lavender
+{'dark_chartreuse_bags': 0, 'pale_white': 0}
+========
+faded_lime_bags
+{}
+clear_green
+{'faded_lime_bags': 0}
+shiny_plum
+{'faded_lime_bags': 0, 'clear_green': 0}
+light_green
+{'faded_lime_bags': 0, 'clear_green': 0, 'shiny_plum': 0}
+========
+vibrant_blue_bags
+{}
+wavy_turquoise
+{'vibrant_blue_bags': 0}
+dim_salmon
+{'vibrant_blue_bags': 0, 'wavy_turquoise': 0}
+========
+dull_tan_bags
+{}
+dim_chartreuse
+{'dull_tan_bags': 0}
+plaid_tomato
+{'dull_tan_bags': 0, 'dim_chartreuse': 0}
+dark_brown
+{'dull_tan_bags': 0, 'dim_chartreuse': 0, 'plaid_tomato': 0}
+========
+muted_gray_bags
+{}
+clear_tan
+{'muted_gray_bags': 0}
+wavy_aqua
+{'muted_gray_bags': 0, 'clear_tan': 0}
+dim_white
+{'muted_gray_bags': 0, 'clear_tan': 0, 'wavy_aqua': 0}
+========
+clear_yellow_bags
+{}
+drab_white
+{'clear_yellow_bags': 0}
+dark_salmon
+{'clear_yellow_bags': 0, 'drab_white': 0}
+dull_yellow
+{'clear_yellow_bags': 0, 'drab_white': 0, 'dark_salmon': 0}
+========
+clear_tomato_bags
+{}
+dotted_gray
+{'clear_tomato_bags': 0}
+vibrant_beige
+{'clear_tomato_bags': 0, 'dotted_gray': 0}
+bright_maroon
+{'clear_tomato_bags': 0, 'dotted_gray': 0, 'vibrant_beige': 0}
+drab_green
+{'clear_tomato_bags': 0, 'dotted_gray': 0, 'vibrant_beige': 0, 'bright_maroon': 0}
+========
+shiny_tan_bags
+{}
+posh_lavender
+{'shiny_tan_bags': 0}
+pale_yellow
+{'shiny_tan_bags': 0, 'posh_lavender': 0}
+========
+dark_black_bags
+{}
+muted_purple
+{'dark_black_bags': 0}
+light_gray
+{'dark_black_bags': 0, 'muted_purple': 0}
+drab_red
+{'dark_black_bags': 0, 'muted_purple': 0, 'light_gray': 0}
+========
+striped_plum_bags
+{}
+dull_red
+{'striped_plum_bags': 0}
+dark_tomato
+{'striped_plum_bags': 0, 'dull_red': 0}
+dark_yellow
+{'striped_plum_bags': 0, 'dull_red': 0, 'dark_tomato': 0}
+plaid_cyan
+{'striped_plum_bags': 0, 'dull_red': 0, 'dark_tomato': 0, 'dark_yellow': 0}
+========
+light_gray_bags
+{}
+plaid_chartreuse
+{'light_gray_bags': 0}
+========
+light_aqua_bags
+{}
+wavy_magenta
+{'light_aqua_bags': 0}
+light_black
+{'light_aqua_bags': 0, 'wavy_magenta': 0}
+========
+vibrant_brown_bags
+{}
+bright_blue
+{'vibrant_brown_bags': 0}
+posh_black
+{'vibrant_brown_bags': 0, 'bright_blue': 0}
+========
+posh_tomato_bags
+{}
+wavy_magenta
+{'posh_tomato_bags': 0}
+========
+dotted_bronze_bags
+{}
+mirrored_chartreuse
+{'dotted_bronze_bags': 0}
+========
+mirrored_violet_bags
+{}
+clear_maroon
+{'mirrored_violet_bags': 0}
+light_red
+{'mirrored_violet_bags': 0, 'clear_maroon': 0}
+mirrored_gray
+{'mirrored_violet_bags': 0, 'clear_maroon': 0, 'light_red': 0}
+========
+dark_purple_bags
+{}
+bright_blue
+{'dark_purple_bags': 0}
+plaid_blue
+{'dark_purple_bags': 0, 'bright_blue': 0}
+========
+faded_beige_bags
+{}
+plaid_bronze
+{'faded_beige_bags': 0}
+vibrant_turquoise
+{'faded_beige_bags': 0, 'plaid_bronze': 0}
+pale_orange
+{'faded_beige_bags': 0, 'plaid_bronze': 0, 'vibrant_turquoise': 0}
+mirrored_aqua
+{'faded_beige_bags': 0, 'plaid_bronze': 0, 'vibrant_turquoise': 0, 'pale_orange': 0}
+========
+mirrored_green_bags
+{}
+dotted_fuchsia
+{'mirrored_green_bags': 0}
+light_indigo
+{'mirrored_green_bags': 0, 'dotted_fuchsia': 0}
+shiny_beige
+{'mirrored_green_bags': 0, 'dotted_fuchsia': 0, 'light_indigo': 0}
+========
+striped_violet_bags
+{}
+drab_silver
+{'striped_violet_bags': 0}
+dim_crimson
+{'striped_violet_bags': 0, 'drab_silver': 0}
+plaid_blue
+{'striped_violet_bags': 0, 'drab_silver': 0, 'dim_crimson': 0}
+========
+mirrored_tomato_bags
+{}
+light_lavender
+{'mirrored_tomato_bags': 0}
+========
+posh_purple_bags
+{}
+pale_orange
+{'posh_purple_bags': 0}
+========
+dim_blue_bags
+{}
+dotted_plum
+{'dim_blue_bags': 0}
+light_orange
+{'dim_blue_bags': 0, 'dotted_plum': 0}
+dim_maroon
+{'dim_blue_bags': 0, 'dotted_plum': 0, 'light_orange': 0}
+========
+dark_cyan_bags
+{}
+vibrant_white
+{'dark_cyan_bags': 0}
+dull_white
+{'dark_cyan_bags': 0, 'vibrant_white': 0}
+posh_purple
+{'dark_cyan_bags': 0, 'vibrant_white': 0, 'dull_white': 0}
+========
+drab_beige_bags
+{}
+dull_purple
+{'drab_beige_bags': 0}
+========
+vibrant_olive_bags
+{}
+light_silver
+{'vibrant_olive_bags': 0}
+========
+plaid_beige_bags
+{}
+muted_silver
+{'plaid_beige_bags': 0}
+vibrant_orange
+{'plaid_beige_bags': 0, 'muted_silver': 0}
+========
+wavy_silver_bags
+{}
+dim_crimson
+{'wavy_silver_bags': 0}
+shiny_maroon
+{'wavy_silver_bags': 0, 'dim_crimson': 0}
+pale_indigo
+{'wavy_silver_bags': 0, 'dim_crimson': 0, 'shiny_maroon': 0}
+========
+posh_crimson_bags
+{}
+light_violet
+{'posh_crimson_bags': 0}
+pale_coral
+{'posh_crimson_bags': 0, 'light_violet': 0}
+plaid_bronze
+{'posh_crimson_bags': 0, 'light_violet': 0, 'pale_coral': 0}
+========
+vibrant_crimson_bags
+{}
+dull_red
+{'vibrant_crimson_bags': 0}
+========
+dotted_olive_bags
+{}
+========
+mirrored_beige_bags
+{}
+plaid_gray
+{'mirrored_beige_bags': 0}
+mirrored_yellow
+{'mirrored_beige_bags': 0, 'plaid_gray': 0}
+========
+bright_brown_bags
+{}
+faded_aqua
+{'bright_brown_bags': 0}
+dim_tomato
+{'bright_brown_bags': 0, 'faded_aqua': 0}
+posh_magenta
+{'bright_brown_bags': 0, 'faded_aqua': 0, 'dim_tomato': 0}
+========
+bright_magenta_bags
+{}
+posh_gray
+{'bright_magenta_bags': 0}
+dim_salmon
+{'bright_magenta_bags': 0, 'posh_gray': 0}
+========
+clear_magenta_bags
+{}
+dim_cyan
+{'clear_magenta_bags': 0}
+clear_red
+{'clear_magenta_bags': 0, 'dim_cyan': 0}
+dull_fuchsia
+{'clear_magenta_bags': 0, 'dim_cyan': 0, 'clear_red': 0}
+wavy_coral
+{'clear_magenta_bags': 0, 'dim_cyan': 0, 'clear_red': 0, 'dull_fuchsia': 0}
+========
+clear_lime_bags
+{}
+dull_green
+{'clear_lime_bags': 0}
+shiny_bronze
+{'clear_lime_bags': 0, 'dull_green': 0}
+faded_orange
+{'clear_lime_bags': 0, 'dull_green': 0, 'shiny_bronze': 0}
+bright_beige
+{'clear_lime_bags': 0, 'dull_green': 0, 'shiny_bronze': 0, 'faded_orange': 0}
+========
+muted_tan_bags
+{}
+vibrant_maroon
+{'muted_tan_bags': 0}
+vibrant_black
+{'muted_tan_bags': 0, 'vibrant_maroon': 0}
+shiny_maroon
+{'muted_tan_bags': 0, 'vibrant_maroon': 0, 'vibrant_black': 0}
+vibrant_turquoise
+{'muted_tan_bags': 0, 'vibrant_maroon': 0, 'vibrant_black': 0, 'shiny_maroon': 0}
+========
+pale_beige_bags
+{}
+light_tomato
+{'pale_beige_bags': 0}
+========
+dark_fuchsia_bags
+{}
+faded_brown
+{'dark_fuchsia_bags': 0}
+dotted_lavender
+{'dark_fuchsia_bags': 0, 'faded_brown': 0}
+shiny_teal
+{'dark_fuchsia_bags': 0, 'faded_brown': 0, 'dotted_lavender': 0}
+bright_blue
+{'dark_fuchsia_bags': 0, 'faded_brown': 0, 'dotted_lavender': 0, 'shiny_teal': 0}
+========
+dim_magenta_bags
+{}
+posh_chartreuse
+{'dim_magenta_bags': 0}
+========
+bright_aqua_bags
+{}
+drab_violet
+{'bright_aqua_bags': 0}
+========
+striped_crimson_bags
+{}
+bright_green
+{'striped_crimson_bags': 0}
+========
+dull_chartreuse_bags
+{}
+plaid_bronze
+{'dull_chartreuse_bags': 0}
+shiny_gray
+{'dull_chartreuse_bags': 0, 'plaid_bronze': 0}
+dull_lavender
+{'dull_chartreuse_bags': 0, 'plaid_bronze': 0, 'shiny_gray': 0}
+========
+wavy_chartreuse_bags
+{}
+vibrant_tomato
+{'wavy_chartreuse_bags': 0}
+dim_tomato
+{'wavy_chartreuse_bags': 0, 'vibrant_tomato': 0}
+pale_green
+{'wavy_chartreuse_bags': 0, 'vibrant_tomato': 0, 'dim_tomato': 0}
+posh_plum
+{'wavy_chartreuse_bags': 0, 'vibrant_tomato': 0, 'dim_tomato': 0, 'pale_green': 0}
+========
+dotted_white_bags
+{}
+dark_teal
+{'dotted_white_bags': 0}
+dotted_violet
+{'dotted_white_bags': 0, 'dark_teal': 0}
+bright_beige
+{'dotted_white_bags': 0, 'dark_teal': 0, 'dotted_violet': 0}
+dim_silver
+{'dotted_white_bags': 0, 'dark_teal': 0, 'dotted_violet': 0, 'bright_beige': 0}
+========
+mirrored_purple_bags
+{}
+posh_green
+{'mirrored_purple_bags': 0}
+========
+faded_bronze_bags
+{}
+dotted_indigo
+{'faded_bronze_bags': 0}
+========
+faded_lavender_bags
+{}
+muted_purple
+{'faded_lavender_bags': 0}
+========
+clear_turquoise_bags
+{}
+muted_orange
+{'clear_turquoise_bags': 0}
+striped_violet
+{'clear_turquoise_bags': 0, 'muted_orange': 0}
+clear_tan
+{'clear_turquoise_bags': 0, 'muted_orange': 0, 'striped_violet': 0}
+dim_white
+{'clear_turquoise_bags': 0, 'muted_orange': 0, 'striped_violet': 0, 'clear_tan': 0}
+========
+shiny_plum_bags
+{}
+dim_crimson
+{'shiny_plum_bags': 0}
+========
+wavy_fuchsia_bags
+{}
+dotted_brown
+{'wavy_fuchsia_bags': 0}
+dark_magenta
+{'wavy_fuchsia_bags': 0, 'dotted_brown': 0}
+dark_bronze
+{'wavy_fuchsia_bags': 0, 'dotted_brown': 0, 'dark_magenta': 0}
+========
+faded_olive_bags
+{}
+plaid_indigo
+{'faded_olive_bags': 0}
+========
+mirrored_orange_bags
+{}
+striped_violet
+{'mirrored_orange_bags': 0}
+light_violet
+{'mirrored_orange_bags': 0, 'striped_violet': 0}
+shiny_orange
+{'mirrored_orange_bags': 0, 'striped_violet': 0, 'light_violet': 0}
+========
+pale_indigo_bags
+{}
+shiny_indigo
+{'pale_indigo_bags': 0}
+========
+faded_tan_bags
+{}
+shiny_maroon
+{'faded_tan_bags': 0}
+posh_aqua
+{'faded_tan_bags': 0, 'shiny_maroon': 0}
+striped_violet
+{'faded_tan_bags': 0, 'shiny_maroon': 0, 'posh_aqua': 0}
+dim_white
+{'faded_tan_bags': 0, 'shiny_maroon': 0, 'posh_aqua': 0, 'striped_violet': 0}
+========
+bright_chartreuse_bags
+{}
+posh_black
+{'bright_chartreuse_bags': 0}
+bright_gray
+{'bright_chartreuse_bags': 0, 'posh_black': 0}
+plaid_chartreuse
+{'bright_chartreuse_bags': 0, 'posh_black': 0, 'bright_gray': 0}
+========
+drab_blue_bags
+{}
+pale_violet
+{'drab_blue_bags': 0}
+vibrant_green
+{'drab_blue_bags': 0, 'pale_violet': 0}
+========
+posh_tan_bags
+{}
+shiny_lime
+{'posh_tan_bags': 0}
+========
+plaid_maroon_bags
+{}
+dotted_black
+{'plaid_maroon_bags': 0}
+========
+dull_coral_bags
+{}
+posh_coral
+{'dull_coral_bags': 0}
+dotted_silver
+{'dull_coral_bags': 0, 'posh_coral': 0}
+drab_beige
+{'dull_coral_bags': 0, 'posh_coral': 0, 'dotted_silver': 0}
+plaid_red
+{'dull_coral_bags': 0, 'posh_coral': 0, 'dotted_silver': 0, 'drab_beige': 0}
+========
+striped_yellow_bags
+{}
+plaid_tomato
+{'striped_yellow_bags': 0}
+dotted_lavender
+{'striped_yellow_bags': 0, 'plaid_tomato': 0}
+========
+muted_magenta_bags
+{}
+muted_black
+{'muted_magenta_bags': 0}
+========
+dotted_cyan_bags
+{}
+vibrant_tomato
+{'dotted_cyan_bags': 0}
+light_indigo
+{'dotted_cyan_bags': 0, 'vibrant_tomato': 0}
+wavy_turquoise
+{'dotted_cyan_bags': 0, 'vibrant_tomato': 0, 'light_indigo': 0}
+========
+dim_lavender_bags
+{}
+muted_black
+{'dim_lavender_bags': 0}
+pale_white
+{'dim_lavender_bags': 0, 'muted_black': 0}
+mirrored_coral
+{'dim_lavender_bags': 0, 'muted_black': 0, 'pale_white': 0}
+pale_brown
+{'dim_lavender_bags': 0, 'muted_black': 0, 'pale_white': 0, 'mirrored_coral': 0}
+========
+bright_gold_bags
+{}
+vibrant_green
+{'bright_gold_bags': 0}
+========
+light_white_bags
+{}
+striped_lime
+{'light_white_bags': 0}
+muted_lime
+{'light_white_bags': 0, 'striped_lime': 0}
+muted_brown
+{'light_white_bags': 0, 'striped_lime': 0, 'muted_lime': 0}
+bright_green
+{'light_white_bags': 0, 'striped_lime': 0, 'muted_lime': 0, 'muted_brown': 0}
+========
+wavy_lavender_bags
+{}
+vibrant_purple
+{'wavy_lavender_bags': 0}
+posh_white
+{'wavy_lavender_bags': 0, 'vibrant_purple': 0}
+========
+clear_black_bags
+{}
+posh_turquoise
+{'clear_black_bags': 0}
+dotted_orange
+{'clear_black_bags': 0, 'posh_turquoise': 0}
+faded_teal
+{'clear_black_bags': 0, 'posh_turquoise': 0, 'dotted_orange': 0}
+========
+muted_crimson_bags
+{}
+pale_violet
+{'muted_crimson_bags': 0}
+drab_lavender
+{'muted_crimson_bags': 0, 'pale_violet': 0}
+========
+posh_green_bags
+{}
+vibrant_beige
+{'posh_green_bags': 0}
+dark_purple
+{'posh_green_bags': 0, 'vibrant_beige': 0}
+dim_salmon
+{'posh_green_bags': 0, 'vibrant_beige': 0, 'dark_purple': 0}
+light_black
+{'posh_green_bags': 0, 'vibrant_beige': 0, 'dark_purple': 0, 'dim_salmon': 0}
+========
+vibrant_silver_bags
+{}
+posh_coral
+{'vibrant_silver_bags': 0}
+posh_white
+{'vibrant_silver_bags': 0, 'posh_coral': 0}
+========
+dim_coral_bags
+{}
+posh_violet
+{'dim_coral_bags': 0}
+dark_cyan
+{'dim_coral_bags': 0, 'posh_violet': 0}
+shiny_green
+{'dim_coral_bags': 0, 'posh_violet': 0, 'dark_cyan': 0}
+vibrant_cyan
+{'dim_coral_bags': 0, 'posh_violet': 0, 'dark_cyan': 0, 'shiny_green': 0}
+========
+striped_red_bags
+{}
+muted_olive
+{'striped_red_bags': 0}
+wavy_teal
+{'striped_red_bags': 0, 'muted_olive': 0}
+shiny_gray
+{'striped_red_bags': 0, 'muted_olive': 0, 'wavy_teal': 0}
+mirrored_coral
+{'striped_red_bags': 0, 'muted_olive': 0, 'wavy_teal': 0, 'shiny_gray': 0}
+========
+bright_violet_bags
+{}
+shiny_beige
+{'bright_violet_bags': 0}
+wavy_magenta
+{'bright_violet_bags': 0, 'shiny_beige': 0}
+light_indigo
+{'bright_violet_bags': 0, 'shiny_beige': 0, 'wavy_magenta': 0}
+========
+vibrant_magenta_bags
+{}
+striped_salmon
+{'vibrant_magenta_bags': 0}
+light_tan
+{'vibrant_magenta_bags': 0, 'striped_salmon': 0}
+========
+faded_gold_bags
+{}
+light_tomato
+{'faded_gold_bags': 0}
+wavy_black
+{'faded_gold_bags': 0, 'light_tomato': 0}
+faded_maroon
+{'faded_gold_bags': 0, 'light_tomato': 0, 'wavy_black': 0}
+========
+muted_plum_bags
+{}
+vibrant_brown
+{'muted_plum_bags': 0}
+muted_cyan
+{'muted_plum_bags': 0, 'vibrant_brown': 0}
+muted_salmon
+{'muted_plum_bags': 0, 'vibrant_brown': 0, 'muted_cyan': 0}
+========
+plaid_gold_bags
+{}
+shiny_beige
+{'plaid_gold_bags': 0}
+faded_fuchsia
+{'plaid_gold_bags': 0, 'shiny_beige': 0}
+vibrant_cyan
+{'plaid_gold_bags': 0, 'shiny_beige': 0, 'faded_fuchsia': 0}
+shiny_gold
+{'plaid_gold_bags': 0, 'shiny_beige': 0, 'faded_fuchsia': 0, 'vibrant_cyan': 0}
+========
+striped_indigo_bags
+{}
+========
+wavy_gray_bags
+{}
+plaid_indigo
+{'wavy_gray_bags': 0}
+clear_tomato
+{'wavy_gray_bags': 0, 'plaid_indigo': 0}
+dull_blue
+{'wavy_gray_bags': 0, 'plaid_indigo': 0, 'clear_tomato': 0}
+========
+plaid_silver_bags
+{}
+clear_salmon
+{'plaid_silver_bags': 0}
+faded_lime
+{'plaid_silver_bags': 0, 'clear_salmon': 0}
+shiny_tan
+{'plaid_silver_bags': 0, 'clear_salmon': 0, 'faded_lime': 0}
+mirrored_chartreuse
+{'plaid_silver_bags': 0, 'clear_salmon': 0, 'faded_lime': 0, 'shiny_tan': 0}
+========
+plaid_yellow_bags
+{}
+shiny_chartreuse
+{'plaid_yellow_bags': 0}
+light_lime
+{'plaid_yellow_bags': 0, 'shiny_chartreuse': 0}
+dull_green
+{'plaid_yellow_bags': 0, 'shiny_chartreuse': 0, 'light_lime': 0}
+========
+plaid_turquoise_bags
+{}
+dotted_aqua
+{'plaid_turquoise_bags': 0}
+posh_magenta
+{'plaid_turquoise_bags': 0, 'dotted_aqua': 0}
+========
+striped_olive_bags
+{}
+faded_aqua
+{'striped_olive_bags': 0}
+dotted_orange
+{'striped_olive_bags': 0, 'faded_aqua': 0}
+dull_turquoise
+{'striped_olive_bags': 0, 'faded_aqua': 0, 'dotted_orange': 0}
+pale_violet
+{'striped_olive_bags': 0, 'faded_aqua': 0, 'dotted_orange': 0, 'dull_turquoise': 0}
+========
+faded_teal_bags
+{}
+striped_indigo
+{'faded_teal_bags': 0}
+========
+dull_red_bags
+{}
+mirrored_gray
+{'dull_red_bags': 0}
+drab_coral
+{'dull_red_bags': 0, 'mirrored_gray': 0}
+bright_plum
+{'dull_red_bags': 0, 'mirrored_gray': 0, 'drab_coral': 0}
+dull_green
+{'dull_red_bags': 0, 'mirrored_gray': 0, 'drab_coral': 0, 'bright_plum': 0}
+========
+dull_gold_bags
+{}
+bright_blue
+{'dull_gold_bags': 0}
+========
+shiny_magenta_bags
+{}
+light_white
+{'shiny_magenta_bags': 0}
+========
+striped_green_bags
+{}
+clear_blue
+{'striped_green_bags': 0}
+========
+dull_teal_bags
+{}
+dark_purple
+{'dull_teal_bags': 0}
+dim_lime
+{'dull_teal_bags': 0, 'dark_purple': 0}
+clear_chartreuse
+{'dull_teal_bags': 0, 'dark_purple': 0, 'dim_lime': 0}
+========
+faded_magenta_bags
+{}
+shiny_gray
+{'faded_magenta_bags': 0}
+pale_crimson
+{'faded_magenta_bags': 0, 'shiny_gray': 0}
+light_coral
+{'faded_magenta_bags': 0, 'shiny_gray': 0, 'pale_crimson': 0}
+pale_white
+{'faded_magenta_bags': 0, 'shiny_gray': 0, 'pale_crimson': 0, 'light_coral': 0}
+========
+pale_tomato_bags
+{}
+dull_black
+{'pale_tomato_bags': 0}
+posh_chartreuse
+{'pale_tomato_bags': 0, 'dull_black': 0}
+faded_cyan
+{'pale_tomato_bags': 0, 'dull_black': 0, 'posh_chartreuse': 0}
+========
+muted_blue_bags
+{}
+striped_white
+{'muted_blue_bags': 0}
+faded_orange
+{'muted_blue_bags': 0, 'striped_white': 0}
+========
+light_blue_bags
+{}
+posh_white
+{'light_blue_bags': 0}
+========
+plaid_chartreuse_bags
+{}
+bright_gray
+{'plaid_chartreuse_bags': 0}
+========
+dull_aqua_bags
+{}
+clear_tan
+{'dull_aqua_bags': 0}
+dotted_red
+{'dull_aqua_bags': 0, 'clear_tan': 0}
+vibrant_tomato
+{'dull_aqua_bags': 0, 'clear_tan': 0, 'dotted_red': 0}
+========
+light_lavender_bags
+{}
+clear_fuchsia
+{'light_lavender_bags': 0}
+striped_olive
+{'light_lavender_bags': 0, 'clear_fuchsia': 0}
+========
+bright_green_bags
+{}
+vibrant_violet
+{'bright_green_bags': 0}
+vibrant_maroon
+{'bright_green_bags': 0, 'vibrant_violet': 0}
+========
+light_beige_bags
+{}
+striped_maroon
+{'light_beige_bags': 0}
+========
+drab_indigo_bags
+{}
+posh_tomato
+{'drab_indigo_bags': 0}
+faded_brown
+{'drab_indigo_bags': 0, 'posh_tomato': 0}
+========
+dotted_yellow_bags
+{}
+wavy_violet
+{'dotted_yellow_bags': 0}
+bright_violet
+{'dotted_yellow_bags': 0, 'wavy_violet': 0}
+vibrant_lime
+{'dotted_yellow_bags': 0, 'wavy_violet': 0, 'bright_violet': 0}
+pale_beige
+{'dotted_yellow_bags': 0, 'wavy_violet': 0, 'bright_violet': 0, 'vibrant_lime': 0}
+========
+striped_gold_bags
+{}
+light_indigo
+{'striped_gold_bags': 0}
+dull_red
+{'striped_gold_bags': 0, 'light_indigo': 0}
+vibrant_beige
+{'striped_gold_bags': 0, 'light_indigo': 0, 'dull_red': 0}
+========
+muted_indigo_bags
+{}
+bright_purple
+{'muted_indigo_bags': 0}
+pale_plum
+{'muted_indigo_bags': 0, 'bright_purple': 0}
+wavy_black
+{'muted_indigo_bags': 0, 'bright_purple': 0, 'pale_plum': 0}
+========
+dark_lime_bags
+{}
+faded_blue
+{'dark_lime_bags': 0}
+========
+shiny_white_bags
+{}
+clear_tan
+{'shiny_white_bags': 0}
+pale_yellow
+{'shiny_white_bags': 0, 'clear_tan': 0}
+plaid_tomato
+{'shiny_white_bags': 0, 'clear_tan': 0, 'pale_yellow': 0}
+wavy_turquoise
+{'shiny_white_bags': 0, 'clear_tan': 0, 'pale_yellow': 0, 'plaid_tomato': 0}
+========
+vibrant_maroon_bags
+{}
+dark_red
+{'vibrant_maroon_bags': 0}
+dull_aqua
+{'vibrant_maroon_bags': 0, 'dark_red': 0}
+wavy_aqua
+{'vibrant_maroon_bags': 0, 'dark_red': 0, 'dull_aqua': 0}
+========
+drab_teal_bags
+{}
+shiny_indigo
+{'drab_teal_bags': 0}
+========
+bright_plum_bags
+{}
+plaid_chartreuse
+{'bright_plum_bags': 0}
+========
+vibrant_yellow_bags
+{}
+posh_purple
+{'vibrant_yellow_bags': 0}
+========
+posh_salmon_bags
+{}
+dim_plum
+{'posh_salmon_bags': 0}
+pale_yellow
+{'posh_salmon_bags': 0, 'dim_plum': 0}
+shiny_gold
+{'posh_salmon_bags': 0, 'dim_plum': 0, 'pale_yellow': 0}
+========
+shiny_black_bags
+{}
+dim_magenta
+{'shiny_black_bags': 0}
+========
+bright_gray_bags
+{}
+========
+dull_orange_bags
+{}
+dotted_purple
+{'dull_orange_bags': 0}
+========
+pale_purple_bags
+{}
+bright_cyan
+{'pale_purple_bags': 0}
+drab_teal
+{'pale_purple_bags': 0, 'bright_cyan': 0}
+dotted_gold
+{'pale_purple_bags': 0, 'bright_cyan': 0, 'drab_teal': 0}
+mirrored_fuchsia
+{'pale_purple_bags': 0, 'bright_cyan': 0, 'drab_teal': 0, 'dotted_gold': 0}
+========
+dull_yellow_bags
+{}
+posh_gray
+{'dull_yellow_bags': 0}
+========
+muted_tomato_bags
+{}
+faded_orange
+{'muted_tomato_bags': 0}
+========
+drab_olive_bags
+{}
+dim_maroon
+{'drab_olive_bags': 0}
+bright_turquoise
+{'drab_olive_bags': 0, 'dim_maroon': 0}
+shiny_indigo
+{'drab_olive_bags': 0, 'dim_maroon': 0, 'bright_turquoise': 0}
+vibrant_lavender
+{'drab_olive_bags': 0, 'dim_maroon': 0, 'bright_turquoise': 0, 'shiny_indigo': 0}
+========
+clear_salmon_bags
+{}
+dim_chartreuse
+{'clear_salmon_bags': 0}
+shiny_black
+{'clear_salmon_bags': 0, 'dim_chartreuse': 0}
+dotted_indigo
+{'clear_salmon_bags': 0, 'dim_chartreuse': 0, 'shiny_black': 0}
+dotted_aqua
+{'clear_salmon_bags': 0, 'dim_chartreuse': 0, 'shiny_black': 0, 'dotted_indigo': 0}
+========
+posh_black_bags
+{}
+wavy_turquoise
+{'posh_black_bags': 0}
+shiny_plum
+{'posh_black_bags': 0, 'wavy_turquoise': 0}
+mirrored_gold
+{'posh_black_bags': 0, 'wavy_turquoise': 0, 'shiny_plum': 0}
+========
+light_gold_bags
+{}
+shiny_tomato
+{'light_gold_bags': 0}
+light_cyan
+{'light_gold_bags': 0, 'shiny_tomato': 0}
+========
+shiny_coral_bags
+{}
+faded_silver
+{'shiny_coral_bags': 0}
+========
+plaid_magenta_bags
+{}
+vibrant_black
+{'plaid_magenta_bags': 0}
+bright_blue
+{'plaid_magenta_bags': 0, 'vibrant_black': 0}
+========
+dotted_teal_bags
+{}
+faded_olive
+{'dotted_teal_bags': 0}
+vibrant_brown
+{'dotted_teal_bags': 0, 'faded_olive': 0}
+clear_salmon
+{'dotted_teal_bags': 0, 'faded_olive': 0, 'vibrant_brown': 0}
+========
+striped_purple_bags
+{}
+shiny_bronze
+{'striped_purple_bags': 0}
+========
+dim_tan_bags
+{}
+light_tan
+{'dim_tan_bags': 0}
+dotted_gold
+{'dim_tan_bags': 0, 'light_tan': 0}
+shiny_white
+{'dim_tan_bags': 0, 'light_tan': 0, 'dotted_gold': 0}
+========
+light_silver_bags
+{}
+dotted_cyan
+{'light_silver_bags': 0}
+dotted_aqua
+{'light_silver_bags': 0, 'dotted_cyan': 0}
+========
+dull_white_bags
+{}
+striped_turquoise
+{'dull_white_bags': 0}
+========
+plaid_aqua_bags
+{}
+dim_bronze
+{'plaid_aqua_bags': 0}
+dull_brown
+{'plaid_aqua_bags': 0, 'dim_bronze': 0}
+faded_plum
+{'plaid_aqua_bags': 0, 'dim_bronze': 0, 'dull_brown': 0}
+mirrored_crimson
+{'plaid_aqua_bags': 0, 'dim_bronze': 0, 'dull_brown': 0, 'faded_plum': 0}
+========
+dotted_silver_bags
+{}
+faded_teal
+{'dotted_silver_bags': 0}
+========
+dull_olive_bags
+{}
+dark_turquoise
+{'dull_olive_bags': 0}
+muted_orange
+{'dull_olive_bags': 0, 'dark_turquoise': 0}
+========
+clear_purple_bags
+{}
+drab_salmon
+{'clear_purple_bags': 0}
+========
+mirrored_plum_bags
+{}
+vibrant_lavender
+{'mirrored_plum_bags': 0}
+========
+bright_beige_bags
+{}
+plaid_magenta
+{'bright_beige_bags': 0}
+dull_turquoise
+{'bright_beige_bags': 0, 'plaid_magenta': 0}
+dim_white
+{'bright_beige_bags': 0, 'plaid_magenta': 0, 'dull_turquoise': 0}
+light_aqua
+{'bright_beige_bags': 0, 'plaid_magenta': 0, 'dull_turquoise': 0, 'dim_white': 0}
+========
+pale_red_bags
+{}
+muted_lavender
+{'pale_red_bags': 0}
+vibrant_teal
+{'pale_red_bags': 0, 'muted_lavender': 0}
+plaid_cyan
+{'pale_red_bags': 0, 'muted_lavender': 0, 'vibrant_teal': 0}
+dull_orange
+{'pale_red_bags': 0, 'muted_lavender': 0, 'vibrant_teal': 0, 'plaid_cyan': 0}
+========
+drab_orange_bags
+{}
+bright_plum
+{'drab_orange_bags': 0}
+vibrant_chartreuse
+{'drab_orange_bags': 0, 'bright_plum': 0}
+========
+mirrored_gold_bags
+{}
+wavy_magenta
+{'mirrored_gold_bags': 0}
+========
+posh_maroon_bags
+{}
+dotted_lime
+{'posh_maroon_bags': 0}
+muted_black
+{'posh_maroon_bags': 0, 'dotted_lime': 0}
+faded_green
+{'posh_maroon_bags': 0, 'dotted_lime': 0, 'muted_black': 0}
+========
+clear_white_bags
+{}
+pale_black
+{'clear_white_bags': 0}
+========
+pale_silver_bags
+{}
+dim_coral
+{'pale_silver_bags': 0}
+dull_lavender
+{'pale_silver_bags': 0, 'dim_coral': 0}
+dark_teal
+{'pale_silver_bags': 0, 'dim_coral': 0, 'dull_lavender': 0}
+wavy_green
+{'pale_silver_bags': 0, 'dim_coral': 0, 'dull_lavender': 0, 'dark_teal': 0}
+========
+vibrant_tomato_bags
+{}
+dull_lavender
+{'vibrant_tomato_bags': 0}
+========
+striped_orange_bags
+{}
+shiny_salmon
+{'striped_orange_bags': 0}
+pale_gold
+{'striped_orange_bags': 0, 'shiny_salmon': 0}
+mirrored_gray
+{'striped_orange_bags': 0, 'shiny_salmon': 0, 'pale_gold': 0}
+plaid_black
+{'striped_orange_bags': 0, 'shiny_salmon': 0, 'pale_gold': 0, 'mirrored_gray': 0}
+========
+dim_beige_bags
+{}
+dim_salmon
+{'dim_beige_bags': 0}
+striped_yellow
+{'dim_beige_bags': 0, 'dim_salmon': 0}
+shiny_orange
+{'dim_beige_bags': 0, 'dim_salmon': 0, 'striped_yellow': 0}
+light_salmon
+{'dim_beige_bags': 0, 'dim_salmon': 0, 'striped_yellow': 0, 'shiny_orange': 0}
+========
+clear_gold_bags
+{}
+dim_salmon
+{'clear_gold_bags': 0}
+vibrant_cyan
+{'clear_gold_bags': 0, 'dim_salmon': 0}
+========
+dim_teal_bags
+{}
+light_indigo
+{'dim_teal_bags': 0}
+pale_green
+{'dim_teal_bags': 0, 'light_indigo': 0}
+muted_bronze
+{'dim_teal_bags': 0, 'light_indigo': 0, 'pale_green': 0}
+========
+shiny_silver_bags
+{}
+drab_red
+{'shiny_silver_bags': 0}
+pale_magenta
+{'shiny_silver_bags': 0, 'drab_red': 0}
+plaid_blue
+{'shiny_silver_bags': 0, 'drab_red': 0, 'pale_magenta': 0}
+pale_white
+{'shiny_silver_bags': 0, 'drab_red': 0, 'pale_magenta': 0, 'plaid_blue': 0}
+========
+dark_beige_bags
+{}
+posh_black
+{'dark_beige_bags': 0}
+dark_maroon
+{'dark_beige_bags': 0, 'posh_black': 0}
+========
+bright_bronze_bags
+{}
+mirrored_yellow
+{'bright_bronze_bags': 0}
+vibrant_salmon
+{'bright_bronze_bags': 0, 'mirrored_yellow': 0}
+mirrored_teal
+{'bright_bronze_bags': 0, 'mirrored_yellow': 0, 'vibrant_salmon': 0}
+shiny_beige
+{'bright_bronze_bags': 0, 'mirrored_yellow': 0, 'vibrant_salmon': 0, 'mirrored_teal': 0}
+========
+dotted_maroon_bags
+{}
+clear_tomato
+{'dotted_maroon_bags': 0}
+========
+bright_olive_bags
+{}
+striped_tomato
+{'bright_olive_bags': 0}
+plaid_indigo
+{'bright_olive_bags': 0, 'striped_tomato': 0}
+posh_magenta
+{'bright_olive_bags': 0, 'striped_tomato': 0, 'plaid_indigo': 0}
+========
+faded_tomato_bags
+{}
+bright_violet
+{'faded_tomato_bags': 0}
+========
+mirrored_magenta_bags
+{}
+wavy_coral
+{'mirrored_magenta_bags': 0}
+dull_tan
+{'mirrored_magenta_bags': 0, 'wavy_coral': 0}
+wavy_chartreuse
+{'mirrored_magenta_bags': 0, 'wavy_coral': 0, 'dull_tan': 0}
+========
+striped_aqua_bags
+{}
+drab_teal
+{'striped_aqua_bags': 0}
+drab_crimson
+{'striped_aqua_bags': 0, 'drab_teal': 0}
+plaid_gold
+{'striped_aqua_bags': 0, 'drab_teal': 0, 'drab_crimson': 0}
+vibrant_aqua
+{'striped_aqua_bags': 0, 'drab_teal': 0, 'drab_crimson': 0, 'plaid_gold': 0}
+========
+clear_crimson_bags
+{}
+striped_chartreuse
+{'clear_crimson_bags': 0}
+vibrant_blue
+{'clear_crimson_bags': 0, 'striped_chartreuse': 0}
+========
+striped_blue_bags
+{}
+dull_red
+{'striped_blue_bags': 0}
+vibrant_white
+{'striped_blue_bags': 0, 'dull_red': 0}
+posh_black
+{'striped_blue_bags': 0, 'dull_red': 0, 'vibrant_white': 0}
+========
+posh_olive_bags
+{}
+muted_cyan
+{'posh_olive_bags': 0}
+========
+plaid_indigo_bags
+{}
+dotted_fuchsia
+{'plaid_indigo_bags': 0}
+plaid_chartreuse
+{'plaid_indigo_bags': 0, 'dotted_fuchsia': 0}
+vibrant_blue
+{'plaid_indigo_bags': 0, 'dotted_fuchsia': 0, 'plaid_chartreuse': 0}
+========
+mirrored_lime_bags
+{}
+dotted_lavender
+{'mirrored_lime_bags': 0}
+wavy_bronze
+{'mirrored_lime_bags': 0, 'dotted_lavender': 0}
+========
+wavy_blue_bags
+{}
+mirrored_green
+{'wavy_blue_bags': 0}
+faded_tomato
+{'wavy_blue_bags': 0, 'mirrored_green': 0}
+posh_turquoise
+{'wavy_blue_bags': 0, 'mirrored_green': 0, 'faded_tomato': 0}
+========
+light_fuchsia_bags
+{}
+faded_tomato
+{'light_fuchsia_bags': 0}
+muted_beige
+{'light_fuchsia_bags': 0, 'faded_tomato': 0}
+faded_beige
+{'light_fuchsia_bags': 0, 'faded_tomato': 0, 'muted_beige': 0}
+wavy_indigo
+{'light_fuchsia_bags': 0, 'faded_tomato': 0, 'muted_beige': 0, 'faded_beige': 0}
+========
+dull_plum_bags
+{}
+dark_blue
+{'dull_plum_bags': 0}
+shiny_maroon
+{'dull_plum_bags': 0, 'dark_blue': 0}
+pale_gray
+{'dull_plum_bags': 0, 'dark_blue': 0, 'shiny_maroon': 0}
+drab_lime
+{'dull_plum_bags': 0, 'dark_blue': 0, 'shiny_maroon': 0, 'pale_gray': 0}
+========
+drab_fuchsia_bags
+{}
+dark_maroon
+{'drab_fuchsia_bags': 0}
+========
+pale_teal_bags
+{}
+vibrant_blue
+{'pale_teal_bags': 0}
+bright_green
+{'pale_teal_bags': 0, 'vibrant_blue': 0}
+dim_crimson
+{'pale_teal_bags': 0, 'vibrant_blue': 0, 'bright_green': 0}
+posh_salmon
+{'pale_teal_bags': 0, 'vibrant_blue': 0, 'bright_green': 0, 'dim_crimson': 0}
+========
+dull_tomato_bags
+{}
+dim_maroon
+{'dull_tomato_bags': 0}
+plaid_gray
+{'dull_tomato_bags': 0, 'dim_maroon': 0}
+striped_gold
+{'dull_tomato_bags': 0, 'dim_maroon': 0, 'plaid_gray': 0}
+striped_white
+{'dull_tomato_bags': 0, 'dim_maroon': 0, 'plaid_gray': 0, 'striped_gold': 0}
+========
+pale_orange_bags
+{}
+drab_yellow
+{'pale_orange_bags': 0}
+========
+wavy_aqua_bags
+{}
+dim_bronze
+{'wavy_aqua_bags': 0}
+========
+dim_chartreuse_bags
+{}
+bright_violet
+{'dim_chartreuse_bags': 0}
+========
+dotted_crimson_bags
+{}
+vibrant_orange
+{'dotted_crimson_bags': 0}
+wavy_magenta
+{'dotted_crimson_bags': 0, 'vibrant_orange': 0}
+========
+faded_cyan_bags
+{}
+mirrored_blue
+{'faded_cyan_bags': 0}
+shiny_fuchsia
+{'faded_cyan_bags': 0, 'mirrored_blue': 0}
+bright_indigo
+{'faded_cyan_bags': 0, 'mirrored_blue': 0, 'shiny_fuchsia': 0}
+========
+pale_salmon_bags
+{}
+pale_cyan
+{'pale_salmon_bags': 0}
+muted_lime
+{'pale_salmon_bags': 0, 'pale_cyan': 0}
+vibrant_plum
+{'pale_salmon_bags': 0, 'pale_cyan': 0, 'muted_lime': 0}
+========
+drab_lime_bags
+{}
+drab_yellow
+{'drab_lime_bags': 0}
+light_magenta
+{'drab_lime_bags': 0, 'drab_yellow': 0}
+dotted_fuchsia
+{'drab_lime_bags': 0, 'drab_yellow': 0, 'light_magenta': 0}
+========
+shiny_bronze_bags
+{}
+posh_lavender
+{'shiny_bronze_bags': 0}
+========
+dim_fuchsia_bags
+{}
+dotted_gold
+{'dim_fuchsia_bags': 0}
+vibrant_indigo
+{'dim_fuchsia_bags': 0, 'dotted_gold': 0}
+shiny_teal
+{'dim_fuchsia_bags': 0, 'dotted_gold': 0, 'vibrant_indigo': 0}
+dotted_silver
+{'dim_fuchsia_bags': 0, 'dotted_gold': 0, 'vibrant_indigo': 0, 'shiny_teal': 0}
+========
+dark_green_bags
+{}
+shiny_blue
+{'dark_green_bags': 0}
+========
+bright_red_bags
+{}
+pale_brown
+{'bright_red_bags': 0}
+plaid_blue
+{'bright_red_bags': 0, 'pale_brown': 0}
+drab_bronze
+{'bright_red_bags': 0, 'pale_brown': 0, 'plaid_blue': 0}
+dim_yellow
+{'bright_red_bags': 0, 'pale_brown': 0, 'plaid_blue': 0, 'drab_bronze': 0}
+========
+clear_teal_bags
+{}
+drab_white
+{'clear_teal_bags': 0}
+muted_beige
+{'clear_teal_bags': 0, 'drab_white': 0}
+========
+pale_aqua_bags
+{}
+light_tan
+{'pale_aqua_bags': 0}
+========
+dull_lavender_bags
+{}
+dim_bronze
+{'dull_lavender_bags': 0}
+dim_crimson
+{'dull_lavender_bags': 0, 'dim_bronze': 0}
+dotted_olive
+{'dull_lavender_bags': 0, 'dim_bronze': 0, 'dim_crimson': 0}
+========
+dotted_plum_bags
+{}
+light_black
+{'dotted_plum_bags': 0}
+========
+shiny_teal_bags
+{}
+light_indigo
+{'shiny_teal_bags': 0}
+========
+dotted_lime_bags
+{}
+shiny_gold
+{'dotted_lime_bags': 0}
+========
+dark_tan_bags
+{}
+faded_tan
+{'dark_tan_bags': 0}
+========
+vibrant_indigo_bags
+{}
+shiny_fuchsia
+{'vibrant_indigo_bags': 0}
+========
+light_tan_bags
+{}
+pale_yellow
+{'light_tan_bags': 0}
+pale_crimson
+{'light_tan_bags': 0, 'pale_yellow': 0}
+light_gray
+{'light_tan_bags': 0, 'pale_yellow': 0, 'pale_crimson': 0}
+========
+drab_plum_bags
+{}
+shiny_turquoise
+{'drab_plum_bags': 0}
+vibrant_yellow
+{'drab_plum_bags': 0, 'shiny_turquoise': 0}
+muted_brown
+{'drab_plum_bags': 0, 'shiny_turquoise': 0, 'vibrant_yellow': 0}
+drab_lavender
+{'drab_plum_bags': 0, 'shiny_turquoise': 0, 'vibrant_yellow': 0, 'muted_brown': 0}
+========
+dim_white_bags
+{}
+dark_red
+{'dim_white_bags': 0}
+dotted_olive
+{'dim_white_bags': 0, 'dark_red': 0}
+========
+light_red_bags
+{}
+vibrant_indigo
+{'light_red_bags': 0}
+wavy_salmon
+{'light_red_bags': 0, 'vibrant_indigo': 0}
+dull_brown
+{'light_red_bags': 0, 'vibrant_indigo': 0, 'wavy_salmon': 0}
+========
+mirrored_fuchsia_bags
+{}
+dotted_tomato
+{'mirrored_fuchsia_bags': 0}
+========
+mirrored_indigo_bags
+{}
+pale_lime
+{'mirrored_indigo_bags': 0}
+light_magenta
+{'mirrored_indigo_bags': 0, 'pale_lime': 0}
+light_gray
+{'mirrored_indigo_bags': 0, 'pale_lime': 0, 'light_magenta': 0}
+dull_red
+{'mirrored_indigo_bags': 0, 'pale_lime': 0, 'light_magenta': 0, 'light_gray': 0}
+========
+dim_yellow_bags
+{}
+muted_beige
+{'dim_yellow_bags': 0}
+plaid_olive
+{'dim_yellow_bags': 0, 'muted_beige': 0}
+faded_aqua
+{'dim_yellow_bags': 0, 'muted_beige': 0, 'plaid_olive': 0}
+========
+shiny_gray_bags
+{}
+drab_yellow
+{'shiny_gray_bags': 0}
+shiny_lavender
+{'shiny_gray_bags': 0, 'drab_yellow': 0}
+posh_white
+{'shiny_gray_bags': 0, 'drab_yellow': 0, 'shiny_lavender': 0}
+========
+faded_violet_bags
+{}
+bright_olive
+{'faded_violet_bags': 0}
+clear_gray
+{'faded_violet_bags': 0, 'bright_olive': 0}
+dark_orange
+{'faded_violet_bags': 0, 'bright_olive': 0, 'clear_gray': 0}
+pale_magenta
+{'faded_violet_bags': 0, 'bright_olive': 0, 'clear_gray': 0, 'dark_orange': 0}
+========
+mirrored_black_bags
+{}
+clear_blue
+{'mirrored_black_bags': 0}
+========
+drab_aqua_bags
+{}
+vibrant_crimson
+{'drab_aqua_bags': 0}
+clear_fuchsia
+{'drab_aqua_bags': 0, 'vibrant_crimson': 0}
+========
+pale_black_bags
+{}
+pale_turquoise
+{'pale_black_bags': 0}
+striped_yellow
+{'pale_black_bags': 0, 'pale_turquoise': 0}
+dotted_beige
+{'pale_black_bags': 0, 'pale_turquoise': 0, 'striped_yellow': 0}
+========
+wavy_cyan_bags
+{}
+vibrant_brown
+{'wavy_cyan_bags': 0}
+========
+dark_silver_bags
+{}
+light_tomato
+{'dark_silver_bags': 0}
+dotted_lavender
+{'dark_silver_bags': 0, 'light_tomato': 0}
+bright_turquoise
+{'dark_silver_bags': 0, 'light_tomato': 0, 'dotted_lavender': 0}
+========
+faded_orange_bags
+{}
+clear_turquoise
+{'faded_orange_bags': 0}
+mirrored_gold
+{'faded_orange_bags': 0, 'clear_turquoise': 0}
+plaid_bronze
+{'faded_orange_bags': 0, 'clear_turquoise': 0, 'mirrored_gold': 0}
+dotted_fuchsia
+{'faded_orange_bags': 0, 'clear_turquoise': 0, 'mirrored_gold': 0, 'plaid_bronze': 0}
+========
+drab_crimson_bags
+{}
+clear_blue
+{'drab_crimson_bags': 0}
+========
+posh_magenta_bags
+{}
+bright_violet
+{'posh_magenta_bags': 0}
+dotted_beige
+{'posh_magenta_bags': 0, 'bright_violet': 0}
+bright_gray
+{'posh_magenta_bags': 0, 'bright_violet': 0, 'dotted_beige': 0}
+========
+posh_brown_bags
+{}
+dim_tomato
+{'posh_brown_bags': 0}
+dim_chartreuse
+{'posh_brown_bags': 0, 'dim_tomato': 0}
+shiny_orange
+{'posh_brown_bags': 0, 'dim_tomato': 0, 'dim_chartreuse': 0}
+========
+drab_gray_bags
+{}
+striped_violet
+{'drab_gray_bags': 0}
+========
+pale_cyan_bags
+{}
+dotted_aqua
+{'pale_cyan_bags': 0}
+striped_tomato
+{'pale_cyan_bags': 0, 'dotted_aqua': 0}
+========
+wavy_tan_bags
+{}
+pale_indigo
+{'wavy_tan_bags': 0}
+========
+plaid_brown_bags
+{}
+dotted_indigo
+{'plaid_brown_bags': 0}
+dull_indigo
+{'plaid_brown_bags': 0, 'dotted_indigo': 0}
+light_brown
+{'plaid_brown_bags': 0, 'dotted_indigo': 0, 'dull_indigo': 0}
+========
+vibrant_beige_bags
+{}
+shiny_teal
+{'vibrant_beige_bags': 0}
+vibrant_cyan
+{'vibrant_beige_bags': 0, 'shiny_teal': 0}
+posh_gray
+{'vibrant_beige_bags': 0, 'shiny_teal': 0, 'vibrant_cyan': 0}
+striped_tomato
+{'vibrant_beige_bags': 0, 'shiny_teal': 0, 'vibrant_cyan': 0, 'posh_gray': 0}
+========
+shiny_aqua_bags
+{}
+vibrant_black
+{'shiny_aqua_bags': 0}
+muted_coral
+{'shiny_aqua_bags': 0, 'vibrant_black': 0}
+vibrant_coral
+{'shiny_aqua_bags': 0, 'vibrant_black': 0, 'muted_coral': 0}
+========
+mirrored_silver_bags
+{}
+drab_silver
+{'mirrored_silver_bags': 0}
+clear_turquoise
+{'mirrored_silver_bags': 0, 'drab_silver': 0}
+========
+pale_tan_bags
+{}
+pale_magenta
+{'pale_tan_bags': 0}
+========
+striped_cyan_bags
+{}
+drab_tomato
+{'striped_cyan_bags': 0}
+========
+mirrored_coral_bags
+{}
+mirrored_crimson
+{'mirrored_coral_bags': 0}
+bright_maroon
+{'mirrored_coral_bags': 0, 'mirrored_crimson': 0}
+========
+pale_white_bags
+{}
+shiny_beige
+{'pale_white_bags': 0}
+shiny_maroon
+{'pale_white_bags': 0, 'shiny_beige': 0}
+dim_bronze
+{'pale_white_bags': 0, 'shiny_beige': 0, 'shiny_maroon': 0}
+========
+shiny_beige_bags
+{}
+mirrored_gold
+{'shiny_beige_bags': 0}
+========
+mirrored_chartreuse_bags
+{}
+dotted_tomato
+{'mirrored_chartreuse_bags': 0}
+bright_cyan
+{'mirrored_chartreuse_bags': 0, 'dotted_tomato': 0}
+========
+wavy_red_bags
+{}
+posh_lavender
+{'wavy_red_bags': 0}
+vibrant_blue
+{'wavy_red_bags': 0, 'posh_lavender': 0}
+muted_brown
+{'wavy_red_bags': 0, 'posh_lavender': 0, 'vibrant_blue': 0}
+========
+muted_chartreuse_bags
+{}
+dim_lavender
+{'muted_chartreuse_bags': 0}
+pale_plum
+{'muted_chartreuse_bags': 0, 'dim_lavender': 0}
+light_magenta
+{'muted_chartreuse_bags': 0, 'dim_lavender': 0, 'pale_plum': 0}
+========
+shiny_purple_bags
+{}
+muted_green
+{'shiny_purple_bags': 0}
+light_white
+{'shiny_purple_bags': 0, 'muted_green': 0}
+faded_tan
+{'shiny_purple_bags': 0, 'muted_green': 0, 'light_white': 0}
+light_beige
+{'shiny_purple_bags': 0, 'muted_green': 0, 'light_white': 0, 'faded_tan': 0}
+========
+clear_tan_bags
+{}
+dotted_red
+{'clear_tan_bags': 0}
+striped_violet
+{'clear_tan_bags': 0, 'dotted_red': 0}
+plaid_chartreuse
+{'clear_tan_bags': 0, 'dotted_red': 0, 'striped_violet': 0}
+========
+bright_teal_bags
+{}
+faded_black
+{'bright_teal_bags': 0}
+faded_maroon
+{'bright_teal_bags': 0, 'faded_black': 0}
+========
+posh_orange_bags
+{}
+light_gold
+{'posh_orange_bags': 0}
+posh_aqua
+{'posh_orange_bags': 0, 'light_gold': 0}
+========
+striped_gray_bags
+{}
+bright_plum
+{'striped_gray_bags': 0}
+shiny_gray
+{'striped_gray_bags': 0, 'bright_plum': 0}
+========
+dim_lime_bags
+{}
+plaid_blue
+{'dim_lime_bags': 0}
+========
+posh_fuchsia_bags
+{}
+dull_indigo
+{'posh_fuchsia_bags': 0}
+plaid_blue
+{'posh_fuchsia_bags': 0, 'dull_indigo': 0}
+========
+dotted_tomato_bags
+{}
+========
+dim_plum_bags
+{}
+dim_chartreuse
+{'dim_plum_bags': 0}
+========
+dim_orange_bags
+{}
+muted_magenta
+{'dim_orange_bags': 0}
+faded_aqua
+{'dim_orange_bags': 0, 'muted_magenta': 0}
+========
+posh_gold_bags
+{}
+light_maroon
+{'posh_gold_bags': 0}
+dark_turquoise
+{'posh_gold_bags': 0, 'light_maroon': 0}
+posh_white
+{'posh_gold_bags': 0, 'light_maroon': 0, 'dark_turquoise': 0}
+wavy_beige
+{'posh_gold_bags': 0, 'light_maroon': 0, 'dark_turquoise': 0, 'posh_white': 0}
+========
+striped_bronze_bags
+{}
+dark_magenta
+{'striped_bronze_bags': 0}
+========
+wavy_lime_bags
+{}
+mirrored_lavender
+{'wavy_lime_bags': 0}
+pale_bronze
+{'wavy_lime_bags': 0, 'mirrored_lavender': 0}
+dull_white
+{'wavy_lime_bags': 0, 'mirrored_lavender': 0, 'pale_bronze': 0}
+========
+pale_magenta_bags
+{}
+dim_crimson
+{'pale_magenta_bags': 0}
+plaid_plum
+{'pale_magenta_bags': 0, 'dim_crimson': 0}
+muted_silver
+{'pale_magenta_bags': 0, 'dim_crimson': 0, 'plaid_plum': 0}
+dim_yellow
+{'pale_magenta_bags': 0, 'dim_crimson': 0, 'plaid_plum': 0, 'muted_silver': 0}
+========
+striped_chartreuse_bags
+{}
+light_black
+{'striped_chartreuse_bags': 0}
+bright_fuchsia
+{'striped_chartreuse_bags': 0, 'light_black': 0}
+pale_black
+{'striped_chartreuse_bags': 0, 'light_black': 0, 'bright_fuchsia': 0}
+========
+vibrant_tan_bags
+{}
+dim_tan
+{'vibrant_tan_bags': 0}
+========
+shiny_crimson_bags
+{}
+pale_beige
+{'shiny_crimson_bags': 0}
+clear_purple
+{'shiny_crimson_bags': 0, 'pale_beige': 0}
+pale_violet
+{'shiny_crimson_bags': 0, 'pale_beige': 0, 'clear_purple': 0}
+dotted_chartreuse
+{'shiny_crimson_bags': 0, 'pale_beige': 0, 'clear_purple': 0, 'pale_violet': 0}
+========
+vibrant_orange_bags
+{}
+========
+striped_silver_bags
+{}
+clear_orange
+{'striped_silver_bags': 0}
+dotted_fuchsia
+{'striped_silver_bags': 0, 'clear_orange': 0}
+========
+clear_cyan_bags
+{}
+muted_gray
+{'clear_cyan_bags': 0}
+wavy_aqua
+{'clear_cyan_bags': 0, 'muted_gray': 0}
+========
+light_black_bags
+{}
+striped_yellow
+{'light_black_bags': 0}
+========
+muted_white_bags
+{}
+muted_tomato
+{'muted_white_bags': 0}
+light_black
+{'muted_white_bags': 0, 'muted_tomato': 0}
+pale_black
+{'muted_white_bags': 0, 'muted_tomato': 0, 'light_black': 0}
+shiny_gold
+{'muted_white_bags': 0, 'muted_tomato': 0, 'light_black': 0, 'pale_black': 0}
+6
