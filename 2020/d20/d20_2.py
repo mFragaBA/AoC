@@ -61,9 +61,7 @@ class ImageTile:
         if (candidate.id in self.matches):
             return True
 
-        if len(candidate.matches) > 0 and len(self.matches) == 0:
-            return ImageTile.adjustAndConnect(self, candidate)
-        elif len(self.matches) > 0 and len(candidate.matches) == 0:
+        if len(candidate.matches) == 0:
             return ImageTile.adjustAndConnect(candidate, self)
         
         return ImageTile.checkConnection(self, candidate)
@@ -94,7 +92,7 @@ def connectAll(imageTiles, i, connected):
         if j not in connected:
            connectAll(imageTiles, j, connected) 
 
-def fillBoardAt(i, j, board, it):
+def fillBigBoardAt(i, j, board, it):
     for x in range(8):
         for y in range(8):
             board[i+x][j+y] = it.tiles[x+1][y+1]
@@ -149,7 +147,7 @@ with open('d20_input.txt', 'r') as infile:
         j = 0
         itCol = itRow
         while itCol != -1:
-            fillBoardAt(i, j, board, itCol)
+            fillBigBoardAt(i, j, board, itCol)
             itCol = itCol.right
             j += 8
 
