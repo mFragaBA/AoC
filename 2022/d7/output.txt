@@ -1,0 +1,1350 @@
+['cd /']
+new_dir: /
+current_path: []
+new path: []
+['cd fml']
+new_dir: fml
+current_path: []
+new path: ['fml']
+['cd bztjtqg']
+new_dir: bztjtqg
+current_path: ['fml']
+new path: ['fml', 'bztjtqg']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['fml', 'bztjtqg']
+new path: ['fml', 'bztjtqg', 'dwhl']
+['cd fqdzv']
+new_dir: fqdzv
+current_path: ['fml', 'bztjtqg', 'dwhl']
+new path: ['fml', 'bztjtqg', 'dwhl', 'fqdzv']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'bztjtqg', 'dwhl', 'fqdzv']
+new path: ['fml', 'bztjtqg', 'dwhl']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['fml', 'bztjtqg', 'dwhl']
+new path: ['fml', 'bztjtqg', 'dwhl', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'bztjtqg', 'dwhl', 'wlfprc']
+new path: ['fml', 'bztjtqg', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'bztjtqg', 'dwhl']
+new path: ['fml', 'bztjtqg']
+['cd lwtrqrqq']
+new_dir: lwtrqrqq
+current_path: ['fml', 'bztjtqg']
+new path: ['fml', 'bztjtqg', 'lwtrqrqq']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'bztjtqg', 'lwtrqrqq']
+new path: ['fml', 'bztjtqg']
+['cd nsdgz']
+new_dir: nsdgz
+current_path: ['fml', 'bztjtqg']
+new path: ['fml', 'bztjtqg', 'nsdgz']
+['cd qzdb']
+new_dir: qzdb
+current_path: ['fml', 'bztjtqg', 'nsdgz']
+new path: ['fml', 'bztjtqg', 'nsdgz', 'qzdb']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'bztjtqg', 'nsdgz', 'qzdb']
+new path: ['fml', 'bztjtqg', 'nsdgz']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'bztjtqg', 'nsdgz']
+new path: ['fml', 'bztjtqg']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'bztjtqg']
+new path: ['fml']
+['cd lwpbbb']
+new_dir: lwpbbb
+current_path: ['fml']
+new path: ['fml', 'lwpbbb']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['fml', 'lwpbbb']
+new path: ['fml', 'lwpbbb', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'lwpbbb', 'chvtw']
+new path: ['fml', 'lwpbbb']
+['cd fgfm']
+new_dir: fgfm
+current_path: ['fml', 'lwpbbb']
+new path: ['fml', 'lwpbbb', 'fgfm']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'lwpbbb', 'fgfm']
+new path: ['fml', 'lwpbbb']
+['cd nsdgz']
+new_dir: nsdgz
+current_path: ['fml', 'lwpbbb']
+new path: ['fml', 'lwpbbb', 'nsdgz']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'lwpbbb', 'nsdgz']
+new path: ['fml', 'lwpbbb']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'lwpbbb']
+new path: ['fml']
+['cd nsdgz']
+new_dir: nsdgz
+current_path: ['fml']
+new path: ['fml', 'nsdgz']
+['cd cqwh']
+new_dir: cqwh
+current_path: ['fml', 'nsdgz']
+new path: ['fml', 'nsdgz', 'cqwh']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['fml', 'nsdgz', 'cqwh']
+new path: ['fml', 'nsdgz', 'cqwh', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'cqwh', 'dwhl']
+new path: ['fml', 'nsdgz', 'cqwh']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'cqwh']
+new path: ['fml', 'nsdgz']
+['cd rdcmr']
+new_dir: rdcmr
+current_path: ['fml', 'nsdgz']
+new path: ['fml', 'nsdgz', 'rdcmr']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'rdcmr']
+new path: ['fml', 'nsdgz']
+['cd stqhwh']
+new_dir: stqhwh
+current_path: ['fml', 'nsdgz']
+new path: ['fml', 'nsdgz', 'stqhwh']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['fml', 'nsdgz', 'stqhwh']
+new path: ['fml', 'nsdgz', 'stqhwh', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'stqhwh', 'chvtw']
+new path: ['fml', 'nsdgz', 'stqhwh']
+['cd twfztmq']
+new_dir: twfztmq
+current_path: ['fml', 'nsdgz', 'stqhwh']
+new path: ['fml', 'nsdgz', 'stqhwh', 'twfztmq']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'stqhwh', 'twfztmq']
+new path: ['fml', 'nsdgz', 'stqhwh']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['fml', 'nsdgz', 'stqhwh']
+new path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc']
+['cd dncq']
+new_dir: dncq
+current_path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc']
+new path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc', 'dncq']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc', 'dncq']
+new path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc']
+['cd fmqzns']
+new_dir: fmqzns
+current_path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc']
+new path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc', 'fmqzns']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc', 'fmqzns']
+new path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'stqhwh', 'wlfprc']
+new path: ['fml', 'nsdgz', 'stqhwh']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz', 'stqhwh']
+new path: ['fml', 'nsdgz']
+['cd ..']
+new_dir: ..
+current_path: ['fml', 'nsdgz']
+new path: ['fml']
+['cd ..']
+new_dir: ..
+current_path: ['fml']
+new path: []
+['cd jbgpgvj']
+new_dir: jbgpgvj
+current_path: []
+new path: ['jbgpgvj']
+['cd ..']
+new_dir: ..
+current_path: ['jbgpgvj']
+new path: []
+['cd qjphltd']
+new_dir: qjphltd
+current_path: []
+new path: ['qjphltd']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd']
+new path: ['qjphltd', 'dwhl']
+['cd cgrdfzc']
+new_dir: cgrdfzc
+current_path: ['qjphltd', 'dwhl']
+new path: ['qjphltd', 'dwhl', 'cgrdfzc']
+['cd jqwgwcm']
+new_dir: jqwgwcm
+current_path: ['qjphltd', 'dwhl', 'cgrdfzc']
+new path: ['qjphltd', 'dwhl', 'cgrdfzc', 'jqwgwcm']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'cgrdfzc', 'jqwgwcm']
+new path: ['qjphltd', 'dwhl', 'cgrdfzc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'cgrdfzc']
+new path: ['qjphltd', 'dwhl']
+['cd jgzjzvh']
+new_dir: jgzjzvh
+current_path: ['qjphltd', 'dwhl']
+new path: ['qjphltd', 'dwhl', 'jgzjzvh']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['qjphltd', 'dwhl', 'jgzjzvh']
+new path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw']
+['cd zmwmcgcr']
+new_dir: zmwmcgcr
+current_path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw']
+new path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw', 'zmwmcgcr']
+['cd wjq']
+new_dir: wjq
+current_path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw', 'zmwmcgcr']
+new path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw', 'zmwmcgcr', 'wjq']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw', 'zmwmcgcr', 'wjq']
+new path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw', 'zmwmcgcr']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw', 'zmwmcgcr']
+new path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'jgzjzvh', 'chvtw']
+new path: ['qjphltd', 'dwhl', 'jgzjzvh']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'jgzjzvh']
+new path: ['qjphltd', 'dwhl']
+['cd zfrpc']
+new_dir: zfrpc
+current_path: ['qjphltd', 'dwhl']
+new path: ['qjphltd', 'dwhl', 'zfrpc']
+['cd cqv']
+new_dir: cqv
+current_path: ['qjphltd', 'dwhl', 'zfrpc']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'cqv']
+['cd vdpnmst']
+new_dir: vdpnmst
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'cqv']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'cqv', 'vdpnmst']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'cqv', 'vdpnmst']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'cqv']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'cqv']
+new path: ['qjphltd', 'dwhl', 'zfrpc']
+['cd llwsnsd']
+new_dir: llwsnsd
+current_path: ['qjphltd', 'dwhl', 'zfrpc']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+['cd glhdqhf']
+new_dir: glhdqhf
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd', 'glhdqhf']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd', 'glhdqhf']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+['cd wblwwf']
+new_dir: wblwwf
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd', 'wblwwf']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd', 'wblwwf']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd', 'wlfprc']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+['cd zrjzmj']
+new_dir: zrjzmj
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd', 'zrjzmj']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd', 'zrjzmj']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'llwsnsd']
+new path: ['qjphltd', 'dwhl', 'zfrpc']
+['cd qrmg']
+new_dir: qrmg
+current_path: ['qjphltd', 'dwhl', 'zfrpc']
+new path: ['qjphltd', 'dwhl', 'zfrpc', 'qrmg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc', 'qrmg']
+new path: ['qjphltd', 'dwhl', 'zfrpc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl', 'zfrpc']
+new path: ['qjphltd', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'dwhl']
+new path: ['qjphltd']
+['cd fcqfgnvh']
+new_dir: fcqfgnvh
+current_path: ['qjphltd']
+new path: ['qjphltd', 'fcqfgnvh']
+['cd gbzslwz']
+new_dir: gbzslwz
+current_path: ['qjphltd', 'fcqfgnvh']
+new path: ['qjphltd', 'fcqfgnvh', 'gbzslwz']
+['cd njzvwjh']
+new_dir: njzvwjh
+current_path: ['qjphltd', 'fcqfgnvh', 'gbzslwz']
+new path: ['qjphltd', 'fcqfgnvh', 'gbzslwz', 'njzvwjh']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'fcqfgnvh', 'gbzslwz', 'njzvwjh']
+new path: ['qjphltd', 'fcqfgnvh', 'gbzslwz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'fcqfgnvh', 'gbzslwz']
+new path: ['qjphltd', 'fcqfgnvh']
+['cd nsdgz']
+new_dir: nsdgz
+current_path: ['qjphltd', 'fcqfgnvh']
+new path: ['qjphltd', 'fcqfgnvh', 'nsdgz']
+['cd cmfz']
+new_dir: cmfz
+current_path: ['qjphltd', 'fcqfgnvh', 'nsdgz']
+new path: ['qjphltd', 'fcqfgnvh', 'nsdgz', 'cmfz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'fcqfgnvh', 'nsdgz', 'cmfz']
+new path: ['qjphltd', 'fcqfgnvh', 'nsdgz']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'fcqfgnvh', 'nsdgz']
+new path: ['qjphltd', 'fcqfgnvh', 'nsdgz', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'fcqfgnvh', 'nsdgz', 'wlfprc']
+new path: ['qjphltd', 'fcqfgnvh', 'nsdgz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'fcqfgnvh', 'nsdgz']
+new path: ['qjphltd', 'fcqfgnvh']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'fcqfgnvh']
+new path: ['qjphltd']
+['cd ltm']
+new_dir: ltm
+current_path: ['qjphltd']
+new path: ['qjphltd', 'ltm']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'ltm']
+new path: ['qjphltd']
+['cd mbbvp']
+new_dir: mbbvp
+current_path: ['qjphltd']
+new path: ['qjphltd', 'mbbvp']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mbbvp']
+new path: ['qjphltd']
+['cd mgnl']
+new_dir: mgnl
+current_path: ['qjphltd']
+new path: ['qjphltd', 'mgnl']
+['cd bpc']
+new_dir: bpc
+current_path: ['qjphltd', 'mgnl']
+new path: ['qjphltd', 'mgnl', 'bpc']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['qjphltd', 'mgnl', 'bpc']
+new path: ['qjphltd', 'mgnl', 'bpc', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'bpc']
+['cd dzlv']
+new_dir: dzlv
+current_path: ['qjphltd', 'mgnl', 'bpc']
+new path: ['qjphltd', 'mgnl', 'bpc', 'dzlv']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'dzlv']
+new path: ['qjphltd', 'mgnl', 'bpc']
+['cd hdvdfnw']
+new_dir: hdvdfnw
+current_path: ['qjphltd', 'mgnl', 'bpc']
+new path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw']
+['cd hsjb']
+new_dir: hsjb
+current_path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw']
+new path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw', 'hsjb']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw', 'hsjb']
+new path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw']
+['cd pczq']
+new_dir: pczq
+current_path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw']
+new path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw', 'pczq']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw', 'pczq']
+new path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'hdvdfnw']
+new path: ['qjphltd', 'mgnl', 'bpc']
+['cd nsdgz']
+new_dir: nsdgz
+current_path: ['qjphltd', 'mgnl', 'bpc']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz']
+['cd bpgdn']
+new_dir: bpgdn
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'bpgdn']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'bpgdn']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz']
+['cd rll']
+new_dir: rll
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'rll']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'rll']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'wlfprc']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'wlfprc', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'wlfprc', 'dwhl']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'nsdgz']
+new path: ['qjphltd', 'mgnl', 'bpc']
+['cd pds']
+new_dir: pds
+current_path: ['qjphltd', 'mgnl', 'bpc']
+new path: ['qjphltd', 'mgnl', 'bpc', 'pds']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc', 'pds']
+new path: ['qjphltd', 'mgnl', 'bpc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'bpc']
+new path: ['qjphltd', 'mgnl']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['qjphltd', 'mgnl']
+new path: ['qjphltd', 'mgnl', 'chvtw']
+['cd vhspmg']
+new_dir: vhspmg
+current_path: ['qjphltd', 'mgnl', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'chvtw', 'vhspmg']
+['cd flzpg']
+new_dir: flzpg
+current_path: ['qjphltd', 'mgnl', 'chvtw', 'vhspmg']
+new path: ['qjphltd', 'mgnl', 'chvtw', 'vhspmg', 'flzpg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'chvtw', 'vhspmg', 'flzpg']
+new path: ['qjphltd', 'mgnl', 'chvtw', 'vhspmg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'chvtw', 'vhspmg']
+new path: ['qjphltd', 'mgnl', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'chvtw']
+new path: ['qjphltd', 'mgnl']
+['cd qwjp']
+new_dir: qwjp
+current_path: ['qjphltd', 'mgnl']
+new path: ['qjphltd', 'mgnl', 'qwjp']
+['cd crzqrz']
+new_dir: crzqrz
+current_path: ['qjphltd', 'mgnl', 'qwjp']
+new path: ['qjphltd', 'mgnl', 'qwjp', 'crzqrz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'qwjp', 'crzqrz']
+new path: ['qjphltd', 'mgnl', 'qwjp']
+['cd gwwrhjh']
+new_dir: gwwrhjh
+current_path: ['qjphltd', 'mgnl', 'qwjp']
+new path: ['qjphltd', 'mgnl', 'qwjp', 'gwwrhjh']
+['cd lvnsvm']
+new_dir: lvnsvm
+current_path: ['qjphltd', 'mgnl', 'qwjp', 'gwwrhjh']
+new path: ['qjphltd', 'mgnl', 'qwjp', 'gwwrhjh', 'lvnsvm']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'qwjp', 'gwwrhjh', 'lvnsvm']
+new path: ['qjphltd', 'mgnl', 'qwjp', 'gwwrhjh']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'qwjp', 'gwwrhjh']
+new path: ['qjphltd', 'mgnl', 'qwjp']
+['cd nsdgz']
+new_dir: nsdgz
+current_path: ['qjphltd', 'mgnl', 'qwjp']
+new path: ['qjphltd', 'mgnl', 'qwjp', 'nsdgz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'qwjp', 'nsdgz']
+new path: ['qjphltd', 'mgnl', 'qwjp']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'qwjp']
+new path: ['qjphltd', 'mgnl']
+['cd vfrbjgdm']
+new_dir: vfrbjgdm
+current_path: ['qjphltd', 'mgnl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+['cd bfwl']
+new_dir: bfwl
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl']
+['cd frrsl']
+new_dir: frrsl
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'frrsl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'frrsl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl']
+['cd vnzvmpmg']
+new_dir: vnzvmpmg
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'vnzvmpmg']
+['cd hfnjf']
+new_dir: hfnjf
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'vnzvmpmg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'vnzvmpmg', 'hfnjf']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'vnzvmpmg', 'hfnjf']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'vnzvmpmg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'vnzvmpmg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc']
+['cd hsbg']
+new_dir: hsbg
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'hsbg']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'hsbg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'hsbg', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'hsbg', 'dwhl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'hsbg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'hsbg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc']
+['cd mgzvqhtr']
+new_dir: mgzvqhtr
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'mgzvqhtr']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'mgzvqhtr']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc']
+['cd nbbdv']
+new_dir: nbbdv
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'nbbdv']
+['cd hnv']
+new_dir: hnv
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'nbbdv']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'nbbdv', 'hnv']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'nbbdv', 'hnv']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'nbbdv']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc', 'nbbdv']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'bfwl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+['cd fvfmzg']
+new_dir: fvfmzg
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'fvfmzg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'fvfmzg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+['cd mzmdjhjq']
+new_dir: mzmdjhjq
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq']
+['cd zrmt']
+new_dir: zrmt
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq', 'zrmt']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq', 'zrmt']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq', 'zrmt', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq', 'zrmt', 'dwhl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq', 'zrmt']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq', 'zrmt']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'mzmdjhjq']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+['cd vdfw']
+new_dir: vdfw
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw']
+['cd lmplrbzc']
+new_dir: lmplrbzc
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'lmplrbzc']
+['cd mmf']
+new_dir: mmf
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'lmplrbzc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'lmplrbzc', 'mmf']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'lmplrbzc', 'mmf']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'lmplrbzc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'lmplrbzc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw']
+['cd ttq']
+new_dir: ttq
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq']
+['cd qwfvql']
+new_dir: qwfvql
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'qwfvql']
+['cd tbldv']
+new_dir: tbldv
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'qwfvql']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'qwfvql', 'tbldv']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'qwfvql', 'tbldv']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'qwfvql']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'qwfvql']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq']
+['cd zhfg']
+new_dir: zhfg
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg', 'wlfprc']
+['cd dggm']
+new_dir: dggm
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg', 'wlfprc', 'dggm']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg', 'wlfprc', 'dggm']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg', 'wlfprc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq', 'zhfg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw', 'ttq']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'vdfw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+['cd wvgj']
+new_dir: wvgj
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'wvgj']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw', 'wvgj']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+['cd fnw']
+new_dir: fnw
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw']
+['cd dmcbshg']
+new_dir: dmcbshg
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg']
+['cd fsh']
+new_dir: fsh
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg', 'fsh']
+['cd cgstfrbl']
+new_dir: cgstfrbl
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg', 'fsh']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg', 'fsh', 'cgstfrbl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg', 'fsh', 'cgstfrbl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg', 'fsh']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg', 'fsh']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'dmcbshg']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw']
+['cd mdvt']
+new_dir: mdvt
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt']
+['cd mts']
+new_dir: mts
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt', 'mts']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt', 'mts']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt']
+['cd pwrvqrjc']
+new_dir: pwrvqrjc
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt', 'pwrvqrjc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt', 'pwrvqrjc']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt']
+['cd qwrh']
+new_dir: qwrh
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt', 'qwrh']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt', 'qwrh']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw', 'mdvt']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'fnw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+['cd gvddj']
+new_dir: gvddj
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj']
+['cd cgbpbw']
+new_dir: cgbpbw
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+['cd bcbgqzj']
+new_dir: bcbgqzj
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'bcbgqzj']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'bcbgqzj']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'dwhl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+['cd nhtz']
+new_dir: nhtz
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nhtz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nhtz']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+['cd nlnbr']
+new_dir: nlnbr
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'chvtw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'dwhl']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'dwhl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'dwhl', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'dwhl', 'dwhl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'dwhl']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+['cd ncmpwvrd']
+new_dir: ncmpwvrd
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'ncmpwvrd']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'ncmpwvrd']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+['cd vdpnmst']
+new_dir: vdpnmst
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'vdpnmst']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr', 'vdpnmst']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw', 'nlnbr']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'cgbpbw']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj']
+['cd vdpnmst']
+new_dir: vdpnmst
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'vdpnmst']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'vdpnmst']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj']
+['cd zlh']
+new_dir: zlh
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'zlh']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj', 'zlh']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'gvddj']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+['cd jdzsng']
+new_dir: jdzsng
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'jdzsng']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'jdzsng']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+['cd nsdgz']
+new_dir: nsdgz
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'nsdgz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm', 'nsdgz']
+new path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'vfrbjgdm']
+new path: ['qjphltd', 'mgnl']
+['cd ztpggl']
+new_dir: ztpggl
+current_path: ['qjphltd', 'mgnl']
+new path: ['qjphltd', 'mgnl', 'ztpggl']
+['cd vbrtv']
+new_dir: vbrtv
+current_path: ['qjphltd', 'mgnl', 'ztpggl']
+new path: ['qjphltd', 'mgnl', 'ztpggl', 'vbrtv']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'ztpggl', 'vbrtv']
+new path: ['qjphltd', 'mgnl', 'ztpggl']
+['cd vdpnmst']
+new_dir: vdpnmst
+current_path: ['qjphltd', 'mgnl', 'ztpggl']
+new path: ['qjphltd', 'mgnl', 'ztpggl', 'vdpnmst']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'ztpggl', 'vdpnmst']
+new path: ['qjphltd', 'mgnl', 'ztpggl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl', 'ztpggl']
+new path: ['qjphltd', 'mgnl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'mgnl']
+new path: ['qjphltd']
+['cd nhmqcpdl']
+new_dir: nhmqcpdl
+current_path: ['qjphltd']
+new path: ['qjphltd', 'nhmqcpdl']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'nhmqcpdl']
+new path: ['qjphltd', 'nhmqcpdl', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'nhmqcpdl', 'dwhl']
+new path: ['qjphltd', 'nhmqcpdl']
+['cd nsdgz']
+new_dir: nsdgz
+current_path: ['qjphltd', 'nhmqcpdl']
+new path: ['qjphltd', 'nhmqcpdl', 'nsdgz']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'nhmqcpdl', 'nsdgz']
+new path: ['qjphltd', 'nhmqcpdl']
+['cd tgwtvm']
+new_dir: tgwtvm
+current_path: ['qjphltd', 'nhmqcpdl']
+new path: ['qjphltd', 'nhmqcpdl', 'tgwtvm']
+['cd jptp']
+new_dir: jptp
+current_path: ['qjphltd', 'nhmqcpdl', 'tgwtvm']
+new path: ['qjphltd', 'nhmqcpdl', 'tgwtvm', 'jptp']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'nhmqcpdl', 'tgwtvm', 'jptp']
+new path: ['qjphltd', 'nhmqcpdl', 'tgwtvm']
+['cd qdjl']
+new_dir: qdjl
+current_path: ['qjphltd', 'nhmqcpdl', 'tgwtvm']
+new path: ['qjphltd', 'nhmqcpdl', 'tgwtvm', 'qdjl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'nhmqcpdl', 'tgwtvm', 'qdjl']
+new path: ['qjphltd', 'nhmqcpdl', 'tgwtvm']
+['cd qngflrgr']
+new_dir: qngflrgr
+current_path: ['qjphltd', 'nhmqcpdl', 'tgwtvm']
+new path: ['qjphltd', 'nhmqcpdl', 'tgwtvm', 'qngflrgr']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'nhmqcpdl', 'tgwtvm', 'qngflrgr']
+new path: ['qjphltd', 'nhmqcpdl', 'tgwtvm']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'nhmqcpdl', 'tgwtvm']
+new path: ['qjphltd', 'nhmqcpdl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'nhmqcpdl']
+new path: ['qjphltd']
+['cd tvplqllb']
+new_dir: tvplqllb
+current_path: ['qjphltd']
+new path: ['qjphltd', 'tvplqllb']
+['cd hpfr']
+new_dir: hpfr
+current_path: ['qjphltd', 'tvplqllb']
+new path: ['qjphltd', 'tvplqllb', 'hpfr']
+['cd bbgbnr']
+new_dir: bbgbnr
+current_path: ['qjphltd', 'tvplqllb', 'hpfr']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr']
+['cd nsjfgmrs']
+new_dir: nsjfgmrs
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs']
+['cd ppwm']
+new_dir: ppwm
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs', 'ppwm']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs', 'ppwm']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs']
+['cd vztfzgrd']
+new_dir: vztfzgrd
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs', 'vztfzgrd']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs', 'vztfzgrd']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr', 'nsjfgmrs']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'bbgbnr']
+new path: ['qjphltd', 'tvplqllb', 'hpfr']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'tvplqllb', 'hpfr']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'dwhl']
+new path: ['qjphltd', 'tvplqllb', 'hpfr']
+['cd jvddlfsf']
+new_dir: jvddlfsf
+current_path: ['qjphltd', 'tvplqllb', 'hpfr']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'jvddlfsf']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'jvddlfsf']
+new path: ['qjphltd', 'tvplqllb', 'hpfr']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'tvplqllb', 'hpfr']
+new path: ['qjphltd', 'tvplqllb', 'hpfr', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'hpfr', 'wlfprc']
+new path: ['qjphltd', 'tvplqllb', 'hpfr']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'hpfr']
+new path: ['qjphltd', 'tvplqllb']
+['cd wdgzsg']
+new_dir: wdgzsg
+current_path: ['qjphltd', 'tvplqllb']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+['cd gbcqgszh']
+new_dir: gbcqgszh
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'gbcqgszh']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'gbcqgszh']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+['cd jzhvmj']
+new_dir: jzhvmj
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'jzhvmj']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'jzhvmj']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'jzhvmj', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'jzhvmj', 'wlfprc']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'jzhvmj']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'jzhvmj']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+['cd mvvltrs']
+new_dir: mvvltrs
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'chvtw']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+['cd dqvlqnn']
+new_dir: dqvlqnn
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'dqvlqnn']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'dqvlqnn']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+['cd thwdjln']
+new_dir: thwdjln
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'thwdjln']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'thwdjln']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+['cd wjl']
+new_dir: wjl
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'wjl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'wjl']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'wlfprc']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'wlfprc']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'wlfprc', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'wlfprc', 'chvtw']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs', 'wlfprc']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'mvvltrs']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+['cd wlfprc']
+new_dir: wlfprc
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc', 'dwhl']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc']
+['cd rvgrjsps']
+new_dir: rvgrjsps
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc', 'rvgrjsps']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc', 'rvgrjsps']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg', 'wlfprc']
+new path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb', 'wdgzsg']
+new path: ['qjphltd', 'tvplqllb']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd', 'tvplqllb']
+new path: ['qjphltd']
+['cd ..']
+new_dir: ..
+current_path: ['qjphltd']
+new path: []
+['cd wlfprc']
+new_dir: wlfprc
+current_path: []
+new path: ['wlfprc']
+['cd ..']
+new_dir: ..
+current_path: ['wlfprc']
+new path: []
+['cd zqvh']
+new_dir: zqvh
+current_path: []
+new path: ['zqvh']
+['cd ..']
+new_dir: ..
+current_path: ['zqvh']
+new path: []
+['cd zzmgz']
+new_dir: zzmgz
+current_path: []
+new path: ['zzmgz']
+['cd vdpnmst']
+new_dir: vdpnmst
+current_path: ['zzmgz']
+new path: ['zzmgz', 'vdpnmst']
+['cd chvtw']
+new_dir: chvtw
+current_path: ['zzmgz', 'vdpnmst']
+new path: ['zzmgz', 'vdpnmst', 'chvtw']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'chvtw']
+new path: ['zzmgz', 'vdpnmst']
+['cd dwhl']
+new_dir: dwhl
+current_path: ['zzmgz', 'vdpnmst']
+new path: ['zzmgz', 'vdpnmst', 'dwhl']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'dwhl']
+new path: ['zzmgz', 'vdpnmst']
+['cd jtbh']
+new_dir: jtbh
+current_path: ['zzmgz', 'vdpnmst']
+new path: ['zzmgz', 'vdpnmst', 'jtbh']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'jtbh']
+new path: ['zzmgz', 'vdpnmst']
+['cd lwbqctd']
+new_dir: lwbqctd
+current_path: ['zzmgz', 'vdpnmst']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+['cd dbfbfjjw']
+new_dir: dbfbfjjw
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'dbfbfjjw']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'dbfbfjjw']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+['cd qbn']
+new_dir: qbn
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn']
+['cd bdg']
+new_dir: bdg
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg']
+['cd gmlqjh']
+new_dir: gmlqjh
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg', 'gmlqjh']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg', 'gmlqjh']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg']
+['cd phvf']
+new_dir: phvf
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg', 'phvf']
+['cd dqbjm']
+new_dir: dqbjm
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg', 'phvf']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg', 'phvf', 'dqbjm']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg', 'phvf', 'dqbjm']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg', 'phvf']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg', 'phvf']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn', 'bdg']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qbn']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+['cd qqqfdrst']
+new_dir: qqqfdrst
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qqqfdrst']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'qqqfdrst']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+['cd zhzrhzcv']
+new_dir: zhzrhzcv
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'zhzrhzcv']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd', 'zhzrhzcv']
+new path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+['cd ..']
+new_dir: ..
+current_path: ['zzmgz', 'vdpnmst', 'lwbqctd']
+new path: ['zzmgz', 'vdpnmst']
+['cd vdpnmst']
+new_dir: vdpnmst
+current_path: ['zzmgz', 'vdpnmst']
+new path: ['zzmgz', 'vdpnmst', 'vdpnmst']
+['cd htgbz']
+new_dir: htgbz
+current_path: ['zzmgz', 'vdpnmst', 'vdpnmst']
+new path: ['zzmgz', 'vdpnmst', 'vdpnmst', 'htgbz']
+{'/': {'files': 418208, 'dirs': ['/fml', '/jbgpgvj', '/qjphltd', '/wlfprc', '/zqvh', '/zzmgz']}, '/fml': {'files': 562017, 'dirs': ['/fml/bztjtqg', '/fml/lwpbbb', '/fml/nsdgz']}, '/fml/bztjtqg': {'files': 105281, 'dirs': ['/fml/bztjtqg/dwhl', '/fml/bztjtqg/lwtrqrqq', '/fml/bztjtqg/nsdgz']}, '/fml/bztjtqg/dwhl': {'files': 309668, 'dirs': ['/fml/bztjtqg/dwhl/fqdzv', '/fml/bztjtqg/dwhl/wlfprc']}, '/fml/bztjtqg/dwhl/fqdzv': {'files': 140953, 'dirs': []}, '/fml/bztjtqg/dwhl/wlfprc': {'files': 180121, 'dirs': []}, '/fml/bztjtqg/lwtrqrqq': {'files': 224392, 'dirs': []}, '/fml/bztjtqg/nsdgz': {'files': 622407, 'dirs': ['/fml/bztjtqg/nsdgz/qzdb']}, '/fml/bztjtqg/nsdgz/qzdb': {'files': 297770, 'dirs': []}, '/fml/lwpbbb': {'files': 304898, 'dirs': ['/fml/lwpbbb/chvtw', '/fml/lwpbbb/fgfm', '/fml/lwpbbb/nsdgz']}, '/fml/lwpbbb/chvtw': {'files': 67998, 'dirs': []}, '/fml/lwpbbb/fgfm': {'files': 85968, 'dirs': []}, '/fml/lwpbbb/nsdgz': {'files': 281944, 'dirs': []}, '/fml/nsdgz': {'files': 647055, 'dirs': ['/fml/nsdgz/cqwh', '/fml/nsdgz/rdcmr', '/fml/nsdgz/stqhwh']}, '/fml/nsdgz/cqwh': {'files': 892248, 'dirs': ['/fml/nsdgz/cqwh/dwhl']}, '/fml/nsdgz/cqwh/dwhl': {'files': 565311, 'dirs': []}, '/fml/nsdgz/rdcmr': {'files': 332053, 'dirs': []}, '/fml/nsdgz/stqhwh': {'files': 477547, 'dirs': ['/fml/nsdgz/stqhwh/chvtw', '/fml/nsdgz/stqhwh/twfztmq', '/fml/nsdgz/stqhwh/wlfprc']}, '/fml/nsdgz/stqhwh/chvtw': {'files': 335044, 'dirs': []}, '/fml/nsdgz/stqhwh/twfztmq': {'files': 231371, 'dirs': []}, '/fml/nsdgz/stqhwh/wlfprc': {'files': 0, 'dirs': ['/fml/nsdgz/stqhwh/wlfprc/dncq', '/fml/nsdgz/stqhwh/wlfprc/fmqzns']}, '/fml/nsdgz/stqhwh/wlfprc/dncq': {'files': 40876, 'dirs': []}, '/fml/nsdgz/stqhwh/wlfprc/fmqzns': {'files': 23604, 'dirs': []}, '/jbgpgvj': {'files': 121937, 'dirs': []}, '/qjphltd': {'files': 589363, 'dirs': ['/qjphltd/dwhl', '/qjphltd/fcqfgnvh', '/qjphltd/ltm', '/qjphltd/mbbvp', '/qjphltd/mgnl', '/qjphltd/nhmqcpdl', '/qjphltd/tvplqllb']}, '/qjphltd/dwhl': {'files': 542954, 'dirs': ['/qjphltd/dwhl/cgrdfzc', '/qjphltd/dwhl/jgzjzvh', '/qjphltd/dwhl/zfrpc']}, '/qjphltd/dwhl/cgrdfzc': {'files': 276436, 'dirs': ['/qjphltd/dwhl/cgrdfzc/jqwgwcm']}, '/qjphltd/dwhl/cgrdfzc/jqwgwcm': {'files': 115858, 'dirs': []}, '/qjphltd/dwhl/jgzjzvh': {'files': 0, 'dirs': ['/qjphltd/dwhl/jgzjzvh/chvtw']}, '/qjphltd/dwhl/jgzjzvh/chvtw': {'files': 0, 'dirs': ['/qjphltd/dwhl/jgzjzvh/chvtw/zmwmcgcr']}, '/qjphltd/dwhl/jgzjzvh/chvtw/zmwmcgcr': {'files': 0, 'dirs': ['/qjphltd/dwhl/jgzjzvh/chvtw/zmwmcgcr/wjq']}, '/qjphltd/dwhl/jgzjzvh/chvtw/zmwmcgcr/wjq': {'files': 121465, 'dirs': []}, '/qjphltd/dwhl/zfrpc': {'files': 0, 'dirs': ['/qjphltd/dwhl/zfrpc/cqv', '/qjphltd/dwhl/zfrpc/llwsnsd', '/qjphltd/dwhl/zfrpc/qrmg']}, '/qjphltd/dwhl/zfrpc/cqv': {'files': 0, 'dirs': ['/qjphltd/dwhl/zfrpc/cqv/vdpnmst']}, '/qjphltd/dwhl/zfrpc/cqv/vdpnmst': {'files': 443516, 'dirs': []}, '/qjphltd/dwhl/zfrpc/llwsnsd': {'files': 221957, 'dirs': ['/qjphltd/dwhl/zfrpc/llwsnsd/glhdqhf', '/qjphltd/dwhl/zfrpc/llwsnsd/wblwwf', '/qjphltd/dwhl/zfrpc/llwsnsd/wlfprc', '/qjphltd/dwhl/zfrpc/llwsnsd/zrjzmj']}, '/qjphltd/dwhl/zfrpc/llwsnsd/glhdqhf': {'files': 100360, 'dirs': []}, '/qjphltd/dwhl/zfrpc/llwsnsd/wblwwf': {'files': 209990, 'dirs': []}, '/qjphltd/dwhl/zfrpc/llwsnsd/wlfprc': {'files': 97159, 'dirs': []}, '/qjphltd/dwhl/zfrpc/llwsnsd/zrjzmj': {'files': 247974, 'dirs': []}, '/qjphltd/dwhl/zfrpc/qrmg': {'files': 426517, 'dirs': []}, '/qjphltd/fcqfgnvh': {'files': 600461, 'dirs': ['/qjphltd/fcqfgnvh/gbzslwz', '/qjphltd/fcqfgnvh/nsdgz']}, '/qjphltd/fcqfgnvh/gbzslwz': {'files': 0, 'dirs': ['/qjphltd/fcqfgnvh/gbzslwz/njzvwjh']}, '/qjphltd/fcqfgnvh/gbzslwz/njzvwjh': {'files': 44070, 'dirs': []}, '/qjphltd/fcqfgnvh/nsdgz': {'files': 175509, 'dirs': ['/qjphltd/fcqfgnvh/nsdgz/cmfz', '/qjphltd/fcqfgnvh/nsdgz/wlfprc']}, '/qjphltd/fcqfgnvh/nsdgz/cmfz': {'files': 37680, 'dirs': []}, '/qjphltd/fcqfgnvh/nsdgz/wlfprc': {'files': 273982, 'dirs': []}, '/qjphltd/ltm': {'files': 19761, 'dirs': []}, '/qjphltd/mbbvp': {'files': 58709, 'dirs': []}, '/qjphltd/mgnl': {'files': 716199, 'dirs': ['/qjphltd/mgnl/bpc', '/qjphltd/mgnl/chvtw', '/qjphltd/mgnl/qwjp', '/qjphltd/mgnl/vfrbjgdm', '/qjphltd/mgnl/ztpggl']}, '/qjphltd/mgnl/bpc': {'files': 600825, 'dirs': ['/qjphltd/mgnl/bpc/chvtw', '/qjphltd/mgnl/bpc/dzlv', '/qjphltd/mgnl/bpc/hdvdfnw', '/qjphltd/mgnl/bpc/nsdgz', '/qjphltd/mgnl/bpc/pds']}, '/qjphltd/mgnl/bpc/chvtw': {'files': 29411, 'dirs': []}, '/qjphltd/mgnl/bpc/dzlv': {'files': 140503, 'dirs': []}, '/qjphltd/mgnl/bpc/hdvdfnw': {'files': 268049, 'dirs': ['/qjphltd/mgnl/bpc/hdvdfnw/hsjb', '/qjphltd/mgnl/bpc/hdvdfnw/pczq']}, '/qjphltd/mgnl/bpc/hdvdfnw/hsjb': {'files': 204248, 'dirs': []}, '/qjphltd/mgnl/bpc/hdvdfnw/pczq': {'files': 18842, 'dirs': []}, '/qjphltd/mgnl/bpc/nsdgz': {'files': 224130, 'dirs': ['/qjphltd/mgnl/bpc/nsdgz/bpgdn', '/qjphltd/mgnl/bpc/nsdgz/rll', '/qjphltd/mgnl/bpc/nsdgz/wlfprc']}, '/qjphltd/mgnl/bpc/nsdgz/bpgdn': {'files': 54889, 'dirs': []}, '/qjphltd/mgnl/bpc/nsdgz/rll': {'files': 135900, 'dirs': []}, '/qjphltd/mgnl/bpc/nsdgz/wlfprc': {'files': 533146, 'dirs': ['/qjphltd/mgnl/bpc/nsdgz/wlfprc/dwhl']}, '/qjphltd/mgnl/bpc/nsdgz/wlfprc/dwhl': {'files': 9122, 'dirs': []}, '/qjphltd/mgnl/bpc/pds': {'files': 308328, 'dirs': []}, '/qjphltd/mgnl/chvtw': {'files': 0, 'dirs': ['/qjphltd/mgnl/chvtw/vhspmg']}, '/qjphltd/mgnl/chvtw/vhspmg': {'files': 0, 'dirs': ['/qjphltd/mgnl/chvtw/vhspmg/flzpg']}, '/qjphltd/mgnl/chvtw/vhspmg/flzpg': {'files': 468658, 'dirs': []}, '/qjphltd/mgnl/qwjp': {'files': 734073, 'dirs': ['/qjphltd/mgnl/qwjp/crzqrz', '/qjphltd/mgnl/qwjp/gwwrhjh', '/qjphltd/mgnl/qwjp/nsdgz']}, '/qjphltd/mgnl/qwjp/crzqrz': {'files': 202759, 'dirs': []}, '/qjphltd/mgnl/qwjp/gwwrhjh': {'files': 0, 'dirs': ['/qjphltd/mgnl/qwjp/gwwrhjh/lvnsvm']}, '/qjphltd/mgnl/qwjp/gwwrhjh/lvnsvm': {'files': 191751, 'dirs': []}, '/qjphltd/mgnl/qwjp/nsdgz': {'files': 518123, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm': {'files': 524760, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw', '/qjphltd/mgnl/vfrbjgdm/fnw', '/qjphltd/mgnl/vfrbjgdm/gvddj', '/qjphltd/mgnl/vfrbjgdm/jdzsng', '/qjphltd/mgnl/vfrbjgdm/nsdgz']}, '/qjphltd/mgnl/vfrbjgdm/chvtw': {'files': 672231, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl', '/qjphltd/mgnl/vfrbjgdm/chvtw/fvfmzg', '/qjphltd/mgnl/vfrbjgdm/chvtw/mzmdjhjq', '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw', '/qjphltd/mgnl/vfrbjgdm/chvtw/wvgj']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl': {'files': 1168, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/frrsl', '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/vnzvmpmg', '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/frrsl': {'files': 164016, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/vnzvmpmg': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/vnzvmpmg/hfnjf']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/vnzvmpmg/hfnjf': {'files': 267448, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc': {'files': 88560, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/hsbg', '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/mgzvqhtr', '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/nbbdv']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/hsbg': {'files': 475407, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/hsbg/dwhl']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/hsbg/dwhl': {'files': 103303, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/mgzvqhtr': {'files': 159296, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/nbbdv': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/nbbdv/hnv']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/bfwl/wlfprc/nbbdv/hnv': {'files': 138102, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/fvfmzg': {'files': 205962, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/mzmdjhjq': {'files': 540929, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/mzmdjhjq/wlfprc', '/qjphltd/mgnl/vfrbjgdm/chvtw/mzmdjhjq/zrmt']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/mzmdjhjq/wlfprc': {'files': 171189, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/mzmdjhjq/zrmt': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/mzmdjhjq/zrmt/dwhl']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/mzmdjhjq/zrmt/dwhl': {'files': 75018, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw': {'files': 77110, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/lmplrbzc', '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/lmplrbzc': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/lmplrbzc/mmf']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/lmplrbzc/mmf': {'files': 127691, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq': {'files': 202107, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/qwfvql', '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/zhfg']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/qwfvql': {'files': 276153, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/qwfvql/tbldv']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/qwfvql/tbldv': {'files': 283957, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/zhfg': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/zhfg/wlfprc']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/zhfg/wlfprc': {'files': 273082, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/zhfg/wlfprc/dggm']}, '/qjphltd/mgnl/vfrbjgdm/chvtw/vdfw/ttq/zhfg/wlfprc/dggm': {'files': 197043, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/chvtw/wvgj': {'files': 163854, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/fnw': {'files': 84321, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/fnw/dmcbshg', '/qjphltd/mgnl/vfrbjgdm/fnw/mdvt']}, '/qjphltd/mgnl/vfrbjgdm/fnw/dmcbshg': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/fnw/dmcbshg/fsh']}, '/qjphltd/mgnl/vfrbjgdm/fnw/dmcbshg/fsh': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/fnw/dmcbshg/fsh/cgstfrbl']}, '/qjphltd/mgnl/vfrbjgdm/fnw/dmcbshg/fsh/cgstfrbl': {'files': 227959, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/fnw/mdvt': {'files': 52239, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/fnw/mdvt/mts', '/qjphltd/mgnl/vfrbjgdm/fnw/mdvt/pwrvqrjc', '/qjphltd/mgnl/vfrbjgdm/fnw/mdvt/qwrh']}, '/qjphltd/mgnl/vfrbjgdm/fnw/mdvt/mts': {'files': 242122, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/fnw/mdvt/pwrvqrjc': {'files': 489636, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/fnw/mdvt/qwrh': {'files': 240079, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj': {'files': 861237, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw', '/qjphltd/mgnl/vfrbjgdm/gvddj/vdpnmst', '/qjphltd/mgnl/vfrbjgdm/gvddj/zlh']}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/bcbgqzj', '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/dwhl', '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nhtz', '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr']}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/bcbgqzj': {'files': 199932, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/dwhl': {'files': 116043, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nhtz': {'files': 196534, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr': {'files': 236455, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/chvtw', '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/dwhl', '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/ncmpwvrd', '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/vdpnmst']}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/chvtw': {'files': 345612, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/dwhl': {'files': 0, 'dirs': ['/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/dwhl/dwhl']}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/dwhl/dwhl': {'files': 283831, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/ncmpwvrd': {'files': 311994, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj/cgbpbw/nlnbr/vdpnmst': {'files': 276326, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj/vdpnmst': {'files': 222659, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/gvddj/zlh': {'files': 245705, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/jdzsng': {'files': 121863, 'dirs': []}, '/qjphltd/mgnl/vfrbjgdm/nsdgz': {'files': 188613, 'dirs': []}, '/qjphltd/mgnl/ztpggl': {'files': 236782, 'dirs': ['/qjphltd/mgnl/ztpggl/vbrtv', '/qjphltd/mgnl/ztpggl/vdpnmst']}, '/qjphltd/mgnl/ztpggl/vbrtv': {'files': 35655, 'dirs': []}, '/qjphltd/mgnl/ztpggl/vdpnmst': {'files': 595973, 'dirs': []}, '/qjphltd/nhmqcpdl': {'files': 0, 'dirs': ['/qjphltd/nhmqcpdl/dwhl', '/qjphltd/nhmqcpdl/nsdgz', '/qjphltd/nhmqcpdl/tgwtvm']}, '/qjphltd/nhmqcpdl/dwhl': {'files': 253652, 'dirs': []}, '/qjphltd/nhmqcpdl/nsdgz': {'files': 208378, 'dirs': []}, '/qjphltd/nhmqcpdl/tgwtvm': {'files': 0, 'dirs': ['/qjphltd/nhmqcpdl/tgwtvm/jptp', '/qjphltd/nhmqcpdl/tgwtvm/qdjl', '/qjphltd/nhmqcpdl/tgwtvm/qngflrgr']}, '/qjphltd/nhmqcpdl/tgwtvm/jptp': {'files': 168263, 'dirs': []}, '/qjphltd/nhmqcpdl/tgwtvm/qdjl': {'files': 149177, 'dirs': []}, '/qjphltd/nhmqcpdl/tgwtvm/qngflrgr': {'files': 336924, 'dirs': []}, '/qjphltd/tvplqllb': {'files': 283874, 'dirs': ['/qjphltd/tvplqllb/hpfr', '/qjphltd/tvplqllb/wdgzsg']}, '/qjphltd/tvplqllb/hpfr': {'files': 829132, 'dirs': ['/qjphltd/tvplqllb/hpfr/bbgbnr', '/qjphltd/tvplqllb/hpfr/dwhl', '/qjphltd/tvplqllb/hpfr/jvddlfsf', '/qjphltd/tvplqllb/hpfr/wlfprc']}, '/qjphltd/tvplqllb/hpfr/bbgbnr': {'files': 312875, 'dirs': ['/qjphltd/tvplqllb/hpfr/bbgbnr/nsjfgmrs']}, '/qjphltd/tvplqllb/hpfr/bbgbnr/nsjfgmrs': {'files': 167856, 'dirs': ['/qjphltd/tvplqllb/hpfr/bbgbnr/nsjfgmrs/ppwm', '/qjphltd/tvplqllb/hpfr/bbgbnr/nsjfgmrs/vztfzgrd']}, '/qjphltd/tvplqllb/hpfr/bbgbnr/nsjfgmrs/ppwm': {'files': 161664, 'dirs': []}, '/qjphltd/tvplqllb/hpfr/bbgbnr/nsjfgmrs/vztfzgrd': {'files': 213100, 'dirs': []}, '/qjphltd/tvplqllb/hpfr/dwhl': {'files': 124522, 'dirs': []}, '/qjphltd/tvplqllb/hpfr/jvddlfsf': {'files': 78145, 'dirs': []}, '/qjphltd/tvplqllb/hpfr/wlfprc': {'files': 143769, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg': {'files': 622644, 'dirs': ['/qjphltd/tvplqllb/wdgzsg/gbcqgszh', '/qjphltd/tvplqllb/wdgzsg/jzhvmj', '/qjphltd/tvplqllb/wdgzsg/mvvltrs', '/qjphltd/tvplqllb/wdgzsg/wlfprc']}, '/qjphltd/tvplqllb/wdgzsg/gbcqgszh': {'files': 540766, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg/jzhvmj': {'files': 528464, 'dirs': ['/qjphltd/tvplqllb/wdgzsg/jzhvmj/wlfprc']}, '/qjphltd/tvplqllb/wdgzsg/jzhvmj/wlfprc': {'files': 179811, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg/mvvltrs': {'files': 526785, 'dirs': ['/qjphltd/tvplqllb/wdgzsg/mvvltrs/chvtw', '/qjphltd/tvplqllb/wdgzsg/mvvltrs/dqvlqnn', '/qjphltd/tvplqllb/wdgzsg/mvvltrs/thwdjln', '/qjphltd/tvplqllb/wdgzsg/mvvltrs/wjl', '/qjphltd/tvplqllb/wdgzsg/mvvltrs/wlfprc']}, '/qjphltd/tvplqllb/wdgzsg/mvvltrs/chvtw': {'files': 287521, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg/mvvltrs/dqvlqnn': {'files': 42736, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg/mvvltrs/thwdjln': {'files': 165937, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg/mvvltrs/wjl': {'files': 49897, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg/mvvltrs/wlfprc': {'files': 222869, 'dirs': ['/qjphltd/tvplqllb/wdgzsg/mvvltrs/wlfprc/chvtw']}, '/qjphltd/tvplqllb/wdgzsg/mvvltrs/wlfprc/chvtw': {'files': 84667, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg/wlfprc': {'files': 620323, 'dirs': ['/qjphltd/tvplqllb/wdgzsg/wlfprc/dwhl', '/qjphltd/tvplqllb/wdgzsg/wlfprc/rvgrjsps']}, '/qjphltd/tvplqllb/wdgzsg/wlfprc/dwhl': {'files': 245482, 'dirs': []}, '/qjphltd/tvplqllb/wdgzsg/wlfprc/rvgrjsps': {'files': 62849, 'dirs': []}, '/wlfprc': {'files': 365002, 'dirs': []}, '/zqvh': {'files': 124084, 'dirs': []}, '/zzmgz': {'files': 143006, 'dirs': ['/zzmgz/vdpnmst']}, '/zzmgz/vdpnmst': {'files': 652957, 'dirs': ['/zzmgz/vdpnmst/chvtw', '/zzmgz/vdpnmst/dwhl', '/zzmgz/vdpnmst/jtbh', '/zzmgz/vdpnmst/lwbqctd', '/zzmgz/vdpnmst/vdpnmst']}, '/zzmgz/vdpnmst/chvtw': {'files': 241211, 'dirs': []}, '/zzmgz/vdpnmst/dwhl': {'files': 79390, 'dirs': []}, '/zzmgz/vdpnmst/jtbh': {'files': 678422, 'dirs': []}, '/zzmgz/vdpnmst/lwbqctd': {'files': 0, 'dirs': ['/zzmgz/vdpnmst/lwbqctd/dbfbfjjw', '/zzmgz/vdpnmst/lwbqctd/qbn', '/zzmgz/vdpnmst/lwbqctd/qqqfdrst', '/zzmgz/vdpnmst/lwbqctd/zhzrhzcv']}, '/zzmgz/vdpnmst/lwbqctd/dbfbfjjw': {'files': 134943, 'dirs': []}, '/zzmgz/vdpnmst/lwbqctd/qbn': {'files': 298379, 'dirs': ['/zzmgz/vdpnmst/lwbqctd/qbn/bdg']}, '/zzmgz/vdpnmst/lwbqctd/qbn/bdg': {'files': 666468, 'dirs': ['/zzmgz/vdpnmst/lwbqctd/qbn/bdg/gmlqjh', '/zzmgz/vdpnmst/lwbqctd/qbn/bdg/phvf']}, '/zzmgz/vdpnmst/lwbqctd/qbn/bdg/gmlqjh': {'files': 116934, 'dirs': []}, '/zzmgz/vdpnmst/lwbqctd/qbn/bdg/phvf': {'files': 43516, 'dirs': ['/zzmgz/vdpnmst/lwbqctd/qbn/bdg/phvf/dqbjm']}, '/zzmgz/vdpnmst/lwbqctd/qbn/bdg/phvf/dqbjm': {'files': 180654, 'dirs': []}, '/zzmgz/vdpnmst/lwbqctd/qqqfdrst': {'files': 91953, 'dirs': []}, '/zzmgz/vdpnmst/lwbqctd/zhzrhzcv': {'files': 389364, 'dirs': []}, '/zzmgz/vdpnmst/vdpnmst': {'files': 448209, 'dirs': ['/zzmgz/vdpnmst/vdpnmst/htgbz']}, '/zzmgz/vdpnmst/vdpnmst/htgbz': {'files': 75079, 'dirs': []}}
+1447046
