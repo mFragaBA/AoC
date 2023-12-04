@@ -1,0 +1,208 @@
+DATA:
+inputContents is text
+inFile is text          # Relative path to the input file
+problemNumber is text   # Can be 1 or 2
+
+PROCEDURE:
+  sub isInBounds
+    parameters:
+      lines is text list
+      lineNo is number
+      charNo is number
+      result is number
+    local data:
+      numLines is number
+      numChars is number
+    procedure:
+      # Returns 0 if that line number and char number are not in bounds. 1 otherwise
+      GET LENGTH OF lines IN numLines
+      IF lineNo IS LESS THAN 0 OR lineNo IS GREATER THAN OR EQUAL TO numLines THEN
+        STORE 0 IN result
+      ELSE
+        GET LENGTH OF lines:lineNo IN numChars
+        IF charNo IS LESS THAN 0 OR charNo IS GREATER THAN OR EQUAL TO numChars THEN
+          STORE 0 IN result
+        ELSE
+          STORE 1 IN result
+        END IF
+      END IF
+  end sub
+
+  sub isSymbol
+    parameters:
+      lines is text list
+      lineNo is number
+      charNo is number
+      result is number
+    local data:
+      zeroAsciiCode is number
+      nineAsciiCode is number
+      dotAsciiCode is number
+      asciiCode is number
+      line is text
+    procedure:
+      # Returns 1 if lines:lineNo:charNo is a Symbol (other than '.')
+      GET CHARACTER CODE OF "0" IN zeroAsciiCode
+      GET CHARACTER CODE OF "9" IN nineAsciiCode
+      GET CHARACTER CODE OF "." IN dotAsciiCode
+      STORE lines:lineNo IN line
+      GET CHARACTER CODE OF line:charNo IN asciiCode
+      IF asciiCode IS LESS THAN zeroAsciiCode OR asciiCode IS GREATER THAN nineAsciiCode THEN
+        IF asciiCode IS EQUAL TO dotAsciiCode THEN
+          STORE 0 IN result
+        ELSE
+          STORE 1 IN result
+        END IF
+      ELSE
+        # It's a number
+        STORE 0 IN result
+      END IF
+  end sub
+
+  sub getSubstrNumberValue
+    parameters:
+      line is text
+      charStart is number
+      charEnd is number
+      result is number
+    local data:
+      numChars is number
+      tempNumberStr is text
+    procedure:
+      IN numChars SOLVE (charEnd - charStart) + 1
+      SUBSTRING line FROM charStart LENGTH numChars IN tempNumberStr
+      STORE tempNumberStr IN result
+  end sub
+
+  sub maybeGetNumberAmount 
+    parameters:
+      lines is text list
+      lineNo is number
+      charStart is number
+      charEnd is number
+      result is number
+    local data:
+      lineFrom is number
+      lineTo is number
+      charFrom is number
+      charTo is number
+      line is number
+      char is number
+      inBounds is number
+      isSymbol is number
+    procedure:
+      IN lineFrom SOLVE lineNo - 1
+      IN lineTo SOLVE lineNo + 2
+      IN charFrom SOLVE charStart - 1
+      IN charTo SOLVE charEnd + 2
+      # Returns 0 if number should not be taken into account, otherwise the number as number instead of text
+      FOR line FROM lineFrom TO lineTo STEP 1 DO
+          FOR char FROM charFrom TO charTo STEP 1 DO
+              call isInBounds with lines line char inBounds
+              IF inBounds IS EQUAL TO 1 THEN
+                call isSymbol with lines line char isSymbol
+                IF isSymbol IS EQUAL TO 1 THEN
+                  call getSubstrNumberValue with lines:lineNo charStart charEnd result
+                  return
+                END IF
+              END IF
+          REPEAT
+      REPEAT
+
+      STORE 0 IN result
+  end sub
+
+  sub firstProblem
+    parameters:
+      input is text
+    local data:
+      lines is text list
+      numLines is number
+      line is text
+      lineIndex is number
+      charIndex is number
+      lineLength is number
+      currentNumberStart is number
+      currentNumberEnd is number
+      zeroAsciiCode is number
+      nineAsciiCode is number
+      currentCharAsciiCode is number
+      currentNumber is number
+      accum is number
+    procedure:
+      #DISPLAY input CRLF
+      SPLIT input BY "\n" IN lines
+      GET CHARACTER CODE OF "0" IN zeroAsciiCode
+      GET CHARACTER CODE OF "9" IN nineAsciiCode
+      GET LENGTH OF lines IN numLines
+      STORE 0 IN accum
+      IN numLines SOLVE numLines - 1
+      FOR lineIndex FROM 0 TO numLines STEP 1 DO
+          STORE lines:lineIndex IN line
+          GET LENGTH OF line IN lineLength
+          STORE 0 IN charIndex
+          
+          WHILE charIndex IS LESS THAN lineLength DO
+              # advance until start of number
+              GET CHARACTER CODE OF line:charIndex IN currentCharAsciiCode
+              WHILE currentCharAsciiCode IS LESS THAN zeroAsciiCode OR currentCharAsciiCode IS GREATER THAN nineAsciiCode DO
+                IN charIndex SOLVE charIndex + 1
+                IF charIndex IS GREATER THAN OR EQUAL TO lineLength THEN
+                  BREAK
+                END IF
+                GET CHARACTER CODE OF line:charIndex IN currentCharAsciiCode
+              REPEAT
+              STORE charIndex in currentNumberStart
+          
+              # advance until end of number
+              IF charIndex IS GREATER THAN OR EQUAL TO lineLength THEN
+                STORE charIndex IN currentNumberEnd
+              ELSE
+                GET CHARACTER CODE OF line:charIndex IN currentCharAsciiCode
+                WHILE currentCharAsciiCode IS GREATER THAN OR EQUAL TO zeroAsciiCode AND currentCharAsciiCode IS LESS THAN OR EQUAL TO nineAsciiCode DO
+                  IN charIndex SOLVE charIndex + 1
+                  IF charIndex IS GREATER THAN OR EQUAL TO lineLength THEN
+                    BREAK
+                  END IF
+                  GET CHARACTER CODE OF line:charIndex IN currentCharAsciiCode
+                REPEAT
+                STORE charIndex IN currentNumberEnd
+              END IF
+              IN currentNumberEnd SOLVE currentNumberEnd - 1
+
+              #Check if we have a number
+              if currentNumberEnd IS GREATER THAN OR EQUAL TO currentNumberStart THEN
+                #DISPLAY "Number found from " currentNumberStart " to " currentNumberEnd ";" CRLF
+                call maybeGetNumberAmount with lines lineIndex currentNumberStart currentNumberEnd currentNumber
+                #DISPLAY "NUMBER AMOUNT " currentNumber CRLF
+                IN accum SOLVE accum + currentNumber
+              end if
+              IN charIndex SOLVE charIndex + 1
+          REPEAT
+          #DISPLAY CRLF "================" CRLF
+      REPEAT
+
+      DISPLAY "FINAL SUM " accum CRLF
+  end sub
+
+  sub secondProblem
+    parameters:
+      input is text
+    local data:
+    procedure:
+      DISPLAY "NOT IMPLEMENTED YET"
+      EXIT
+  end sub
+
+  store argv:0 IN inFile
+  store argv:1 IN problemNumber
+  LOAD FILE argv:0 IN inputContents
+
+  if problemNumber is equal to "1" then
+    call firstProblem with inputContents
+  else if problemNumber is equal to "2" then
+    call secondProblem with inputContents
+  else
+    DISPLAY "WRONG PROBLEM NUMBER! Exiting..."
+    EXIT
+  end if
