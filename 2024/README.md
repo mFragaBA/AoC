@@ -9,3 +9,4 @@
 This week's language is gonna be [odin](https://odin-lang.org/) (props to [@lucypero](https://www.github.com/lucypero) for the shilling)
 
 - [Day 1 Notes](./d1/notes.md)
+- [Day 2 Notes](./d2/notes.md)
