@@ -56,6 +56,8 @@ Not caring too much about efficiency and because I did a first implementation an
 
 odin has slices so it was quite easy to do this by using `report[:i]` and `report[i+1:]` to construct a new `Report`. It also supports appending slices to a dynamic array so no changes in types were needed, though a solution only using slices would probably be more efficient.
 
+> Slices are like references to arrays; they do not store any data, rather they describe a section, or slice, of underlying data.
+
 ## Part 3(?)
 
 Ok, ok. I got curious if using slices would make a difference. I copied the same code with the exception of `is_safe` receving a slice instead of a dynamic array (sorry `Report`, you're now a useless type alias). And did a few measurements using [hyperfine](https://github.com/sharkdp/hyperfine):
