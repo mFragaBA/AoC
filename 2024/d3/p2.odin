@@ -85,17 +85,54 @@ read_mul :: proc(program: string, start: int) -> (Maybe(Mul), int) {
 	return mul, current_idx
 }
 
+read_dont :: proc(program: string, start: int) -> Maybe(int) {
+	end := min(start + 7, len(program))
+
+	if program[start:end] != "don't()" {
+		return nil
+	}
+
+	return start + 6
+}
+
+read_do :: proc(program: string, start: int) -> Maybe(int) {
+	end := min(start + 4, len(program))
+
+	if program[start:end] != "do()" {
+		return nil
+	}
+
+	return start + 3
+}
+
 process_lines :: proc(lines: [dynamic]string) -> [dynamic]Mul {
 	muls : [dynamic]Mul
+	accepting_muls : bool = true
 	for line in lines {
 		i : int = 0
 
 		for i < len(line) {
+			do_end, do_ok := read_do(line, i).?
+
+			if do_ok {
+				accepting_muls = true
+				i = do_end + 1
+				continue
+			}
+
+			dont_end, dont_ok := read_dont(line, i).?
+
+			if dont_ok {
+				accepting_muls = false
+				i = dont_end + 1
+				continue
+			}
+
 			maybe_mul, end := read_mul(line, i)
 			
 			mul, ok := maybe_mul.?
 
-			if ok {
+			if ok && accepting_muls {
 				append(&muls, mul)
 				i = end + 1
 			} else {
