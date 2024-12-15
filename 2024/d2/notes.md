@@ -81,3 +81,73 @@ Nice, it got a tiny bit faster! That being said, hyperfine shows us this warning
 ```
 
 So we have to take this with a pinch of salt. But the results are somewhat expected since we are keeping one version of each Report instead of a different one for each element.
+
+## Part 4 (okay, let's not drag it THAT long)
+
+If we look at the code we might be satisfied with the result, but as a CS major i've been taught to optimize no matter what (code simplicity, readability and mantainability what?). So not being satisfied enough, we want to make this bad boy fly.
+
+Again, as a cs major I cannot stop thinking about computational complexity. I'm not gonna do a series on that, but [here's](https://medium.com/@DevChy/introduction-to-big-o-notation-time-and-space-complexity-f747ea5bca58) a link to an article that does that.
+
+If we stare at our code (the one for part 2) for a while, we might get to the conclusion that the running time for the algorithm is $$\mathcal{O}(L * N^2)$$, with $$L$$ being the amount of lines and $$N$$ being the length of the longest report (or each line). We already have to parse the file so at least we'll have a $$\mathcal{O}(L * N)$$ running time complexity. We are going to find a solution that has that exact running complexity.
+
+The $$L * N^2$$ appears because, for each line, we have to check each of the $$N$$ versions of the array that have an element removed (plus the one that has no removals) and for each of those check if it is sorted and has the proper spacing between elements (which adds the extra $$N$$).
+
+Hence, we'll find a way to check all versions of the array in just $$\mathcal{O}(N)$$ instead. To simplify the explanation, let's just assume that a safe report is one that is only increasing. You can check the code afterwards for the full implementation considering the decreasing possibility and the proper gaps. We are going to build the following arrays:
+
+- `D[i]` will contain the amount of levels before `R[i]`, the i-th report level that are consecutively **decreasing**. For example, if `R = [1, 2, 3, 2, 3]` you would have `D = [0, 1, 2, 0, 1]`. Note, that if `D[i] == i` then `D[0..i]` is increasing.
+- `I[i]` which similarly will contain the amount of levels **after** `R[i]` that are consecutively **increasing**. Try thinking what would `I` look like for the previous example. Likewise, if `I[i] == N - 1 - i` (`N` being the amount of levels in the report) then that means that from that level and onwards, `R[i..]` is increasing. 
+
+Each of those can be built with just a single iteration over the whole report:
+
+```
+R[0] = 0
+I[N-1] = 0
+D[i] = D[i-1] + 1 if R[i] > R[i-1], 0 otherwise
+I[i] = I[i+1] + 1 if R[i] < R[i+1], 0 otherwise
+```
+
+Then, having those it is possible to answer whether the report is safe without considering the i-th level or not by doing:
+
+```
+# Note: we're not considering i == 0 nor i == N-1 here
+is_safe_without_ith_level(R, D, I, i):
+	return D[i-1] == i-1 && I[i+1] == (N - 1 - (i+1)) && R[i-1] < R[i+1]
+```
+
+And note that this is $$\mathcal{O}(1)$$! So it grants us the desired complexity.
+
+### Benchmark time!
+
+So, I re-ran the same benchmarks as before, but I noticed hyperfine provides this option:
+
+```bash
+You can try to use the `-N`/`--shell=none` option to disable the shell completely
+```
+
+This might give us a bit better results:
+
+```bash
+Benchmark 1: ./p2
+  Time (mean ± σ):       4.9 ms ±   1.2 ms    [User: 3.6 ms, System: 1.1 ms]
+  Range (min … max):     2.5 ms …   7.4 ms    481 runs
+
+# Note: p3 usually had a first run with an outlier
+hyperfine --warmup 3 './p3' -N
+Benchmark 1: ./p3
+  Time (mean ± σ):     666.5 µs ± 130.1 µs    [User: 260.3 µs, System: 251.8 µs]
+  Range (min … max):   404.0 µs … 1329.7 µs    2521 runs
+
+
+hyperfine --warmup 3 './p4' -N
+Benchmark 1: ./p4
+  Time (mean ± σ):       3.5 ms ±   0.9 ms    [User: 2.5 ms, System: 0.9 ms]
+  Range (min … max):     1.8 ms …   5.4 ms    608 runs
+```
+
+wait WHAT?!?!?! I thought smaller complexity would lead to better running time! How foolish was I to believe such lies...
+
+### A note on time complexity
+
+Let's address one thing. Take a look at the input file for day 2. What can you see? Yes, look at each report. They are usually no longer than 8-10 levels. If you are familiar with $$/mathcal{O}$$ notation, you should know that **it hides the constant in the running time calculation**. It has some reasoning behind that. For bigger instances, the constant is usually not relevant. But for small instances as these ones, it does. 
+
+So, making the final optimization **gave us a better theoretical complexity but at the expense of code complexity, readability, worse running time for the instances the problem has and mor**. This is usually a common mistake most devs make (myself included) and for which we have to resist the urge to optimize for theoritical complexity, or a solution that seems more "elegant", whatever way you wanna name it.
