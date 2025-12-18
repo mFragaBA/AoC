@@ -2,7 +2,6 @@ package main
 
 import "core:fmt"
 import "core:os"
-import "core:strconv"
 import "core:strings"
 
 char_to_int :: proc(c: u8) -> int {
